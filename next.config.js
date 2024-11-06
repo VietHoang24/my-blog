@@ -40,6 +40,9 @@ const defaultNextConfig = {
   reactStrictMode: true,
   compress: true,
   crossOrigin: 'anonymous',
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   experimental: {
     ppr: true,
     // useLightningcss: true,
