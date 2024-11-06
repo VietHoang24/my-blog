@@ -21,9 +21,10 @@ export const metadata = {
       "I'm a passionate and creative full-stack software engineer from Vietnam 🇻🇳. Visit my website to learn more about me and my projects",
     keywords: [
       'Viet Salt',
+      'Viet Salt Dev',
       'jahir',
       'fiquitiva',
-      'jahirfiquitiva',
+      'VietHoang24',
       'open-source',
       'full-stack',
       'software engineer',

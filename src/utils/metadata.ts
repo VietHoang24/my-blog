@@ -27,8 +27,8 @@ export const createMetadata = (data: {
       title,
       description,
       card: 'summary_large_image',
-      creator: '@jahirfiquitiva',
-      site: '@jahirfiquitiva',
+      creator: '@VietHoang24',
+      site: '@VietHoang24',
     },
     verification: {
       google: 'lJwL3cKpjX_Eqp6yEY4hsydJazQl85xv29ZUmEg4oEE',

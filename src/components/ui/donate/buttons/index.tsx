@@ -14,7 +14,7 @@ export const DonateButtons = () => {
       <h2 className={'text-lg'}>Donate via</h2>
       <div className={'flex flex-row items-center gap-4 flex-wrap'}>
         <GitHubSponsorsLink
-          href={'https://github.com/sponsors/jahirfiquitiva'}
+          href={'https://github.com/sponsors/VietHoang24'}
           title={'Sponsor Jahir on GitHub'}
           data-umami-event={'Donate'}
           data-umami-event-via={'GitHub Sponsors'}
@@ -28,7 +28,7 @@ export const DonateButtons = () => {
           <span>GitHub Sponsors</span>
         </GitHubSponsorsLink>
         <BuyMeACoffeeLink
-          href={'https://buymeacoffee.com/jahirfiquitiva'}
+          href={'https://buymeacoffee.com/VietHoang24'}
           title={'Buy Jahir a Coffee'}
           data-umami-event={'Donate'}
           data-umami-event-via={'Buy me a Coffee'}

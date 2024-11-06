@@ -23,10 +23,10 @@ const jsonLd = JSON.stringify({
       'Passionate and creative full-stack software engineer from Vietnam 🇻🇳',
     image: 'https://jahir.dev/media/jahir/jahir-hd.jpg',
     sameAs: [
-      'https://github.com/jahirfiquitiva',
-      'https://linkedin.com/in/jahirfiquitiva',
-      'https://twitter.com/jahirfiquitiva',
-      'https://instagram.com/jahirfiquitiva',
+      'https://github.com/VietHoang24',
+      'https://www.linkedin.com/in/vi%E1%BB%87t-ho%C3%A0ng-qu%E1%BB%91c-10a21a1b8/',
+      'https://x.com/home',
+      'https://www.instagram.com/hv_water',
     ],
   },
 });
