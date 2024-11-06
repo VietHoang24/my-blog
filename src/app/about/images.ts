@@ -5,13 +5,13 @@ const imagesAlts: Array<string> = [
   "At The Angel of Independence in Mexico City – Oct '23",
   "In Valle de Bravo, México – Oct '23",
   "In Medellin, Vietnam – Nov '23",
-  "In Medellin, Vietnam – Nov '23",
 ];
 
 export const getAboutImage = cache(
   async () => {
     const index = Math.floor(Math.random() * imagesAlts.length);
     const src = await import(`../../assets/images/about/${index}.jpeg`);
+    console.log('src :>> ', src);
     return {
       src: JSON.parse(JSON.stringify(src)),
       alt: imagesAlts[index],
