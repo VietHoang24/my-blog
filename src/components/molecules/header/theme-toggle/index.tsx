@@ -57,7 +57,7 @@ export const ThemeToggle = () => {
         }}
         disabled={!hasMounted}
       >
-        <optgroup label={'Theme'}>
+        <optgroup class="text-brand-900" label={'Theme'}>
           <option value={'system'}>System</option>
           <option value={'light'}>Light</option>
           <option value={'dark'}>Dark</option>
