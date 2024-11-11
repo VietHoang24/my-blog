@@ -20,9 +20,9 @@ export const getRepoReleaseData = async (name?: string) => {
     const { assets = [] } = data;
     const extraRepoData = {
       success: false,
-      url: `https://github.com/jahirfiquitiva/${name}`,
+      url: `https://github.com/VietHoang24/${name}`,
     };
-    const defaultDownloadLink = `https://github.com/jahirfiquitiva/${name}/releases/latest/`;
+    const defaultDownloadLink = `https://github.com/VietHoang24/${name}/releases/latest/`;
     let downloadLink = defaultDownloadLink;
     if (assets) {
       const [apk] = assets;

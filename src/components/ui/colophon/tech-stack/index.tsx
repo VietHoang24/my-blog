@@ -66,7 +66,7 @@ const StackIcons = () => (
     <IconContainer>
       <IconLink
         title={'View source code on GitHub'}
-        href={'https://github.com/jahirfiquitiva/jahir.dev'}
+        href={'https://github.com/VietHoang24/'}
       >
         <Icon path={github} className={'size-12'} />
       </IconLink>
@@ -112,7 +112,7 @@ export const TechStack = () => (
       , and if you&apos;re curious, feel free to explore the source code{' '}
       <Link
         title={'View source code on GitHub'}
-        href={'https://github.com/jahirfiquitiva/jahir.dev'}
+        href={'https://github.com/VietHoang24/'}
       >
         on GitHub
       </Link>

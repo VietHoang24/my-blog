@@ -63,7 +63,7 @@ export default function AboutPage() {
         <p className={'max-w-nice'}>
           I&apos;m a huge advocate for open source and collaborating with the
           community. You can find my stash of websites, libraries, and apps on{' '}
-          <Link title={'GitHub'} href={'https://github.com/jahirfiquitiva'}>
+          <Link title={'GitHub'} href={'https://github.com/VietHoang24/'}>
             GitHub
           </Link>{' '}
           which have earned over 2K stars.
