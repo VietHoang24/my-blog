@@ -31,7 +31,9 @@ export const Music = () => {
             ? 'tunez playlist on Spotify'
             : `"${track.name}" by "${track.artist}" on Spotify`
       }
-      href={track?.url || 'https://tunez.jahir.dev'}
+      href={
+        track?.url || 'https://open.spotify.com/playlist/18MyWYQrwonjDA5zyTZfXZ'
+      }
       target={'_blank'}
       className={cx(
         loading ? 'motion-safe:animate-pulse' : '',
@@ -100,7 +102,7 @@ export const Music = () => {
               isPlaying ? 'group-hocus/track:decoration-wavy' : '',
             )}
           >
-            {loading ? '' : track?.name ?? 'tunez'}
+            {loading ? '' : track?.name ?? 'Spotfify playlist'}
           </TrackName>
           <TrackArtist className={loading ? 'bg-divider' : ''}>
             {loading ? '' : track?.artist ?? '99 top recently listened songs'}
