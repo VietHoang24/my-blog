@@ -63,8 +63,9 @@ export const Intro = () => {
             </Link>
           </span>
           <span>
-            Detail-driven, I strive to build great-looking, user-friendly
-            software while enhancing my skills along the way
+            Detail-driven, I focus on crafting intuitive, visually engaging
+            software and am always eager to advance my expertise along the
+            journey.
           </span>
         </p>
       </div>

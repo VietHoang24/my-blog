@@ -18,7 +18,7 @@ export const metadata = {
     title: 'Viet Salt – Full-stack Software Engineer',
     description:
       // eslint-disable-next-line max-len
-      "I'm a passionate and creative full-stack software engineer from Vietnam 🇻🇳. Visit my website to learn more about me and my projects",
+      "I'm Viet Salt, a passionate and creative full-stack software engineer from Vietnam 🇻🇳. Visit my website to learn more about me and my projects",
     keywords: [
       'Viet Salt',
       'Viet Salt Dev',

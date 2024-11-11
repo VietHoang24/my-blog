@@ -88,11 +88,8 @@ export default function AboutPage() {
         </h2>
         <p>
           Feel free to reach out to me at{' '}
-          <Link
-            title={'Email'}
-            href={'mailto:hola@jahir.dev?subject=Hi%20Jahir!'}
-          >
-            hola@jahir.dev
+          <Link title={'Email'} href={'mailto:vietprock@gmail.com'}>
+            vietprock@gmail.com
           </Link>
           , or find me on social media:
         </p>

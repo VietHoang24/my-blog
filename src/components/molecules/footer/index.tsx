@@ -32,7 +32,7 @@ export const Footer = () => {
           <span className={'text-accent'}>Viet Salt</span>
         </FooterLink>
         <Description>
-          Passionate and creative full-stack software engineer from Vietnam{' '}
+          a passionate and creative full-stack software engineer from Vietnam{' '}
           <span role={'img'} aria-label={'Vietnam flag'}>
             🇻🇳
           </span>

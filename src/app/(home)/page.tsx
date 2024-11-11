@@ -12,7 +12,7 @@ const jsonLd = JSON.stringify({
   logo: 'https://jahir.dev/media/brand/logo-full.png',
   name: 'Viet Salt',
   description:
-    'Passionate and creative full-stack software engineer from Vietnam 🇻🇳',
+    'a passionate and creative full-stack software engineer from Vietnam 🇻🇳',
   email: 'hola@jahir.dev',
   foundingDate: new Date('1997-01-28T18:30:00-05:00').toISOString(),
 });
