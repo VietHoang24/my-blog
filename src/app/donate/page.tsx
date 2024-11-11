@@ -44,22 +44,16 @@ export default function DonatePage() {
           Since 2015, I&apos;ve crafted three open-source Android dashboards –{' '}
           <Link
             title={'Blueprint'}
-            href={'https://github.com/jahirfiquitiva/blueprint'}
+            href={'https://github.com/VietHoang24/blueprint'}
           >
             Blueprint
           </Link>
           ,{' '}
-          <Link
-            title={'Frames'}
-            href={'https://github.com/jahirfiquitiva/frames'}
-          >
+          <Link title={'Frames'} href={'https://github.com/VietHoang24/frames'}>
             Frames
           </Link>
           , and{' '}
-          <Link
-            title={'Kuper'}
-            href={'https://github.com/jahirfiquitiva/kuper'}
-          >
+          <Link title={'Kuper'} href={'https://github.com/VietHoang24/kuper'}>
             Kuper
           </Link>{' '}
           – empowering designers to create countless apps for the{' '}

@@ -25,7 +25,7 @@ const ErrorComponent = (props: { error: Error }) => {
         <Link
           title={'Create issue on GitHub'}
           href={
-            'https://github.com/jahirfiquitiva/jahir.dev/issues/new?assignees=jahirfiquitiva&labels=bug&template=1_bug_report.yaml'
+            'https://github.com/VietHoang24/issues/new?assignees=jahirfiquitiva&labels=bug&template=1_bug_report.yaml'
           }
         >
           share the details

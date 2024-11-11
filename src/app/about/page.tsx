@@ -66,7 +66,6 @@ export default function AboutPage() {
           <Link title={'GitHub'} href={'https://github.com/VietHoang24/'}>
             GitHub
           </Link>{' '}
-          which have earned over 2K stars.
         </p>
         <p className={'max-w-nice'}>
           I&apos;m all about diving into challenges improving and expanding my

@@ -77,7 +77,7 @@ export default function BlogPostPage(context: BlogPostPageContext) {
           <ShareButton title={'Share blog post'} slug={slug || ''} />
           <OutlinedLinkButton
             title={'Edit blog post'}
-            href={`https://github.com/VietHoang24//edit/main/content/${slug}.mdx`}
+            href={`https://github.com/VietHoang24/edit/main/content/${slug}.mdx`}
             className={'pr-3.5'}
           >
             <Icon
