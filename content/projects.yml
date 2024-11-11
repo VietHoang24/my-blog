@@ -9,7 +9,7 @@
 
 - order: 1
   name: Anki chrome extension
-  description: A chrome extention to add new vocabulary to anki
+  description: A chrome extention to add new vocabulary to Anki
   icon: android/frames.png
   # preview: other/boyaconf-preview.png
   url: https://github.com/VietHoang24/Anki-convinient-adder-extention
