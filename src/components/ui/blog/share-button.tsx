@@ -9,7 +9,7 @@ import { useHasMounted } from '@/hooks/use-has-mounted';
 
 const shareUrl = (title: string, slug: string) =>
   `https://twitter.com/intent/tweet?text=${encodeURIComponent(
-    `"${title}" by @jahirfiquitiva\nhttps://jahir.dev/blog/${slug}`,
+    `"${title}" by @jahirfiquitiva\nhttps://vietsalt.vercel.app/blog/${slug}`,
   )}`;
 
 interface ShareButtonProps {
@@ -41,7 +41,7 @@ export const ShareButton = (props: ShareButtonProps) => {
     return {
       title,
       text: `"${title}" by @jahirfiquitiva`,
-      url: `https://jahir.dev/blog/${slug}`,
+      url: `https://vietsalt.vercel.app/blog/${slug}`,
     };
   }, [title, slug]);
 

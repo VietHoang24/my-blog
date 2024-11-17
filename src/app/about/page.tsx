@@ -21,7 +21,7 @@ const jsonLd = JSON.stringify({
     alternateName: ['jahirfiquitiva', 'jahirdotdev'],
     description:
       'Passionate and creative full-stack software engineer from Vietnam 🇻🇳',
-    image: 'https://jahir.dev/media/jahir/jahir-hd.jpg',
+    image: 'https://vietsalt.vercel.app/media/jahir/jahir-hd.jpg',
     sameAs: [
       'https://github.com/VietHoang24',
       'https://www.linkedin.com/in/vi%E1%BB%87t-ho%C3%A0ng-qu%E1%BB%91c-10a21a1b8/',
@@ -107,6 +107,6 @@ export default function AboutPage() {
 export const metadata = createMetadata({
   title: 'About – Viet Salt',
   description: 'Learn more about me (Viet Salt), my career and more',
-  exactUrl: 'https://jahir.dev/about',
+  exactUrl: 'https://vietsalt.vercel.app/about',
   keywords: ['bio', 'biography', 'information', 'about', 'career'],
 });

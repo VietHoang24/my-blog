@@ -1,4 +1,4 @@
-import { ProjectsList } from '@/components/ui/projects';
+import { ThemesList } from '@/components/ui/themes';
 import { createMetadata } from '@/utils/metadata';
 
 export const metadata = createMetadata({
@@ -6,7 +6,7 @@ export const metadata = createMetadata({
   description:
     // eslint-disable-next-line max-len
     "Projects by Viet Salt. Get to know the projects I'm most proud of. Many of them are open-source.",
-  exactUrl: 'https://vietsalt.vercel.app/projects',
+  exactUrl: 'https://vietsalt.vercel.app/themes',
   keywords: [
     'tech',
     'software',
@@ -20,5 +20,5 @@ export const metadata = createMetadata({
 });
 
 export default function ProjectsPage() {
-  return <ProjectsList title={'Projects'} />;
+  return <ThemesList title={'Danh sách mẫu thiết kế '} />;
 }

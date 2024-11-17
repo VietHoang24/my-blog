@@ -6,10 +6,10 @@ import { FeaturedBlogPosts } from './featured-posts';
 const jsonLd = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'Organization',
-  image: 'https://jahir.dev/media/jahir/jahir-hd.jpg',
-  url: 'https://jahir.dev',
-  sameAs: ['https://jahir.dev/about'],
-  logo: 'https://jahir.dev/media/brand/logo-full.png',
+  image: 'https://vietsalt.vercel.app/media/jahir/jahir-hd.jpg',
+  url: 'https://vietsalt.vercel.app',
+  sameAs: ['https://vietsalt.vercel.app/about'],
+  logo: 'https://vietsalt.vercel.app/media/brand/logo-full.png',
   name: 'Viet Salt',
   description:
     'a passionate and creative full-stack software engineer from Vietnam 🇻🇳',

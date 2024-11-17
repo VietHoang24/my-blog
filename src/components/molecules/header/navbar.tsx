@@ -19,10 +19,16 @@ import { ThemeToggle } from './theme-toggle';
 
 const toolbarLinksList = [
   {
+    title: 'Web templates',
+    href: '/themes',
+    className: 'text-yellow',
+  },
+  {
     title: 'About',
     href: '/about',
     className: 'text-green',
   },
+
   {
     title: 'Blog',
     href: '/blog',

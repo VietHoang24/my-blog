@@ -57,6 +57,6 @@ export function generateMetadata(
   return createMetadata({
     title: `${repo} Release Download – Viet Salt`,
     description: `Download the latest release artifacts from the ${repo} repository on GitHub`,
-    exactUrl: `https://jahir.dev/gh-releases/${repo}`,
+    exactUrl: `https://vietsalt.vercel.app/gh-releases/${repo}`,
   });
 }

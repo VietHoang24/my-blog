@@ -22,7 +22,7 @@ export const metadata = createMetadata({
   description:
     // eslint-disable-next-line max-len
     'Blog posts by Viet Salt. Here I share some thoughts, stories, information and more about software development, programming, tech or my personal life',
-  exactUrl: 'https://jahir.dev/blog',
+  exactUrl: 'https://vietsalt.vercel.app/blog',
   keywords: [
     'tech',
     'software',

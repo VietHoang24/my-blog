@@ -1,0 +1,39 @@
+- order: 1
+  name: Phụ kiện điện thoại
+  description: Một trang web chuyên cung cấp phụ kiện điện thoại như ốp lưng, sạc dự phòng, tai nghe với giá cả hợp lý và đa dạng mẫu mã.
+  icon: FaMobileAlt
+  url: http://phukiendienthoai.mauthemewp.com
+  color: "#FFA500"
+  repo: Ecommerce
+
+- order: 2
+  name: Xe Kia
+  description: Website giới thiệu và bán xe Kia với các dòng xe mới nhất, thông tin chi tiết và chương trình khuyến mãi hấp dẫn.
+  icon: FaCar
+  url: http://kia.mauthemewp.com
+  color: "#008080"
+  repo: Automotive
+
+- order: 3
+  name: Dịch vụ Marketing
+  description: Trang web cung cấp dịch vụ marketing chuyên nghiệp, bao gồm SEO, quảng cáo, và thiết kế chiến lược truyền thông.
+  icon: FaBullhorn
+  url: http://marketing.mauthemewp.com
+  color: "#FF6347"
+  repo: Agency
+
+- order: 4
+  name: Gym & Thể hình
+  description: Website cung cấp thông tin về các khóa tập gym, dụng cụ thể hình và dịch vụ huấn luyện viên cá nhân chuyên nghiệp.
+  icon: FaDumbbell
+  url: http://gym.mauthemewp.com
+  color: "#6A5ACD"
+  repo: Fitness
+
+- order: 5
+  name: Nghệ thuật và sáng tạo
+  description: Nơi trưng bày và bán các tác phẩm nghệ thuật, từ tranh vẽ, điêu khắc đến đồ thủ công mỹ nghệ độc đáo.
+  icon: FaPaintBrush
+  url: http://art.mauthemewp.com
+  color: "#FFD700"
+  repo: Portfolio

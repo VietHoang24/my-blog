@@ -29,12 +29,12 @@ const blogPostStructuredData = (post?: PartialBlog): string => {
     datePublished: date.toISOString(),
     dateModified: date.toISOString(),
     description: post.summary,
-    image: `https://jahir.dev/blog/${post.slug}/opengraph-image`,
-    url: `https://jahir.dev/blog/${post.slug}`,
+    image: `https://vietsalt.vercel.app/blog/${post.slug}/opengraph-image`,
+    url: `https://vietsalt.vercel.app/blog/${post.slug}`,
     author: {
       '@type': 'Person',
       name: 'Viet Salt',
-      url: 'https://jahir.dev/about',
+      url: 'https://vietsalt.vercel.app/about',
     },
   });
 };
@@ -116,7 +116,7 @@ export function generateMetadata(
   const metadata = createMetadata({
     title: `${title} | Blog – Viet Salt`,
     description: summary || 'Blog post by Viet Salt',
-    exactUrl: `https://jahir.dev/blog/${slug}`,
+    exactUrl: `https://vietsalt.vercel.app/blog/${slug}`,
     keywords: post.keywords,
   });
   return {

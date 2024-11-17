@@ -15,7 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .filter((it) => !Boolean(it.link))
     .sort(sortBlogPostsByDate)
     .map((post) => ({
-      url: `https://jahir.dev/blog/${post.slug}`,
+      url: `https://vietsalt.vercel.app/blog/${post.slug}`,
       lastModified: getDate(post.date)?.toISOString().split('T')[0],
       priority: 0.6,
     }));
@@ -29,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'uses',
     'colophon',
   ].map((route) => ({
-    url: `https://jahir.dev/${route}`,
+    url: `https://vietsalt.vercel.app/${route}`,
     lastModified: today.toISOString().split('T')[0],
     priority: route ? 0.8 : 1,
   }));

@@ -1,4 +1,4 @@
-# [jahir.dev](https://jahir.dev)
+# [jahir.dev](https://vietsalt.vercel.app)
 
 [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/jahirfiquitiva)
 
@@ -14,7 +14,7 @@
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Content**: [MDX](https://github.com/mdx-js/mdx) and [velite](https://velite.js.org/)
 - **Database**: [Neon](https://neon.tech/) and [Drizzle ORM](https://orm.drizzle.team/)
-- **Analytics**: [Umami](https://jahir.dev/analytics)
+- **Analytics**: [Umami](https://vietsalt.vercel.app/analytics)
 - **Deployment**: [Vercel](https://vercel.com)
 
 ## Project Structure
@@ -55,7 +55,7 @@
 - **`src/components/og/*`** - The code that powers dynamic open-graph images generation
 - **`src/components/views/*`** - More complex components to build the different pages of my website. _(They're here to keep `src/app/` as clean as possible)_
 - **`src/components/icons.ts`** - SVG icon paths. Icons come from [Material Design Icons](https://pictogrammers.com/library/mdi/) and [Lucide](https://lucide.dev/)
-- **`src/data/*`** - JSON files containing data for projects and the [`uses`](https://jahir.dev/uses) page
+- **`src/data/*`** - JSON files containing data for projects and the [`uses`](https://vietsalt.vercel.app/uses) page
 - **`src/hooks/*`** - A couple hooks used throughout the app
 - **`src/lib/*`** - Short for "library", a collection of helpful utilities or code for external services
 - **`src/providers/*`** - React Contexts for storing the current theme and blog post reactions

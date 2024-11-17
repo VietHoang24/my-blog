@@ -115,7 +115,7 @@ export const metadata = createMetadata({
   description:
     // eslint-disable-next-line max-len
     'Support Viet Salt. Donate or sponsor him as a recognition for his work on different projects.',
-  exactUrl: 'https://jahir.dev/donate',
+  exactUrl: 'https://vietsalt.vercel.app/donate',
   keywords: [
     'donate',
     'support',

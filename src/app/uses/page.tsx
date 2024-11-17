@@ -66,7 +66,7 @@ export const metadata = createMetadata({
   title: 'Uses – Viet Salt',
   description:
     'Get to know the hardware, software and tools I use on a daily basis',
-  exactUrl: 'https://jahir.dev/uses',
+  exactUrl: 'https://vietsalt.vercel.app/uses',
   keywords: [
     'hardware',
     'software',
