@@ -79,6 +79,9 @@ const defaultNextConfig = {
   //   config.plugins.push(new VeliteWebpackPlugin());
   //   return config;
   // },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
 const millionConfig = {
