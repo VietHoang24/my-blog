@@ -37,3 +37,4462 @@
   url: http://art.mauthemewp.com
   color: "#FFD700"
   repo: Portfolio
+
+- order: 6
+  name: Thuê xe và vận tải
+  description: Dịch vụ thuê xe và vận tải tiện lợi, với nhiều loại phương tiện từ xe hơi, xe máy đến xe tải phù hợp với nhu cầu của bạn.
+  icon: FaCar
+  url: http://thuexe3.mauthemewp.com
+  color: "#1E90FF"
+  repo: Rental
+
+- order: 7
+  name: Điện máy gia dụng
+  description: Cửa hàng điện máy cung cấp các thiết bị gia dụng chất lượng cao, từ tivi, tủ lạnh đến máy giặt, đáp ứng mọi nhu cầu sinh hoạt.
+  icon: FaTv
+  url: http://dienmayxanh.mauthemewp.com
+  color: "#32CD32"
+  repo: Electronics
+
+- order: 8
+  name: Decal và in ấn
+  description: Dịch vụ thiết kế và in ấn decal độc đáo, mang lại sự sáng tạo cho thương hiệu và sản phẩm của bạn.
+  icon: FaStickerMule
+  url: http://decal.mauthemewp.com
+  color: "#FF4500"
+  repo: Printing
+
+- order: 9
+  name: Xây dựng và thiết kế
+  description: Giải pháp xây dựng và thiết kế kiến trúc, nội thất chuyên nghiệp, đáp ứng mọi dự án lớn nhỏ.
+  icon: FaHardHat
+  url: http://xaydung3.mauthemewp.com
+  color: "#8B4513"
+  repo: Construction
+
+- order: 10
+  name: Mỹ phẩm và làm đẹp
+  description: Bộ sưu tập mỹ phẩm cao cấp và sản phẩm làm đẹp, giúp bạn tỏa sáng với vẻ ngoài rạng ngời.
+  icon: FaSpa
+  url: http://mypham2.mauthemewp.com
+  color: "#FF69B4"
+  repo: Cosmetics
+
+- order: 11
+  name: Đánh giá và tin tức
+  description: Nơi tổng hợp các bài đánh giá sản phẩm và tin tức mới nhất, giúp bạn đưa ra quyết định tiêu dùng thông minh.
+  icon: FaNewspaper
+  url: http://review1.mauthemewp.com
+  color: "#FF6347"
+  repo: Reviews
+
+- order: 12
+  name: Bất động sản
+  description: Nền tảng mua bán và cho thuê bất động sản uy tín, mang đến những lựa chọn lý tưởng cho ngôi nhà và đầu tư của bạn.
+  icon: FaBuilding
+  url: http://bds3.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstate
+
+- order: 13
+  name: Vật phẩm phong thủy
+  description: Bộ sưu tập vật phẩm phong thủy độc đáo, giúp cân bằng năng lượng và mang lại may mắn cho không gian sống.
+  icon: FaGem
+  url: http://vatpham.mauthemewp.com
+  color: "#FFD700"
+  repo: FengShui
+
+- order: 14
+  name: Khóa học và giáo dục
+  description: Nền tảng học trực tuyến với đa dạng các khóa học chất lượng, hỗ trợ bạn nâng cao kỹ năng và kiến thức.
+  icon: FaGraduationCap
+  url: http://khoahoc2.mauthemewp.com
+  color: "#4682B4"
+  repo: Education
+
+- order: 15
+  name: Nội thất và trang trí
+  description: Cửa hàng nội thất hiện đại với các sản phẩm thiết kế tinh tế, giúp tạo nên không gian sống hoàn hảo.
+  icon: FaCouch
+  url: http://noithat24.mauthemewp.com
+  color: "#8B4513"
+  repo: Furniture
+
+- order: 16
+  name: Thời trang và phong cách
+  description: Bộ sưu tập thời trang đa dạng từ quần áo, phụ kiện đến giày dép, giúp bạn định hình phong cách riêng.
+  icon: FaTshirt
+  url: http://fashion5.mauthemewp.com
+  color: "#FF1493"
+  repo: Fashion
+
+- order: 17
+  name: Khách sạn và nghỉ dưỡng
+  description: Dịch vụ đặt phòng khách sạn và nghỉ dưỡng cao cấp, mang lại trải nghiệm lưu trú đẳng cấp cho kỳ nghỉ của bạn.
+  icon: FaHotel
+  url: http://khachsan.mauthemewp.com
+  color: "#1E90FF"
+  repo: Hospitality
+
+- order: 18
+  name: Thực phẩm và đồ uống
+  description: Cửa hàng cung cấp thực phẩm tươi ngon và đồ uống đa dạng, đảm bảo chất lượng cho bữa ăn hàng ngày của bạn.
+  icon: FaAppleAlt
+  url: http://thucpham18.mauthemewp.com
+  color: "#FF6347"
+  repo: FoodAndBeverages
+
+- order: 19
+  name: Shop hoa tươi
+  description: Dịch vụ cung cấp hoa tươi cao cấp cho mọi dịp lễ, sự kiện, và làm đẹp không gian sống.
+  icon: FaFlower
+  url: http://shophoa.mauthemewp.com
+  color: "#FF69B4"
+  repo: FlowerShop
+
+- order: 20
+  name: Nội thất cao cấp
+  description: Sản phẩm nội thất hiện đại và cao cấp, mang đến sự sang trọng và tiện nghi cho ngôi nhà của bạn.
+  icon: FaChair
+  url: http://noithat3.mauthemewp.com
+  color: "#8B4513"
+  repo: PremiumFurniture
+
+- order: 21
+  name: Bất động sản cao cấp
+  description: Dịch vụ bất động sản cao cấp, nơi kết nối bạn với những căn nhà, biệt thự và không gian lý tưởng.
+  icon: FaCity
+  url: http://bds22.mauthemewp.com
+  color: "#32CD32"
+  repo: LuxuryRealEstate
+
+- order: 22
+  name: Nội thất và trang trí
+  description: Cửa hàng nội thất đa dạng, cung cấp các giải pháp trang trí và bài trí không gian sống tinh tế.
+  icon: FaHome
+  url: http://noithat2.mauthemewp.com
+  color: "#A0522D"
+  repo: HomeDecor
+
+- order: 23
+  name: Sự kiện và giải trí
+  description: Dịch vụ tổ chức sự kiện chuyên nghiệp, mang đến trải nghiệm đáng nhớ cho các buổi lễ và chương trình giải trí.
+  icon: FaCalendarAlt
+  url: http://event5.mauthemewp.com
+  color: "#FF4500"
+  repo: EventsAndEntertainment
+
+- order: 24
+  name: Hợp tác xã và nông sản
+  description: Hợp tác xã cung cấp các sản phẩm nông sản sạch và chất lượng, hỗ trợ người nông dân và phát triển cộng đồng.
+  icon: FaTractor
+  url: http://htx.mauthemewp.com
+  color: "#228B22"
+  repo: Agriculture
+
+- order: 25
+  name: Xây dựng và cải tạo
+  description: Dịch vụ xây dựng và cải tạo chuyên nghiệp, từ thiết kế đến thi công các dự án nhà ở và công trình.
+  icon: FaDraftingCompass
+  url: http://xaydung5.mauthemewp.com
+  color: "#8B0000"
+  repo: ConstructionPro
+
+- order: 26
+  name: Bách dược và y học
+  description: Cung cấp dược phẩm và các sản phẩm chăm sóc sức khỏe, hướng đến cuộc sống an lành và khỏe mạnh.
+  icon: FaClinicMedical
+  url: http://bachduoc.mauthemewp.com
+  color: "#008080"
+  repo: Pharmacy
+
+- order: 27
+  name: Spa và làm đẹp
+  description: Trung tâm spa chuyên nghiệp với các liệu pháp làm đẹp và thư giãn, mang lại vẻ đẹp tự nhiên và tinh thần sảng khoái.
+  icon: FaSpa
+  url: http://spa9.mauthemewp.com
+  color: "#FFB6C1"
+  repo: Wellness
+
+- order: 28
+  name: Lốp xe và cơ khí
+  description: Dịch vụ cung cấp lốp xe, linh kiện cơ khí và bảo dưỡng phương tiện chuyên nghiệp.
+  icon: FaCog
+  url: http://lockhi3.mauthemewp.com
+  color: "#696969"
+  repo: AutoParts
+
+- order: 29
+  name: Bàn thờ và đồ thờ cúng
+  description: Cửa hàng bàn thờ và đồ thờ cúng truyền thống, mang lại không gian tâm linh trang nghiêm và ấm cúng.
+  icon: FaPray
+  url: http://bantho.mauthemewp.com
+  color: "#8B4513"
+  repo: WorshipFurniture
+- order: 30
+  name: Spa và chăm sóc sắc đẹp
+  description: Dịch vụ spa chuyên nghiệp, kết hợp các liệu pháp chăm sóc da và cơ thể giúp bạn luôn rạng rỡ và thư thái.
+  icon: FaSpa
+  url: http://spa4.mauthemewp.com
+  color: "#FF69B4"
+  repo: BeautyCare
+
+- order: 31
+  name: Nhà thuốc và dược phẩm
+  description: Cửa hàng nhà thuốc cung cấp các loại dược phẩm, thực phẩm chức năng và tư vấn sức khỏe chuyên nghiệp.
+  icon: FaPrescriptionBottleAlt
+  url: http://nhathuoc2.mauthemewp.com
+  color: "#008080"
+  repo: PharmacyStore
+
+- order: 32
+  name: Khóa học trực tuyến
+  description: Nền tảng cung cấp khóa học trực tuyến với nhiều lĩnh vực phong phú, hỗ trợ bạn nâng cao kiến thức và kỹ năng.
+  icon: FaBook
+  url: http://khoahoc.mauthemewp.com
+  color: "#4682B4"
+  repo: OnlineCourses
+
+- order: 33
+  name: Thực phẩm và chế biến
+  description: Cửa hàng thực phẩm với nguồn gốc rõ ràng, mang đến các sản phẩm tươi ngon và an toàn cho gia đình.
+  icon: FaCarrot
+  url: http://thucpham10.mauthemewp.com
+  color: "#FF4500"
+  repo: FreshFood
+
+- order: 34
+  name: Trung tâm Anh ngữ
+  description: Trung tâm giảng dạy tiếng Anh chuyên nghiệp với các khóa học từ cơ bản đến nâng cao, phù hợp mọi đối tượng.
+  icon: FaLanguage
+  url: http://anhngu.mauthemewp.com
+  color: "#4169E1"
+  repo: EnglishCenter
+
+- order: 35
+  name: Agency và tiếp thị
+  description: Dịch vụ tiếp thị và quảng cáo chuyên nghiệp, giúp nâng tầm thương hiệu và tiếp cận khách hàng hiệu quả.
+  icon: FaBullhorn
+  url: http://agency2.maugiaodien.com
+  color: "#FFD700"
+  repo: MarketingAgency
+
+- order: 36
+  name: Đại lý Mitsubishi
+  description: Đại lý chính hãng Mitsubishi, cung cấp các dòng xe đa dạng và dịch vụ bảo dưỡng chất lượng cao.
+  icon: FaCar
+  url: http://mitsubishi2.mauthemewp.com
+  color: "#C71585"
+  repo: MitsubishiDealer
+
+- order: 37
+  name: Nhà thông minh
+  description: Giải pháp nhà thông minh hiện đại, giúp bạn kiểm soát và tự động hóa mọi thiết bị trong gia đình.
+  icon: FaHome
+  url: http://smarthome.mauthemewp.com
+  color: "#00BFFF"
+  repo: SmartHome
+
+- order: 38
+  name: Sinh trắc vân tay
+  description: Dịch vụ sinh trắc vân tay giúp khám phá tiềm năng và định hướng phát triển bản thân một cách khoa học.
+  icon: FaFingerprint
+  url: http://sinhtracvantay.mauthemewp.com
+  color: "#8A2BE2"
+  repo: Biometrics
+
+- order: 39
+  name: Xây dựng và thiết kế
+  description: Dịch vụ thiết kế và xây dựng chuyên nghiệp, từ nhà ở dân dụng đến các công trình thương mại.
+  icon: FaHardHat
+  url: http://xaydung2.mauthemewp.com
+  color: "#8B4513"
+  repo: CivilEngineering
+
+- order: 40
+  name: Trang sức cao cấp
+  description: Bộ sưu tập trang sức độc đáo và tinh xảo, tôn vinh vẻ đẹp và phong cách cá nhân của bạn.
+  icon: FaGem
+  url: http://trangsuc1.mauthemewp.com
+  color: "#FFD700"
+  repo: Jewelry
+
+- order: 41
+  name: Loa kéo và âm thanh
+  description: Cửa hàng cung cấp loa kéo và thiết bị âm thanh chất lượng, mang đến trải nghiệm giải trí tuyệt vời.
+  icon: FaVolumeUp
+  url: http://loakeo.mauthemewp.com
+  color: "#FF4500"
+  repo: AudioEquipment
+- order: 42
+  name: Sản phẩm thân thiện với môi trường
+  description: Cửa hàng cung cấp các sản phẩm xanh, thân thiện với môi trường, giúp bạn sống bền vững và bảo vệ hành tinh.
+  icon: FaLeaf
+  url: http://eco.mauthemewp.com
+  color: "#32CD32"
+  repo: EcoProducts
+
+- order: 43
+  name: Google Shop
+  description: Nền tảng mua sắm tiện lợi với các sản phẩm chính hãng và dịch vụ giao hàng nhanh chóng từ Google Shop.
+  icon: FaShoppingCart
+  url: http://googleshop.mauthemewp.com
+  color: "#4285F4"
+  repo: GoogleShop
+
+- order: 44
+  name: Dịch vụ giúp việc
+  description: Dịch vụ giúp việc chuyên nghiệp, hỗ trợ bạn trong các công việc nhà từ dọn dẹp, nấu ăn đến chăm sóc gia đình.
+  icon: FaBroom
+  url: http://giupviec.mauthemewp.com
+  color: "#FF8C00"
+  repo: Housekeeping
+
+- order: 45
+  name: Phòng khám y tế
+  description: Phòng khám đa khoa với đội ngũ bác sĩ giàu kinh nghiệm, cung cấp dịch vụ chăm sóc sức khỏe toàn diện.
+  icon: FaStethoscope
+  url: http://clinic.mauthemewp.com
+  color: "#FF6347"
+  repo: MedicalClinic
+
+- order: 46
+  name: Text Smart
+  description: Dịch vụ xử lý văn bản thông minh, giúp bạn tạo nội dung và quản lý tài liệu một cách hiệu quả.
+  icon: FaFileAlt
+  url: http://textsmart.mauthemewp.com
+  color: "#4682B4"
+  repo: TextProcessing
+
+- order: 47
+  name: Nội thất gia đình
+  description: Cửa hàng nội thất với các sản phẩm phong cách hiện đại, mang lại không gian sống sang trọng và tiện nghi.
+  icon: FaCouch
+  url: http://noithat15.mauthemewp.com
+  color: "#8B4513"
+  repo: ModernFurniture
+- order: 48
+  name: Bếp từ và thiết bị nhà bếp
+  description: Cửa hàng chuyên cung cấp các dòng bếp từ và thiết bị nhà bếp hiện đại, giúp nâng cao trải nghiệm nấu nướng.
+  icon: FaUtensils
+  url: http://beptu.mauthemewp.com
+  color: "#FF4500"
+  repo: KitchenAppliances
+
+- order: 49
+  name: Điện máy gia dụng
+  description: Siêu thị điện máy với các sản phẩm gia dụng chất lượng cao, từ tivi, tủ lạnh đến máy giặt, đáp ứng mọi nhu cầu gia đình.
+  icon: FaTv
+  url: http://dienmay.mauthemewp.com
+  color: "#1E90FF"
+  repo: HomeElectronics
+
+- order: 50
+  name: Đá quý và trang sức
+  description: Cửa hàng đá quý và trang sức cao cấp, mang đến những thiết kế độc đáo và sang trọng cho khách hàng.
+  icon: FaGem
+  url: http://daquy2.mauthemewp.com
+  color: "#FFD700"
+  repo: PreciousGems
+
+- order: 51
+  name: Camera và an ninh
+  description: Cung cấp các thiết bị camera giám sát và hệ thống an ninh hiện đại, bảo vệ an toàn cho gia đình và doanh nghiệp.
+  icon: FaVideo
+  url: http://camera3.mauthemewp.com
+  color: "#696969"
+  repo: SecuritySystems
+
+- order: 52
+  name: Genma - Sản phẩm gia dụng thông minh
+  description: Thương hiệu Genma với các sản phẩm gia dụng thông minh, tối ưu hóa tiện ích và chất lượng cuộc sống.
+  icon: FaCogs
+  url: http://genma.mauthemewp.com
+  color: "#32CD32"
+  repo: SmartHouseware
+
+- order: 53
+  name: Du lịch biển
+  description: Dịch vụ du lịch biển chuyên nghiệp, cung cấp các tour du lịch hấp dẫn và trải nghiệm thú vị trên các bãi biển đẹp.
+  icon: FaUmbrellaBeach
+  url: http://dibien.mauthemewp.com
+  color: "#00BFFF"
+  repo: BeachTourism
+- order: 54
+  name: Bất động sản cao cấp
+  description: Nền tảng bất động sản chuyên nghiệp, cung cấp các lựa chọn mua bán và cho thuê nhà đất uy tín.
+  icon: FaBuilding
+  url: http://bds32.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstatePro
+
+- order: 55
+  name: Sàn gỗ và vật liệu
+  description: Cung cấp các sản phẩm sàn gỗ chất lượng cao và vật liệu xây dựng bền đẹp, phù hợp mọi không gian.
+  icon: FaTree
+  url: http://sango.mauthemewp.com
+  color: "#8B4513"
+  repo: FlooringMaterials
+
+- order: 56
+  name: Đại lý Honda
+  description: Đại lý chính hãng Honda, cung cấp các dòng xe máy và ô tô chất lượng cùng dịch vụ bảo dưỡng tận tâm.
+  icon: FaMotorcycle
+  url: http://honda2.mauthemewp.com
+  color: "#FF0000"
+  repo: HondaDealer
+
+- order: 57
+  name: Studio chụp ảnh
+  description: Studio chuyên nghiệp, cung cấp dịch vụ chụp ảnh chân dung, sự kiện và sản phẩm với chất lượng cao.
+  icon: FaCameraRetro
+  url: http://studio2.mauthemewp.com
+  color: "#FF6347"
+  repo: PhotographyStudio
+
+- order: 58
+  name: Bệnh viện và chăm sóc sức khỏe
+  description: Bệnh viện hiện đại với đội ngũ bác sĩ chuyên khoa giàu kinh nghiệm, đảm bảo dịch vụ y tế chất lượng.
+  icon: FaHospital
+  url: http://benhvien.mauthemewp.com
+  color: "#4682B4"
+  repo: Healthcare
+
+- order: 59
+  name: In ấn và thiết kế
+  description: Dịch vụ in ấn và thiết kế sáng tạo, đáp ứng nhu cầu từ tài liệu văn phòng đến quảng cáo chuyên nghiệp.
+  icon: FaPrint
+  url: http://inan2.mauthemewp.com
+  color: "#FFD700"
+  repo: PrintingDesign
+
+- order: 60
+  name: Điện máy gia dụng
+  description: Cửa hàng điện máy với các sản phẩm gia dụng chất lượng, từ tivi, máy lạnh đến các thiết bị nhà bếp tiện nghi.
+  icon: FaPlug
+  url: http://dienmay6.mauthemewp.com
+  color: "#1E90FF"
+  repo: ElectronicsStore
+
+- order: 61
+  name: Shop sản phẩm đa dạng
+  description: Cửa hàng bán các sản phẩm đa dạng từ thời trang đến đồ gia dụng, đáp ứng nhu cầu mua sắm của mọi khách hàng.
+  icon: FaShoppingBasket
+  url: http://shop1.mauthemewp.com
+  color: "#FF6347"
+  repo: GeneralShop
+
+- order: 62
+  name: Ghế văn phòng
+  description: Cung cấp các loại ghế văn phòng chất lượng cao, thiết kế tiện dụng và thoải mái cho môi trường làm việc hiệu quả.
+  icon: FaChair
+  url: http://ghevanphong.mauthemewp.com
+  color: "#8B4513"
+  repo: OfficeFurniture
+
+- order: 63
+  name: Tin tức và cập nhật
+  description: Cung cấp thông tin và tin tức mới nhất trong các lĩnh vực khác nhau, giúp bạn cập nhật xu hướng và sự kiện nổi bật.
+  icon: FaNewspaper
+  url: http://tintuc2.mauthemewp.com
+  color: "#FFD700"
+  repo: NewsPortal
+
+- order: 64
+  name: Gốm sứ và đồ thủ công
+  description: Cửa hàng gốm sứ thủ công mỹ nghệ, mang đến những sản phẩm tinh xảo và độc đáo cho không gian sống của bạn.
+  icon: FaCoffee
+  url: http://gom.mauthemewp.com
+  color: "#DC143C"
+  repo: CeramicCraft
+
+- order: 65
+  name: Đại lý Toyota
+  description: Đại lý chính hãng Toyota, cung cấp các mẫu xe ô tô chất lượng cùng dịch vụ bảo trì và chăm sóc khách hàng chuyên nghiệp.
+  icon: FaCar
+  url: http://toyota.mauthemewp.com
+  color: "#FF0000"
+  repo: ToyotaDealer
+
+- order: 66
+  name: Kế toán và tư vấn tài chính
+  description: Dịch vụ kế toán chuyên nghiệp, giúp doanh nghiệp quản lý tài chính, thuế và báo cáo tài chính hiệu quả.
+  icon: FaCalculator
+  url: http://ketoan2.mauthemewp.com
+  color: "#008000"
+  repo: AccountingServices
+
+- order: 67
+  name: Du lịch và khám phá
+  description: Cung cấp các tour du lịch hấp dẫn, khám phá những địa điểm mới lạ và trải nghiệm thú vị trên khắp đất nước.
+  icon: FaGlobe
+  url: http://dulich15.mauthemewp.com
+  color: "#FF4500"
+  repo: TravelAgency
+
+- order: 68
+  name: Massage và thư giãn
+  description: Dịch vụ massage thư giãn chuyên nghiệp, giúp bạn xua tan căng thẳng và mang lại cảm giác thư thái, nhẹ nhàng.
+  icon: FaSpa
+  url: http://massage.mauthemewp.com
+  color: "#9370DB"
+  repo: MassageServices
+
+- order: 69
+  name: Dược phẩm và sức khỏe
+  description: Cửa hàng dược phẩm cung cấp các sản phẩm chăm sóc sức khỏe, thuốc và thực phẩm chức năng chất lượng cao.
+  icon: FaPills
+  url: http://duocpham.mauthemewp.com
+  color: "#32CD32"
+  repo: PharmaceuticalStore
+
+- order: 70
+  name: FPT - Công nghệ và giải pháp
+  description: Dịch vụ công nghệ và giải pháp phần mềm của FPT, cung cấp các dịch vụ chuyển đổi số và phần mềm doanh nghiệp.
+  icon: FaLaptop
+  url: http://fpt1.mauthemewp.com
+  color: "#1E90FF"
+  repo: FPTTechnology
+
+- order: 71
+  name: Nội thất cao cấp
+  description: Cung cấp các sản phẩm nội thất sang trọng, thiết kế tinh tế để làm đẹp không gian sống của bạn.
+  icon: FaCouch
+  url: http://funiture.mauthemewp.com
+  color: "#8B4513"
+  repo: LuxuryFurniture
+
+- order: 72
+  name: Cún và dịch vụ huấn luyện
+  description: Cung cấp dịch vụ huấn luyện chó và các sản phẩm dành cho thú cưng, giúp bạn chăm sóc thú cưng tốt nhất.
+  icon: FaDog
+  url: http://cunhanduhoc.mauthemewp.com
+  color: "#FFD700"
+  repo: PetTraining
+
+- order: 73
+  name: Burger và ẩm thực nhanh
+  description: Cửa hàng burger phục vụ các món ăn nhanh, thơm ngon và đầy đủ dinh dưỡng cho những tín đồ yêu thích fast food.
+  icon: FaHamburger
+  url: http://burger.mauthemewp.com
+  color: "#FF6347"
+  repo: FastFood
+
+- order: 74
+  name: Điện máy gia dụng
+  description: Cửa hàng điện máy chuyên cung cấp các thiết bị gia dụng từ tivi, máy giặt đến các sản phẩm điện tử phục vụ đời sống.
+  icon: FaPlug
+  url: http://dienmay4.mauthemewp.com
+  color: "#1E90FF"
+  repo: ElectronicsShop
+
+- order: 75
+  name: Đông trùng hạ thảo
+  description: Cung cấp sản phẩm đông trùng hạ thảo cao cấp, giúp hỗ trợ sức khỏe và nâng cao sức đề kháng.
+  icon: FaLeaf
+  url: http://dongtrunghathao.mauthemewp.com
+  color: "#32CD32"
+  repo: HerbalProducts
+
+- order: 76
+  name: Sản phẩm giảm cân
+  description: Cung cấp các sản phẩm hỗ trợ giảm cân hiệu quả và an toàn, giúp bạn đạt được vóc dáng lý tưởng.
+  icon: FaWeight
+  url: http://botgiamcan.mauthemewp.com
+  color: "#FF6347"
+  repo: WeightLossProducts
+
+- order: 77
+  name: Bất động sản và đầu tư
+  description: Cung cấp các giải pháp bất động sản, tư vấn mua bán và cho thuê nhà đất, giúp bạn đầu tư sinh lời.
+  icon: FaBuilding
+  url: http://bds5.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstateInvest
+
+- order: 78
+  name: Mỹ phẩm và làm đẹp
+  description: Cửa hàng mỹ phẩm chuyên cung cấp các sản phẩm chăm sóc sắc đẹp, từ skincare đến trang điểm, giúp bạn tỏa sáng.
+  icon: FaLipstick
+  url: http://mypham10.mauthemewp.com
+  color: "#FF1493"
+  repo: BeautyProducts
+
+- order: 79
+  name: Xuất khẩu lao động
+  description: Cung cấp thông tin và dịch vụ tư vấn về xuất khẩu lao động, giúp người lao động tìm cơ hội việc làm tại các nước phát triển.
+  icon: FaUsers
+  url: http://xkld5.mauthemewp.com
+  color: "#1E90FF"
+  repo: LaborExport
+
+- order: 80
+  name: IHealing - Chữa bệnh và phục hồi sức khỏe
+  description: Dịch vụ chăm sóc sức khỏe và phục hồi bằng liệu pháp IHealing, giúp cải thiện sức khỏe và tăng cường sức đề kháng.
+  icon: FaHeartbeat
+  url: http://ihealing.mauthemewp.com
+  color: "#32CD32"
+  repo: HealthTherapy
+
+- order: 81
+  name: Bất động sản và đầu tư
+  description: Cung cấp các dịch vụ mua bán, cho thuê bất động sản và đầu tư sinh lời trong lĩnh vực nhà đất.
+  icon: FaBuilding
+  url: http://bds8.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstateSolutions
+
+- order: 82
+  name: Nhôm kính và cửa
+  description: Chuyên cung cấp các sản phẩm nhôm kính cao cấp, cửa kính cường lực và các dịch vụ lắp đặt uy tín.
+  icon: FaGlassMartiniAlt
+  url: http://nhomkinh.mauthemewp.com
+  color: "#B0C4DE"
+  repo: AluminumGlass
+
+- order: 83
+  name: Affiliate Marketing
+  description: Cung cấp các chương trình affiliate marketing giúp bạn kiếm tiền từ việc giới thiệu sản phẩm và dịch vụ.
+  icon: FaLink
+  url: http://aff1.mauthemewp.com
+  color: "#FF4500"
+  repo: AffiliatePrograms
+
+- order: 84
+  name: Diệt côn trùng
+  description: Dịch vụ diệt côn trùng chuyên nghiệp, an toàn và hiệu quả, giúp bạn bảo vệ sức khỏe và không gian sống sạch sẽ.
+  icon: FaBug
+  url: http://dietcontrung.mauthemewp.com
+  color: "#A52A2A"
+  repo: PestControl
+
+- order: 85
+  name: Tin tức và cập nhật
+  description: Cung cấp các tin tức mới nhất trong các lĩnh vực khác nhau, giúp bạn nắm bắt thông tin nhanh chóng.
+  icon: FaNewspaper
+  url: http://tintuc4.mauthemewp.com
+  color: "#FFD700"
+  repo: NewsPortal
+
+- order: 86
+  name: Bất động sản cao cấp
+  description: Dịch vụ bất động sản chuyên cung cấp các dự án cao cấp, mua bán và cho thuê nhà đất chất lượng.
+  icon: FaBuilding
+  url: http://bds21.mauthemewp.com
+  color: "#228B22"
+  repo: LuxuryRealEstate
+
+- order: 87
+  name: Bách Khoa Shop
+  description: Cửa hàng bán đồ điện tử, thiết bị công nghệ, dụng cụ học tập và sản phẩm gia đình chất lượng.
+  icon: FaStore
+  url: http://bachkhoashop.mauthemewp.com
+  color: "#FFD700"
+  repo: TechStore
+
+- order: 88
+  name: Khách sạn và nghỉ dưỡng
+  description: Hệ thống khách sạn cao cấp, cung cấp các dịch vụ nghỉ dưỡng và phòng ở tiện nghi, sang trọng.
+  icon: FaHotel
+  url: http://khachsan2.mauthemewp.com
+  color: "#32CD32"
+  repo: HotelAndResort
+
+- order: 89
+  name: Bất động sản khu đô thị
+  description: Chuyên cung cấp các sản phẩm bất động sản khu đô thị mới, nơi an cư lý tưởng với tiện ích đồng bộ.
+  icon: FaCity
+  url: http://bdscity.mauthemewp.com
+  color: "#4682B4"
+  repo: UrbanRealEstate
+
+- order: 90
+  name: Nội thất cao cấp
+  description: Cung cấp các sản phẩm nội thất cao cấp, thiết kế hiện đại và sang trọng cho không gian sống của bạn.
+  icon: FaCouch
+  url: http://noithat27.mauthemewp.com
+  color: "#8B4513"
+  repo: PremiumFurniture
+
+- order: 91
+  name: Giáo dục và đào tạo
+  description: Cung cấp các khóa học, chương trình đào tạo chuyên sâu và tư vấn học tập, giúp nâng cao kiến thức và kỹ năng.
+  icon: FaChalkboardTeacher
+  url: http://edu2.mauthemewp.com
+  color: "#FFD700"
+  repo: EducationServices
+
+- order: 92
+  name: Thời trang và phụ kiện
+  description: Cung cấp các sản phẩm thời trang cao cấp, từ quần áo, giày dép đến phụ kiện, giúp bạn luôn tỏa sáng.
+  icon: FaTshirt
+  url: http://thoitrang7.mauthemewp.com
+  color: "#FF6347"
+  repo: FashionStore
+
+- order: 93
+  name: Máy tính và thiết bị điện tử
+  description: Cung cấp các sản phẩm máy tính, linh kiện và thiết bị điện tử chính hãng, đáp ứng nhu cầu công việc và giải trí.
+  icon: FaLaptop
+  url: http://maytinh5.mauthemewp.com
+  color: "#1E90FF"
+  repo: ComputerStore
+
+- order: 94
+  name: Kiến trúc và thiết kế
+  description: Cung cấp dịch vụ thiết kế kiến trúc, tư vấn xây dựng và tạo ra những công trình đẹp mắt, bền vững.
+  icon: FaArchitecture
+  url: http://kientruc4.mauthemewp.com
+  color: "#8A2BE2"
+  repo: ArchitectureDesign
+
+- order: 95
+  name: Máy lọc nước và thiết bị gia đình
+  description: Cung cấp các loại máy lọc nước, thiết bị gia đình chất lượng, giúp bảo vệ sức khỏe và cải thiện chất lượng cuộc sống.
+  icon: FaTint
+  url: http://mayloc4.mauthemewp.com
+  color: "#32CD32"
+  repo: WaterFilters
+
+- order: 96
+  name: Casino và Giải trí
+  description: Cung cấp các trò chơi casino trực tuyến, các dịch vụ giải trí đẳng cấp với cơ hội thắng lớn cho người chơi.
+  icon: FaGamepad
+  url: http://casino.mauthemewp.com
+  color: "#FF4500"
+  repo: CasinoEntertainment
+
+- order: 97
+  name: Viễn thông và công nghệ
+  description: Cung cấp các dịch vụ viễn thông, truyền hình, internet và công nghệ mới giúp kết nối và nâng cao trải nghiệm sống.
+  icon: FaMobileAlt
+  url: http://vienthong.mauthemewp.com
+  color: "#1E90FF"
+  repo: TelecomServices
+
+- order: 98
+  name: Giáo dục và đào tạo
+  description: Các chương trình đào tạo, khóa học online và tư vấn giáo dục giúp bạn nâng cao kiến thức và kỹ năng trong nhiều lĩnh vực.
+  icon: FaChalkboardTeacher
+  url: http://edu7.mauthemewp.com
+  color: "#FFD700"
+  repo: EducationPrograms
+
+- order: 99
+  name: Dịch vụ vệ sinh
+  description: Cung cấp dịch vụ vệ sinh chuyên nghiệp, từ dọn dẹp nhà cửa đến vệ sinh công nghiệp, đảm bảo không gian sạch sẽ, an toàn.
+  icon: FaBroom
+  url: http://vesinh2.mauthemewp.com
+  color: "#32CD32"
+  repo: CleaningServices
+
+- order: 100
+  name: Vật liệu xây dựng xanh
+  description: Cung cấp các sản phẩm vật liệu xây dựng xanh, thân thiện với môi trường, giúp xây dựng công trình bền vững.
+  icon: FaLeaf
+  url: http://traxanh2.mauthemewp.com
+  color: "#008000"
+  repo: GreenBuildingMaterials
+
+- order: 101
+  name: Trường học và giáo dục
+  description: Cung cấp các khóa học, chương trình đào tạo và dịch vụ giáo dục giúp nâng cao kiến thức và kỹ năng cho học sinh, sinh viên.
+  icon: FaSchool
+  url: http://truonghoc.mauthemewp.com
+  color: "#FFD700"
+  repo: EducationalInstitution
+
+- order: 102
+  name: Chậu cây và cây cảnh
+  description: Cung cấp các loại cây cảnh, chậu cây đẹp mắt giúp trang trí không gian sống thêm sinh động và tươi mới.
+  icon: FaTree
+  url: http://chaucay.mauthemewp.com
+  color: "#32CD32"
+  repo: PlantStore
+
+- order: 103
+  name: Thực phẩm và dinh dưỡng
+  description: Cung cấp các sản phẩm thực phẩm sạch, an toàn và dinh dưỡng, phục vụ nhu cầu ăn uống lành mạnh cho gia đình bạn.
+  icon: FaAppleAlt
+  url: http://thucpham7.mauthemewp.com
+  color: "#FF6347"
+  repo: FoodAndNutrition
+
+- order: 104
+  name: Ứng dụng giáo dục
+  description: Cung cấp các ứng dụng giáo dục giúp người học dễ dàng tiếp cận kiến thức, học hỏi và nâng cao kỹ năng mọi lúc mọi nơi.
+  icon: FaAppStore
+  url: http://appgiaoduc.mauthemewp.com
+  color: "#1E90FF"
+  repo: EducationalApps
+
+- order: 105
+  name: Studio thiết kế và sáng tạo
+  description: Cung cấp các dịch vụ thiết kế đồ họa, sản xuất video và sáng tạo nội dung, giúp bạn xây dựng thương hiệu mạnh mẽ.
+  icon: FaPalette
+  url: http://studio3.mauthemewp.com
+  color: "#8A2BE2"
+  repo: CreativeStudio
+
+- order: 106
+  name: Camera và thiết bị giám sát
+  description: Cung cấp các sản phẩm camera an ninh và thiết bị giám sát, giúp bảo vệ tài sản và tăng cường an ninh cho gia đình và doanh nghiệp.
+  icon: FaVideo
+  url: http://camera.mauthemewp.com
+  color: "#FF6347"
+  repo: SurveillanceSystems
+
+- order: 107
+  name: Mỹ phẩm và chăm sóc sắc đẹp
+  description: Cung cấp các sản phẩm mỹ phẩm cao cấp, giúp chăm sóc và bảo vệ làn da, mang lại vẻ đẹp tự nhiên và tự tin.
+  icon: FaSpa
+  url: http://bomyphamnu.mauthemewp.com
+  color: "#FF1493"
+  repo: BeautyProducts
+
+- order: 108
+  name: Gia công cơ khí
+  description: Cung cấp dịch vụ gia công cơ khí chính xác, sản xuất các chi tiết, linh kiện cơ khí phục vụ cho các ngành công nghiệp.
+  icon: FaWrench
+  url: http://giacongcokhi.mauthemewp.com
+  color: "#A52A2A"
+  repo: MetalWorks
+
+- order: 109
+  name: Thủy sản và chế biến nước
+  description: Cung cấp các sản phẩm thủy sản tươi ngon và dịch vụ chế biến nước sạch, bảo vệ sức khỏe cho người tiêu dùng.
+  icon: FaFish
+  url: http://aqua.mauthemewp.com
+  color: "#4682B4"
+  repo: AquaProducts
+
+- order: 110
+  name: Đồ gia dụng và tiện ích
+  description: Cung cấp các sản phẩm gia dụng thông minh, tiện ích giúp cải thiện cuộc sống gia đình, từ đồ điện đến các sản phẩm nhà bếp.
+  icon: FaHome
+  url: http://giadung1.mauthemewp.com
+  color: "#32CD32"
+  repo: HouseholdProducts
+- order: 111
+
+  name: Thiết kế web và phát triển
+  description: Cung cấp dịch vụ thiết kế website chuyên nghiệp, phát triển các giải pháp web tùy chỉnh, giúp doanh nghiệp nâng cao hiệu quả kinh doanh.
+  icon: FaDesktop
+  url: http://thietkeweb3.mauthemewp.com
+  color: "#1E90FF"
+  repo: WebDesignServices
+
+- order: 112
+  name: BBQ và nướng
+  description: Cung cấp các dịch vụ BBQ, nướng đồ ăn ngoài trời, lý tưởng cho các buổi tiệc và sự kiện ngoài trời.
+  icon: FaFire
+  url: http://bbq.mauthemewp.com
+  color: "#FF4500"
+  repo: BBQGrilling
+
+- order: 113
+  name: Thuê xe và dịch vụ vận tải
+  description: Cung cấp dịch vụ thuê xe các loại, từ xe du lịch đến xe chuyên dụng, phục vụ nhu cầu di chuyển của khách hàng.
+  icon: FaCar
+  url: http://thuexe4.mauthemewp.com
+  color: "#32CD32"
+  repo: CarRental
+
+- order: 114
+  name: Shop nguyên liệu và sản phẩm
+  description: Cung cấp các nguyên liệu thực phẩm, đồ gia dụng và các sản phẩm khác phục vụ nhu cầu tiêu dùng hằng ngày.
+  icon: FaShoppingBasket
+  url: http://shopnguyenlieu.mauthemewp.com
+  color: "#FFD700"
+  repo: IngredientsStore
+
+- order: 115
+  name: Thời trang nam nữ
+  description: Cung cấp các sản phẩm thời trang cao cấp cho nam và nữ, từ quần áo đến phụ kiện, đáp ứng nhu cầu ăn mặc của mọi người.
+  icon: FaTshirt
+  url: http://thoitrang8.mauthemewp.com
+  color: "#FF6347"
+  repo: FashionStore
+
+- order: 116
+  name: Chậu cây và cây cảnh
+  description: Cung cấp các loại cây cảnh, chậu cây đẹp mắt, giúp trang trí không gian sống thêm sinh động và tươi mới.
+  icon: FaTree
+  url: http://chaucay2.mauthemewp.com
+  color: "#32CD32"
+  repo: PlantShop
+
+- order: 117
+  name: Luật sư và tư vấn pháp lý
+  description: Cung cấp dịch vụ tư vấn pháp lý chuyên nghiệp, bảo vệ quyền lợi của khách hàng trong các vụ kiện và tranh chấp pháp lý.
+  icon: FaBalanceScale
+  url: http://luatsu4.mauthemewp.com
+  color: "#1E90FF"
+  repo: LegalServices
+
+- order: 118
+  name: Dịch vụ du học
+  description: Cung cấp dịch vụ tư vấn du học, giúp học sinh và sinh viên chọn lựa trường học, chương trình học và hỗ trợ thủ tục du học.
+  icon: FaGraduationCap
+  url: http://dichvuduhoc.mauthemewp.com
+  color: "#FFD700"
+  repo: StudyAbroadServices
+
+- order: 119
+  name: Cửa hàng trực tuyến
+  description: Cung cấp các sản phẩm đa dạng từ điện tử, đồ gia dụng đến thời trang, phục vụ nhu cầu mua sắm trực tuyến tiện lợi.
+  icon: FaShoppingCart
+  url: http://shop3.mauthemewp.com
+  color: "#FF6347"
+  repo: OnlineStore
+
+- order: 120
+  name: Bất động sản và nhà đất
+  description: Chuyên cung cấp các dịch vụ bất động sản, từ mua bán, cho thuê đến tư vấn đầu tư và phát triển dự án bất động sản.
+  icon: FaBuilding
+  url: http://bds12.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstate
+
+- order: 121
+  name: Tài chính và đầu tư
+  description: Cung cấp các dịch vụ tư vấn tài chính, đầu tư chứng khoán, vay vốn, giúp khách hàng đạt được mục tiêu tài chính.
+  icon: FaDollarSign
+  url: http://taichinh1.mauthemewp.com
+  color: "#32CD32"
+  repo: FinancialServices
+
+- order: 122
+  name: Thiết bị y tế
+  description: Cung cấp các thiết bị y tế hiện đại, phục vụ cho việc chăm sóc sức khỏe, từ thiết bị cá nhân đến dụng cụ y tế chuyên dụng.
+  icon: FaHeartbeat
+  url: http://thietbiyte.mauthemewp.com
+  color: "#FF6347"
+  repo: MedicalEquipment
+
+- order: 123
+  name: Tin tức và thông tin
+  description: Cung cấp các tin tức nóng hổi, bài viết, và thông tin đa dạng về các lĩnh vực từ chính trị đến xã hội, giải trí.
+  icon: FaNewspaper
+  url: http://tintuc8.mauthemewp.com
+  color: "#1E90FF"
+  repo: NewsPortal
+
+- order: 124
+  name: Xe đạp và phụ kiện
+  description: Cung cấp các loại xe đạp, phụ kiện và dịch vụ sửa chữa xe đạp, phục vụ nhu cầu di chuyển và thể thao.
+  icon: FaBicycle
+  url: http://xedap2.mauthemewp.com
+  color: "#32CD32"
+  repo: BicycleStore
+
+- order: 125
+  name: Thời trang và phụ kiện
+  description: Cung cấp các sản phẩm thời trang cao cấp cho nam và nữ, từ quần áo đến giày dép, phụ kiện, phục vụ mọi phong cách.
+  icon: FaTshirt
+  url: http://fashion.mauthemewp.com
+  color: "#FF1493"
+  repo: FashionStore
+
+- order: 126
+  name: Khách sạn và nghỉ dưỡng
+  description: Cung cấp dịch vụ đặt phòng khách sạn, nghỉ dưỡng cao cấp với các tiện nghi hiện đại và dịch vụ chăm sóc khách hàng chuyên nghiệp.
+  icon: FaHotel
+  url: http://khachsan4.mauthemewp.com
+  color: "#FFD700"
+  repo: HotelServices
+
+- order: 127
+  name: Dịch vụ taxi và vận chuyển
+  description: Cung cấp dịch vụ taxi nhanh chóng, tiện lợi và an toàn, giúp bạn di chuyển mọi lúc mọi nơi với giá cả hợp lý.
+  icon: FaTaxi
+  url: http://taxi2.mauthemewp.com
+  color: "#FF4500"
+  repo: TaxiServices
+
+- order: 128
+  name: Sửa chữa điện thoại
+  description: Cung cấp dịch vụ sửa chữa điện thoại di động nhanh chóng, chuyên nghiệp, từ thay màn hình đến sửa chữa phần mềm, phần cứng.
+  icon: FaMobileAlt
+  url: http://suadienthoai3.mauthemewp.com
+  color: "#32CD32"
+  repo: PhoneRepair
+
+- order: 129
+  name: Tin tức và cập nhật mới
+  description: Cung cấp các bài viết, tin tức mới nhất về các sự kiện, thông tin cập nhật nóng hổi trong nhiều lĩnh vực.
+  icon: FaNewspaper
+  url: http://tintucnew.mauthemewp.com
+  color: "#1E90FF"
+  repo: NewsUpdates
+
+- order: 130
+  name: Bất động sản và nhà đất
+  description: Cung cấp các dịch vụ bất động sản từ mua bán, cho thuê đến tư vấn và đầu tư trong lĩnh vực bất động sản.
+  icon: FaBuilding
+  url: http://bds17.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstateServices
+
+- order: 131
+  name: Hoàng Hà - Sản phẩm điện tử
+  description: Cung cấp các sản phẩm điện tử, công nghệ cao cấp từ các thương hiệu uy tín, phục vụ nhu cầu tiêu dùng hiện đại.
+  icon: FaLaptop
+  url: http://hoangha.mauthemewp.com
+  color: "#FF6347"
+  repo: ElectronicsStore
+
+- order: 132
+  name: Camera và thiết bị giám sát
+  description: Cung cấp các giải pháp camera an ninh và thiết bị giám sát để bảo vệ tài sản và đảm bảo an toàn cho gia đình và doanh nghiệp.
+  icon: FaVideo
+  url: http://camera2.mauthemewp.com
+  color: "#4682B4"
+  repo: SurveillanceSystems
+
+- order: 133
+  name: Giáo dục và đào tạo
+  description: Cung cấp các khóa học và chương trình đào tạo, giúp nâng cao kiến thức và kỹ năng trong các lĩnh vực khác nhau.
+  icon: FaGraduationCap
+  url: http://edu4.mauthemewp.com
+  color: "#FFD700"
+  repo: EducationalServices
+
+- order: 134
+  name: Baby Shop - Sản phẩm cho trẻ em
+  description: Cung cấp các sản phẩm cho bé như quần áo, đồ chơi, đồ dùng cho trẻ em, giúp chăm sóc sự phát triển của trẻ từ sơ sinh đến tuổi lớn.
+  icon: FaBaby
+  url: http://babyshop2.mauthemewp.com
+  color: "#FF69B4"
+  repo: BabyProducts
+
+- order: 135
+  name: Bất động sản căn hộ
+  description: Chuyên cung cấp các dịch vụ mua bán, cho thuê và đầu tư bất động sản căn hộ, mang đến những lựa chọn phù hợp với nhu cầu của khách hàng.
+  icon: FaBuilding
+  url: http://bdscanho.mauthemewp.com
+  color: "#228B22"
+  repo: ApartmentRealEstate
+
+- order: 136
+  name: WinAuto - Dịch vụ ô tô
+  description: Cung cấp các dịch vụ liên quan đến ô tô, từ bảo dưỡng, sửa chữa đến bán phụ kiện và thiết bị ô tô chính hãng.
+  icon: FaCar
+  url: http://winauto.mauthemewp.com
+  color: "#32CD32"
+  repo: AutoServices
+
+- order: 137
+  name: Bất động sản
+  description: Cung cấp các dịch vụ bất động sản đa dạng, từ mua bán, cho thuê đến tư vấn và đầu tư vào các dự án bất động sản.
+  icon: FaBuilding
+  url: http://bds7.mauthemewp.com
+  color: "#FFD700"
+  repo: RealEstate
+
+- order: 138
+  name: Đồ chơi trẻ em
+  description: Cung cấp các loại đồ chơi an toàn và phát triển trí tuệ cho trẻ em, giúp trẻ vui chơi, học hỏi và phát triển khả năng tư duy.
+  icon: FaPuzzlePiece
+  url: http://dochoitreem.mauthemewp.com
+  color: "#FF6347"
+  repo: ToysForKids
+
+- order: 139
+  name: Sự kiện và tổ chức
+  description: Cung cấp các dịch vụ tổ chức sự kiện chuyên nghiệp, từ hội thảo, tiệc tùng đến các sự kiện doanh nghiệp.
+  icon: FaCalendarAlt
+  url: http://event7.mauthemewp.com
+  color: "#1E90FF"
+  repo: EventPlanning
+
+- order: 140
+  name: Hydrogen - Năng lượng sạch
+  description: Cung cấp các giải pháp năng lượng sạch từ hydro, giúp giảm thiểu tác động môi trường và tiết kiệm chi phí năng lượng cho các doanh nghiệp và cá nhân.
+  icon: FaBolt
+  url: http://hydrogen.mauthemewp.com
+  color: "#32CD32"
+  repo: HydrogenEnergy
+
+- order: 141
+  name: Giới thiệu công ty
+  description: Cung cấp thông tin giới thiệu về công ty, sứ mệnh, tầm nhìn, và các dịch vụ mà công ty cung cấp đến khách hàng.
+  icon: FaInfoCircle
+  url: http://gioithieu4.mauthemewp.com
+  color: "#1E90FF"
+  repo: CompanyIntroduction
+
+- order: 142
+  name: Vay tiền nhanh
+  description: Cung cấp các dịch vụ vay tiền nhanh chóng và tiện lợi, đáp ứng nhu cầu tài chính khẩn cấp của khách hàng.
+  icon: FaMoneyBillWave
+  url: http://vaytiennhanh.mauthemewp.com
+  color: "#FF6347"
+  repo: QuickLoanServices
+
+- order: 143
+  name: Dịch vụ truyền thông
+  description: Cung cấp các giải pháp truyền thông, bao gồm quảng cáo, chiến lược truyền thông và marketing, nhằm nâng cao hiệu quả thương hiệu.
+  icon: FaBroadcastTower
+  url: http://media.mauthemewp.com
+  color: "#FFD700"
+  repo: MediaServices
+
+- order: 144
+  name: Bất động sản và nhà đất
+  description: Chuyên cung cấp các dịch vụ bất động sản, từ mua bán, cho thuê đến tư vấn và đầu tư dự án bất động sản.
+  icon: FaBuilding
+  url: http://bds29.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstate
+
+- order: 145
+  name: Trinam - Dịch vụ chăm sóc sức khỏe
+  description: Cung cấp các dịch vụ chăm sóc sức khỏe, tư vấn sức khỏe và điều trị tại nhà, giúp cải thiện chất lượng sống của khách hàng.
+  icon: FaUserMd
+  url: http://trinam.mauthemewp.com
+  color: "#FF4500"
+  repo: HealthCareServices
+
+- order: 146
+  name: Thám tử - Dịch vụ điều tra
+  description: Cung cấp dịch vụ thám tử chuyên nghiệp, từ điều tra cá nhân đến điều tra doanh nghiệp, giúp khách hàng giải quyết các vấn đề pháp lý và bảo mật.
+  icon: FaSearch
+  url: http://thamtu.mauthemewp.com
+  color: "#8B4513"
+  repo: DetectiveServices
+
+- order: 147
+  name: Mỹ phẩm cao cấp
+  description: Cung cấp các sản phẩm mỹ phẩm chất lượng cao từ các thương hiệu nổi tiếng, giúp chăm sóc sắc đẹp và làn da cho phái nữ.
+  icon: FaSpa
+  url: http://mypham4.mauthemewp.com
+  color: "#FF69B4"
+  repo: BeautyProducts
+
+- order: 148
+  name: Kế toán và dịch vụ tài chính
+  description: Cung cấp dịch vụ kế toán, tư vấn tài chính, và dịch vụ khai thuế cho các doanh nghiệp và cá nhân.
+  icon: FaCalculator
+  url: http://ketoan.mauthemewp.com
+  color: "#32CD32"
+  repo: AccountingServices
+
+- order: 149
+  name: Màn hình và thiết bị điện tử
+  description: Cung cấp các loại màn hình, thiết bị điện tử như máy tính, tivi, và các sản phẩm điện tử khác phục vụ cho nhu cầu cá nhân và công việc.
+  icon: FaTv
+  url: http://manhrem2.mauthemewp.com
+  color: "#FFD700"
+  repo: ElectronicsStore
+
+- order: 150
+  name: Tài liệu và sách
+  description: Cung cấp các loại tài liệu, sách vở, tài liệu học thuật phục vụ cho nghiên cứu, học tập và công việc.
+  icon: FaBook
+  url: http://docu.mauthemewp.com
+  color: "#1E90FF"
+  repo: DocumentStore
+
+- order: 151
+  name: iPhone và thiết bị Apple
+  description: Cung cấp các sản phẩm Apple chính hãng, bao gồm iPhone, iPad, MacBook, và các phụ kiện đi kèm với các dịch vụ bảo hành uy tín.
+  icon: FaApple
+  url: http://iphone.mauthemewp.com
+  color: "#A52A2A"
+  repo: AppleProducts
+
+- order: 152
+  name: Tư vấn tâm lý
+  description: Cung cấp dịch vụ tư vấn tâm lý chuyên nghiệp, hỗ trợ giải quyết các vấn đề về tinh thần, cảm xúc và quan hệ.
+  icon: FaBrain
+  url: http://tuvantamly.mauthemewp.com
+  color: "#FF6347"
+  repo: PsychologicalConsulting
+
+- order: 153
+  name: Tài chính cá nhân
+  description: Cung cấp dịch vụ tư vấn tài chính, giúp cá nhân lập kế hoạch tài chính, đầu tư và quản lý tài sản.
+  icon: FaMoneyBillWave
+  url: http://taichinh2.mauthemewp.com
+  color: "#32CD32"
+  repo: PersonalFinance
+
+- order: 154
+  name: Sữa và sản phẩm dinh dưỡng
+  description: Cung cấp các loại sữa và sản phẩm dinh dưỡng cho trẻ em, người lớn và người cao tuổi, giúp cải thiện sức khỏe và phát triển cơ thể.
+  icon: FaGlassWhiskey
+  url: http://milk.mauthemewp.com
+  color: "#FFD700"
+  repo: DairyProducts
+
+- order: 155
+  name: Trang sức cao cấp
+  description: Cung cấp các bộ sưu tập trang sức sang trọng, từ nhẫn, dây chuyền đến bông tai, phục vụ nhu cầu làm đẹp và quà tặng cao cấp.
+  icon: FaGem
+  url: http://trangsuc.mauthemewp.com
+  color: "#DAA520"
+  repo: JewelryStore
+
+- order: 156
+  name: Xuất khẩu lao động
+  description: Cung cấp dịch vụ tư vấn và hỗ trợ xuất khẩu lao động, giúp người lao động tìm kiếm cơ hội làm việc ở nước ngoài.
+  icon: FaHandshake
+  url: http://xkld3.mauthemewp.com
+  color: "#1E90FF"
+  repo: LaborExport
+
+- order: 157
+  name: Studio chụp ảnh
+  description: Cung cấp dịch vụ chụp ảnh chuyên nghiệp cho cá nhân và doanh nghiệp, từ ảnh cưới, chân dung đến quảng cáo sản phẩm.
+  icon: FaCamera
+  url: http://studio5.mauthemewp.com
+  color: "#FF4500"
+  repo: PhotographyStudio
+
+- order: 158
+  name: Cửa nhôm
+  description: Cung cấp các sản phẩm cửa nhôm chất lượng cao, từ cửa đi, cửa sổ đến cửa mặt tiền, đáp ứng nhu cầu sử dụng cho các công trình dân dụng và công nghiệp.
+  icon: FaDoorOpen
+  url: http://cuanhom3.mauthemewp.com
+  color: "#2F4F4F"
+  repo: AluminumDoors
+
+- order: 159
+  name: Tin tức tổng hợp
+  description: Cung cấp các tin tức, bài viết cập nhật về các lĩnh vực trong xã hội như kinh tế, chính trị, văn hóa, thể thao, giúp người đọc nắm bắt thông tin nhanh chóng.
+  icon: FaNewspaper
+  url: http://tintuc1.mauthemewp.com
+  color: "#FF6347"
+  repo: NewsPortal
+
+- order: 160
+  name: Dịch vụ đặt hàng 24/7
+  description: Cung cấp dịch vụ đặt hàng trực tuyến với giao hàng nhanh chóng, phục vụ mọi nhu cầu mua sắm của khách hàng bất cứ lúc nào trong ngày.
+  icon: FaShoppingCart
+  url: http://order247.mauthemewp.com
+  color: "#32CD32"
+  repo: 24hOrderService
+
+- order: 161
+  name: Du lịch truyền thống
+  description: Cung cấp các dịch vụ du lịch truyền thống với các tour du lịch trong nước và quốc tế, phục vụ nhu cầu tham quan, nghỉ dưỡng và khám phá.
+  icon: FaGlobe
+  url: http://dulichtruyenthong.mauthemewp.com
+  color: "#1E90FF"
+  repo: TraditionalTours
+
+- order: 162
+  name: Học lái xe
+  description: Cung cấp dịch vụ đào tạo lái xe ô tô và xe máy với các khóa học chuyên nghiệp và giáo viên giàu kinh nghiệm.
+  icon: FaCar
+  url: http://hoclaixe.mauthemewp.com
+  color: "#FFD700"
+  repo: DrivingSchool
+
+- order: 163
+  name: Giày dép thời trang
+  description: Cung cấp các mẫu giày dép thời trang đa dạng, từ giày thể thao, giày công sở đến giày cao gót, phục vụ cho mọi nhu cầu làm đẹp và thời trang.
+  icon: FaShoePrints
+  url: http://giaydep.mauthemewp.com
+  color: "#FF69B4"
+  repo: FootwearFashion
+
+- order: 164
+  name: Spa chăm sóc sắc đẹp
+  description: Cung cấp các dịch vụ spa, chăm sóc sắc đẹp như massage, xông hơi, trị liệu da, giúp khách hàng thư giãn và tái tạo năng lượng.
+  icon: FaSpa
+  url: http://spa6.mauthemewp.com
+  color: "#FF1493"
+  repo: BeautySpa
+
+- order: 165
+  name: Viện đào tạo phát triển nghề nghiệp
+  description: Cung cấp các khóa học đào tạo nghề, phát triển kỹ năng nghề nghiệp và hỗ trợ tư vấn hướng nghiệp cho các cá nhân và doanh nghiệp.
+  icon: FaChalkboardTeacher
+  url: http://viendatpk.mauthemewp.com
+  color: "#32CD32"
+  repo: CareerDevelopment
+
+- order: 166
+  name: Du lịch khám phá
+  description: Cung cấp các tour du lịch khám phá, từ du lịch trong nước đến quốc tế, phục vụ nhu cầu khám phá những địa điểm mới lạ và kỳ thú.
+  icon: FaMapMarkerAlt
+  url: http://dulich6.mauthemewp.com
+  color: "#1E90FF"
+  repo: AdventureTours
+
+- order: 167
+  name: Tạp hóa và nhu yếu phẩm
+  description: Cung cấp các mặt hàng tạp hóa và nhu yếu phẩm thiết yếu cho gia đình như thực phẩm, đồ uống, và các sản phẩm tiêu dùng hàng ngày.
+  icon: FaShoppingBasket
+  url: http://taphoa.mauthemewp.com
+  color: "#FFD700"
+  repo: GroceryStore
+
+- order: 168
+  name: Bất động sản và nhà đất
+  description: Cung cấp các dịch vụ bất động sản như mua bán, cho thuê nhà đất, cùng với các tư vấn đầu tư và quản lý bất động sản.
+  icon: FaBuilding
+  url: http://bds25.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstateServices
+
+- order: 169
+  name: Mẹ và bé
+  description: Cung cấp các sản phẩm dành cho mẹ và bé như đồ dùng, thực phẩm, đồ chơi, giúp chăm sóc sức khỏe và phát triển cho trẻ nhỏ.
+  icon: FaBabyCarriage
+  url: http://mevabe.mauthemewp.com
+  color: "#FF69B4"
+  repo: MotherAndBaby
+
+- order: 170
+  name: Thực phẩm chức năng
+  description: Cung cấp các loại thực phẩm chức năng giúp cải thiện sức khỏe, tăng cường miễn dịch, hỗ trợ giảm cân, và bổ sung dưỡng chất cho cơ thể.
+  icon: FaAppleAlt
+  url: http://thucphamchucnang3.mauthemewp.com
+  color: "#32CD32"
+  repo: HealthSupplements
+
+- order: 171
+  name: Công ty dịch vụ
+  description: Cung cấp các dịch vụ doanh nghiệp như tư vấn, triển khai giải pháp công nghệ, và các dịch vụ khác phục vụ nhu cầu phát triển doanh nghiệp.
+  icon: FaBuilding
+  url: http://congty4.mauthemewp.com
+  color: "#4682B4"
+  repo: CorporateServices
+
+- order: 172
+  name: Casino và trò chơi
+  description: Cung cấp các dịch vụ casino trực tuyến, trò chơi cá cược, và các trò chơi giải trí khác cho người yêu thích thử vận may.
+  icon: FaDice
+  url: http://casino1.mauthemewp.com
+  color: "#FFD700"
+  repo: OnlineCasino
+
+- order: 173
+  name: Du lịch kỳ thú
+  description: Cung cấp các tour du lịch khám phá, tham quan các địa điểm du lịch nổi tiếng trong nước và quốc tế với chất lượng dịch vụ cao cấp.
+  icon: FaGlobe
+  url: http://dulich12.mauthemewp.com
+  color: "#1E90FF"
+  repo: ExoticTours
+
+- order: 174
+  name: Học tiếng Nhật
+  description: Cung cấp các khóa học tiếng Nhật từ cơ bản đến nâng cao, giúp học viên giao tiếp và sử dụng tiếng Nhật trong công việc và cuộc sống.
+  icon: FaLanguage
+  url: http://hoctiengnhat.mauthemewp.com
+  color: "#FF6347"
+  repo: JapaneseLearning
+
+- order: 175
+  name: Cửa nhôm và vật liệu xây dựng
+  description: Cung cấp các sản phẩm cửa nhôm chất lượng cao và vật liệu xây dựng cho các công trình dân dụng và công nghiệp.
+  icon: FaBuilding
+  url: http://cuanhom1.mauthemewp.com
+  color: "#8B4513"
+  repo: AluminumDoors
+
+- order: 176
+  name: Máy lọc nước
+  description: Cung cấp các loại máy lọc nước chất lượng cao, giúp cải thiện chất lượng nước sinh hoạt và bảo vệ sức khỏe gia đình.
+  icon: FaTint
+  url: http://mayloc3.mauthemewp.com
+  color: "#00CED1"
+  repo: WaterPurifiers
+
+- order: 177
+  name: Thẩm mỹ viện
+  description: Cung cấp các dịch vụ thẩm mỹ như làm đẹp da, trị liệu, phẫu thuật thẩm mỹ và chăm sóc sắc đẹp chuyên nghiệp.
+  icon: FaHeartbeat
+  url: http://thammyvien.mauthemewp.com
+  color: "#FF1493"
+  repo: AestheticClinic
+
+- order: 178
+  name: Vay tiền nhanh
+  description: Cung cấp các dịch vụ vay tiền nhanh với thủ tục đơn giản, giúp khách hàng giải quyết các vấn đề tài chính một cách nhanh chóng.
+  icon: FaDollarSign
+  url: http://vaytien2.mauthemewp.com
+  color: "#32CD32"
+  repo: QuickLoans
+
+- order: 179
+  name: Máy phát điện
+  description: Cung cấp các loại máy phát điện công suất lớn và nhỏ, phục vụ cho nhu cầu sử dụng trong gia đình và công nghiệp.
+  icon: FaPlug
+  url: http://mayphatdien.mauthemewp.com
+  color: "#FFD700"
+  repo: Generators
+
+- order: 180
+  name: Spa và chăm sóc sức khỏe
+  description: Cung cấp các dịch vụ spa thư giãn, chăm sóc sức khỏe và sắc đẹp như massage, xông hơi, trị liệu da, giúp khách hàng tái tạo năng lượng.
+  icon: FaSpa
+  url: http://spa2.mauthemewp.com
+  color: "#FF6347"
+  repo: HealthSpa
+
+- order: 181
+  name: Giới thiệu công ty
+  description: Cung cấp thông tin về công ty, các dịch vụ và sản phẩm, giúp khách hàng tìm hiểu và kết nối với công ty dễ dàng hơn.
+  icon: FaInfoCircle
+  url: http://gioithieu6.mauthemewp.com
+  color: "#1E90FF"
+  repo: CompanyIntroduction
+
+- order: 182
+  name: Thiết kế website
+  description: Cung cấp dịch vụ thiết kế website chuyên nghiệp, tạo ra các giao diện web đẹp mắt và tối ưu, đáp ứng nhu cầu của doanh nghiệp và cá nhân.
+  icon: FaLaptopCode
+  url: http://thietkew01.mauthemewp.com
+  color: "#FFD700"
+  repo: WebDesignServices
+
+- order: 183
+  name: Nội thất hiện đại
+  description: Cung cấp các sản phẩm và dịch vụ thiết kế nội thất, từ các vật dụng trang trí đến thiết kế không gian sống và làm việc theo phong cách hiện đại.
+  icon: FaCouch
+  url: http://noithat22.mauthemewp.com
+  color: "#8B4513"
+  repo: ModernInteriorDesign
+
+- order: 184
+  name: Spa thư giãn
+  description: Cung cấp các dịch vụ spa cao cấp như massage, chăm sóc da, xông hơi, giúp khách hàng thư giãn và cải thiện sức khỏe.
+  icon: FaSpa
+  url: http://spa8.mauthemewp.com
+  color: "#FF6347"
+  repo: RelaxationSpa
+
+- order: 185
+  name: Giới thiệu công ty
+  description: Giới thiệu thông tin về công ty, các lĩnh vực hoạt động, dịch vụ cung cấp, và tầm nhìn phát triển, giúp khách hàng hiểu rõ hơn về công ty.
+  icon: FaInfoCircle
+  url: http://gioithieu7.mauthemewp.com
+  color: "#1E90FF"
+  repo: CompanyIntroduction
+
+- order: 186
+  name: Spa chăm sóc sắc đẹp
+  description: Cung cấp các dịch vụ spa đa dạng từ chăm sóc da, trị liệu thư giãn, đến dịch vụ làm đẹp chuyên sâu, giúp khách hàng duy trì sắc đẹp và sức khỏe.
+  icon: FaHeartbeat
+  url: http://spa1.mauthemewp.com
+  color: "#FF1493"
+  repo: BeautyCareSpa
+
+- order: 187
+  name: Cho thuê xe
+  description: Cung cấp dịch vụ cho thuê xe các loại, từ xe du lịch, xe tự lái đến xe đưa đón, phục vụ nhu cầu di chuyển của cá nhân và doanh nghiệp.
+  icon: FaCar
+  url: http://thuexe2.mauthemewp.com
+  color: "#32CD32"
+  repo: CarRentalServices
+
+- order: 188
+  name: Máy công nghiệp
+  description: Cung cấp các loại máy móc công nghiệp, bao gồm máy chế biến, máy sản xuất và thiết bị phục vụ cho các ngành công nghiệp nặng.
+  icon: FaCogs
+  url: http://maycong2.mauthemewp.com
+  color: "#708090"
+  repo: IndustrialMachines
+
+- order: 189
+  name: Studio sáng tạo
+  description: Cung cấp dịch vụ thiết kế sáng tạo, bao gồm thiết kế đồ họa, nhiếp ảnh, quay phim, giúp các doanh nghiệp và cá nhân thể hiện ý tưởng một cách ấn tượng.
+  icon: FaCameraRetro
+  url: http://studio4.mauthemewp.com
+  color: "#FF4500"
+  repo: CreativeStudio
+
+- order: 190
+  name: Nha khoa
+  description: Cung cấp các dịch vụ chăm sóc răng miệng như khám, chữa bệnh, làm răng thẩm mỹ và điều trị các vấn đề về nha khoa.
+  icon: FaTooth
+  url: http://nhakhoa.mauthemewp.com
+  color: "#00BFFF"
+  repo: DentalServices
+
+- order: 191
+  name: Thực phẩm dinh dưỡng
+  description: Cung cấp các loại thực phẩm bổ sung dinh dưỡng, bao gồm thực phẩm chức năng, thực phẩm bảo vệ sức khỏe, hỗ trợ chế độ ăn uống lành mạnh.
+  icon: FaAppleAlt
+  url: http://thucpham22.mauthemewp.com
+  color: "#32CD32"
+  repo: NutritionalFood
+
+- order: 192
+  name: Sự kiện đặc biệt
+  description: Tổ chức và cung cấp thông tin về các sự kiện đặc biệt, hội thảo, triển lãm và các hoạt động cộng đồng quan trọng.
+  icon: FaCalendarAlt
+  url: http://event6.mauthemewp.com
+  color: "#FF6347"
+  repo: SpecialEvents
+
+- order: 193
+  name: Cửa hàng mã nguồn
+  description: Cung cấp các dịch vụ và sản phẩm liên quan đến lập trình, bao gồm bán mã nguồn, tài liệu học tập và các công cụ phát triển phần mềm.
+  icon: FaCode
+  url: http://shopcode.mauthemewp.com
+  color: "#1E90FF"
+  repo: SourceCodeStore
+
+- order: 194
+  name: Tổng đài hỗ trợ
+  description: Cung cấp dịch vụ tổng đài hỗ trợ khách hàng, tư vấn và giải đáp các vấn đề liên quan đến sản phẩm và dịch vụ.
+  icon: FaPhoneAlt
+  url: http://tongdai.mauthemewp.com
+  color: "#FFD700"
+  repo: CallCenter
+
+- order: 195
+  name: Học đàn
+  description: Cung cấp các khóa học dạy đàn từ cơ bản đến nâng cao, giúp học viên phát triển kỹ năng âm nhạc của mình.
+  icon: FaGuitar
+  url: http://hocdan.mauthemewp.com
+  color: "#FF6347"
+  repo: MusicLessons
+
+- order: 196
+  name: Chứng khoán
+  description: Cung cấp các dịch vụ liên quan đến chứng khoán, bao gồm thông tin, giao dịch và phân tích thị trường chứng khoán.
+  icon: FaChartLine
+  url: http://chungkhoan.mauthemewp.com
+  color: "#32CD32"
+  repo: StockMarket
+
+- order: 197
+  name: Luật sư tư vấn
+  description: Cung cấp dịch vụ tư vấn pháp lý, bao gồm giải quyết các vấn đề về pháp luật dân sự, hình sự và các dịch vụ luật sư chuyên nghiệp.
+  icon: FaBalanceScale
+  url: http://luatsu3.mauthemewp.com
+  color: "#1E90FF"
+  repo: LegalServices
+
+- order: 198
+  name: Giới thiệu công ty
+  description: Cung cấp thông tin về công ty, các lĩnh vực hoạt động và tầm nhìn phát triển, giúp khách hàng hiểu rõ hơn về công ty.
+  icon: FaInfoCircle
+  url: http://gioithieu1.mauthemewp.com
+  color: "#00BFFF"
+  repo: CompanyIntroduction
+
+- order: 199
+  name: Trung tâm Piano
+  description: Cung cấp các khóa học piano cho mọi đối tượng, từ người mới bắt đầu đến nâng cao, giúp học viên phát triển tài năng âm nhạc.
+  icon: FaMusic
+  url: http://pianocenter.mauthemewp.com
+  color: "#8A2BE2"
+  repo: PianoCenter
+
+- order: 200
+  name: Mỹ phẩm cao cấp
+  description: Cung cấp các sản phẩm mỹ phẩm chất lượng, bao gồm các dòng sản phẩm chăm sóc da, trang điểm và dưỡng thể, giúp bạn duy trì vẻ đẹp tự nhiên.
+  icon: FaRegStar
+  url: http://mypham04.mauthemewp.com
+  color: "#FF69B4"
+  repo: PremiumCosmetics
+
+- order: 201
+  name: Thanh lý hàng hóa
+  description: Cung cấp các sản phẩm thanh lý, bao gồm hàng tồn kho, giảm giá hoặc các mặt hàng không còn sản xuất, giúp khách hàng tiết kiệm chi phí.
+  icon: FaTag
+  url: http://thanhly3.mauthemewp.com
+  color: "#32CD32"
+  repo: ClearanceSales
+
+- order: 202
+  name: Đèn LED tiết kiệm năng lượng
+  description: Cung cấp các loại đèn LED tiết kiệm điện năng, phù hợp cho gia đình, văn phòng và công ty, giúp tiết kiệm chi phí điện năng và bảo vệ môi trường.
+  icon: FaLightbulb
+  url: http://denled1.mauthemewp.com
+  color: "#FFD700"
+  repo: EnergySavingLights
+
+- order: 203
+  name: Bất động sản
+  description: Cung cấp các dịch vụ mua bán và cho thuê bất động sản, bao gồm nhà ở, căn hộ, đất đai và các loại hình bất động sản khác.
+  icon: FaBuilding
+  url: http://bds26.mauthemewp.com
+  color: "#FF6347"
+  repo: RealEstate
+
+- order: 204
+  name: Xuất khẩu lao động
+  description: Cung cấp dịch vụ tư vấn và hỗ trợ xuất khẩu lao động, giúp người lao động tìm kiếm cơ hội làm việc ở nước ngoài.
+  icon: FaUsers
+  url: http://xkld6.mauthemewp.com
+  color: "#1E90FF"
+  repo: LaborExport
+
+- order: 205
+  name: Sao Việt
+  description: Cung cấp các dịch vụ liên quan đến nghệ sĩ, bao gồm tổ chức sự kiện, quảng bá và các hoạt động nghệ thuật.
+  icon: FaStar
+  url: http://saoviet.mauthemewp.com
+  color: "#FF4500"
+  repo: VietnamStars
+
+- order: 206
+  name: Mica sản xuất
+  description: Cung cấp các sản phẩm từ mica, bao gồm bảng hiệu, vỏ hộp, khay đựng và các sản phẩm trang trí khác, phục vụ cho nhiều ngành công nghiệp.
+  icon: FaRegFile
+  url: http://mica.mauthemewp.com
+  color: "#00FA9A"
+  repo: MicaProducts
+
+- order: 207
+  name: Công ty dịch vụ
+  description: Cung cấp các dịch vụ chuyên nghiệp cho doanh nghiệp và cá nhân, bao gồm tư vấn, giải pháp công nghệ và các dịch vụ hỗ trợ khác.
+  icon: FaIndustry
+  url: http://congty5.mauthemewp.com
+  color: "#8A2BE2"
+  repo: CompanyServices
+
+- order: 208
+  name: Điện máy
+  description: Cung cấp các thiết bị điện máy, bao gồm máy lạnh, tủ lạnh, máy giặt và các sản phẩm điện tử gia dụng khác.
+  icon: FaPlug
+  url: http://dienmay5.mauthemewp.com
+  color: "#FFD700"
+  repo: Electronics
+
+- order: 209
+  name: Thể thao và dụng cụ thể dục
+  description: Cung cấp các sản phẩm thể thao, thiết bị tập luyện và dụng cụ hỗ trợ sức khỏe như tạ, giàn tập gym, thiết bị yoga.
+  icon: FaDumbbell
+  url: http://gymshop.mauthemewp.com
+  color: "#FF6347"
+  repo: GymShop
+
+- order: 210
+  name: Mỹ phẩm thiên nhiên
+  description: Cung cấp các sản phẩm mỹ phẩm thiên nhiên, an toàn cho sức khỏe và phù hợp với mọi loại da.
+  icon: FaLeaf
+  url: http://mypham7.mauthemewp.com
+  color: "#32CD32"
+  repo: NaturalCosmetics
+
+- order: 211
+  name: Triệt lông thẩm mỹ
+  description: Cung cấp dịch vụ triệt lông công nghệ cao, giúp bạn có làn da mịn màng, không tỳ vết và an toàn cho sức khỏe.
+  icon: FaLaser
+  url: http://trietlongthammyvien.mauthemewp.com
+  color: "#FF1493"
+  repo: HairRemoval
+  
+- order: 212
+  name: Kiến trúc xây dựng
+  description: Cung cấp dịch vụ thiết kế kiến trúc, xây dựng nhà ở, công trình dân dụng và các giải pháp về không gian sống hiện đại.
+  icon: FaBuilding
+  url: http://kientruc2.mauthemewp.com
+  color: "#00BFFF"
+  repo: ArchitectureDesign
+
+- order: 213
+  name: Thuê xe
+  description: Cung cấp dịch vụ cho thuê xe ô tô, xe máy với nhiều loại xe phù hợp cho các nhu cầu di chuyển cá nhân hoặc công ty.
+  icon: FaCar
+  url: http://thuexe5.mauthemewp.com
+  color: "#32CD32"
+  repo: CarRental
+
+- order: 214
+  name: Tượng Phật
+  description: Cung cấp các sản phẩm tượng Phật bằng chất liệu gỗ, đá, đồng và các vật phẩm thờ cúng Phật giáo khác.
+  icon: FaBlessed
+  url: http://tuongphat.mauthemewp.com
+  color: "#8A2BE2"
+  repo: BuddhaSculptures
+
+- order: 215
+  name: Viva Clinic
+  description: Cung cấp các dịch vụ thẩm mỹ và chăm sóc sức khỏe tại Viva Clinic, giúp bạn cải thiện vẻ đẹp và sức khỏe toàn diện.
+  icon: FaClinicMedical
+  url: http://vivaclinic.mauthemewp.com
+  color: "#FF6347"
+  repo: VivaClinic
+
+- order: 216
+  name: Đồ chơi xe hơi
+  description: Cung cấp các loại đồ chơi và phụ kiện cho xe hơi, bao gồm thiết bị điện tử, đồ trang trí và các sản phẩm tiện ích.
+  icon: FaCarAlt
+  url: http://dochoixephinh.mauthemewp.com
+  color: "#FFD700"
+  repo: CarAccessories
+
+- order: 217
+  name: Lọc nước
+  description: Cung cấp các sản phẩm lọc nước cho gia đình và công nghiệp, đảm bảo nguồn nước sạch và an toàn cho sức khỏe.
+  icon: FaWater
+  url: http://locnuoc.mauthemewp.com
+  color: "#1E90FF"
+  repo: WaterPurification
+
+- order: 218
+  name: Tin tức cập nhật
+  description: Cung cấp các thông tin, tin tức mới nhất về nhiều lĩnh vực, bao gồm xã hội, chính trị, kinh tế và văn hóa.
+  icon: FaNewspaper
+  url: http://tintuc16.mauthemewp.com
+  color: "#FFD700"
+  repo: NewsUpdates
+
+- order: 219
+  name: Nha khoa chuyên nghiệp
+  description: Cung cấp dịch vụ chăm sóc răng miệng, từ khám chữa bệnh, điều trị đến thẩm mỹ nha khoa, giúp bạn có một hàm răng khỏe mạnh.
+  icon: FaTooth
+  url: http://nhakhoa2.mauthemewp.com
+  color: "#FF6347"
+  repo: DentalCare
+
+- order: 220
+  name: Xăm hình nghệ thuật
+  description: Cung cấp dịch vụ xăm hình nghệ thuật, giúp bạn có những tác phẩm xăm độc đáo, sáng tạo và đầy cá tính.
+  icon: FaTattoo
+  url: http://xamhinh.mauthemewp.com
+  color: "#8A2BE2"
+  repo: TattooArt
+
+- order: 221
+  name: Nội thất hiện đại
+  description: Cung cấp các sản phẩm nội thất cao cấp và thiết kế nội thất cho không gian sống hiện đại và sang trọng.
+  icon: FaCouch
+  url: http://noithat26.mauthemewp.com
+  color: "#32CD32"
+  repo: ModernFurniture
+
+- order: 222
+  name: Tinh bột tự nhiên
+  description: Cung cấp các loại tinh bột tự nhiên, như bột nghệ, bột sắn, bột gạo, phục vụ cho chế biến thực phẩm và các công dụng làm đẹp.
+  icon: FaLeaf
+  url: http://tinhbot.mauthemewp.com
+  color: "#FF4500"
+  repo: NaturalFlours
+
+- order: 223
+  name: Đồng phục công ty
+  description: Cung cấp các sản phẩm đồng phục cho công ty, trường học, bệnh viện và các tổ chức khác, đảm bảo chất lượng và thiết kế đẹp mắt.
+  icon: FaTshirt
+  url: http://dongphuc2.mauthemewp.com
+  color: "#FF1493"
+  repo: CorporateUniforms
+
+- order: 224
+  name: Đầm yến nghệ thuật
+  description: Cung cấp các sản phẩm đầm yến và trang phục nghệ thuật cho các sự kiện đặc biệt, với thiết kế độc đáo và chất liệu cao cấp.
+  icon: FaGuitar
+  url: http://damynghe.mauthemewp.com
+  color: "#FFD700"
+  repo: ArtDress
+
+- order: 225
+  name: Thúy sinh - Thú cảnh
+  description: Cung cấp các loại thú cưng, động vật cảnh và các sản phẩm chăm sóc thú nuôi, bảo vệ sức khỏe cho thú cưng yêu thích của bạn.
+  icon: FaDog
+  url: http://thuysinh.mauthemewp.com
+  color: "#32CD32"
+  repo: PetCare
+
+- order: 226
+  name: Lắp mạng Internet
+  description: Cung cấp dịch vụ lắp đặt mạng internet tốc độ cao cho hộ gia đình và doanh nghiệp, với nhiều gói cước và giải pháp tối ưu.
+  icon: FaWifi
+  url: http://lapmang.mauthemewp.com
+  color: "#1E90FF"
+  repo: InternetServices
+
+- order: 227
+  name: Bọc ghế ô tô
+  description: Cung cấp dịch vụ bọc ghế ô tô chất lượng cao, giúp bảo vệ và làm mới nội thất xe của bạn, với nhiều mẫu mã và chất liệu khác nhau.
+  icon: FaCarAlt
+  url: http://bocghe.mauthemewp.com
+  color: "#FF6347"
+  repo: CarUpholstery
+
+- order: 228
+  name: Bếp từ gia dụng
+  description: Cung cấp các sản phẩm bếp từ chất lượng cao cho gia đình, giúp nấu ăn nhanh chóng, tiết kiệm năng lượng và an toàn.
+  icon: FaFire
+  url: http://beptu2.mauthemewp.com
+  color: "#FF4500"
+  repo: InductionCookers
+
+- order: 229
+  name: Camera an ninh
+  description: Cung cấp các hệ thống camera an ninh, giám sát và bảo vệ nhà cửa, văn phòng với chất lượng hình ảnh sắc nét và tính năng hiện đại.
+  icon: FaVideo
+  url: http://camera4.mauthemewp.com
+  color: "#A52A2A"
+  repo: SecurityCameras
+
+- order: 230
+  name: Khóa học cho bé
+  description: Cung cấp các khóa học, lớp học kỹ năng và phát triển trí tuệ cho trẻ em, giúp trẻ phát triển toàn diện từ sớm.
+  icon: FaChild
+  url: http://khoahocchobe.mauthemewp.com
+  color: "#FF6347"
+  repo: KidsLearning
+
+- order: 231
+  name: Thời trang nam nữ
+  description: Cung cấp các bộ sưu tập thời trang nam nữ hiện đại, đa dạng về kiểu dáng, phù hợp với mọi phong cách và sự kiện.
+  icon: FaShirt
+  url: http://thoitrang6.mauthemewp.com
+  color: "#DC143C"
+  repo: FashionTrends
+
+- order: 232
+  name: Điện máy Xanh
+  description: Cung cấp các sản phẩm điện máy chất lượng cao, từ thiết bị gia dụng, điện tử đến các sản phẩm công nghệ tiên tiến.
+  icon: FaPlug
+  url: http://dienmayxanh2.mauthemewp.com
+  color: "#32CD32"
+  repo: ElectronicsStore
+
+- order: 233
+  name: Bất động sản 20
+  description: Dịch vụ môi giới bất động sản chuyên nghiệp, cung cấp các lựa chọn về nhà ở, đất đai và các dự án đầu tư bất động sản tiềm năng.
+  icon: FaHome
+  url: http://bds20.mauthemewp.com
+  color: "#FFD700"
+  repo: RealEstate
+
+- order: 234
+  name: Gốm sứ cao cấp
+  description: Cung cấp các sản phẩm gốm sứ cao cấp, bao gồm đồ gia dụng, trang trí và quà tặng, với thiết kế tinh xảo và chất lượng tuyệt vời.
+  icon: FaCeremonialMask
+  url: http://gomsu.mauthemewp.com
+  color: "#8B4513"
+  repo: Ceramics
+
+- order: 235
+  name: Xây dựng công trình
+  description: Cung cấp dịch vụ xây dựng nhà ở, công trình dân dụng và công nghiệp, từ thiết kế đến thi công hoàn thiện công trình.
+  icon: FaTools
+  url: http://xaydung6.mauthemewp.com
+  color: "#8A2BE2"
+  repo: ConstructionServices
+
+- order: 236
+  name: Hyundai 2
+  description: Cung cấp các dòng xe ô tô Hyundai với chất lượng vượt trội, dịch vụ bảo trì và hỗ trợ khách hàng tốt nhất.
+  icon: FaCar
+  url: http://hyundai2.mauthemewp.com
+  color: "#FF4500"
+  repo: HyundaiCars
+
+- order: 237
+  name: Du lịch khám phá
+  description: Dịch vụ du lịch trọn gói, tổ chức tour du lịch khám phá các địa điểm hấp dẫn trong và ngoài nước, phù hợp với mọi nhu cầu.
+  icon: FaGlobe
+  url: http://dulich.mauthemewp.com
+  color: "#20B2AA"
+  repo: TravelServices
+
+- order: 238
+  name: Health Coach
+  description: Dịch vụ huấn luyện sức khỏe, cung cấp các chương trình tập luyện, dinh dưỡng và chăm sóc sức khỏe toàn diện.
+  icon: FaHeartbeat
+  url: http://healthcoach.mauthemewp.com
+  color: "#FF6347"
+  repo: HealthCoach
+
+- order: 239
+  name: Du lịch 13
+  description: Dịch vụ tổ chức các tour du lịch 13 cho các khách hàng yêu thích khám phá các địa điểm du lịch mới lạ và hấp dẫn.
+  icon: FaBus
+  url: http://dulich13.mauthemewp.com
+  color: "#8A2BE2"
+  repo: TravelAgency
+
+- order: 240
+  name: Bất động sản 14
+  description: Môi giới bất động sản chuyên nghiệp, cung cấp các lựa chọn nhà đất và các dự án đầu tư sinh lời.
+  icon: FaBuilding
+  url: http://bds14.mauthemewp.com
+  color: "#FFD700"
+  repo: RealEstate
+
+- order: 241
+  name: Coin
+  description: Cung cấp các dịch vụ giao dịch tiền điện tử, hỗ trợ mua bán, chuyển đổi và lưu trữ các loại coin.
+  icon: FaBitcoin
+  url: http://coin.mauthemewp.com
+  color: "#FF8C00"
+  repo: Cryptocurrency
+
+- order: 242
+  name: Sự kiện
+  description: Cung cấp các dịch vụ tổ chức sự kiện, từ hội thảo, hội nghị đến các sự kiện giải trí, lễ hội, với chất lượng dịch vụ vượt trội.
+  icon: FaCalendarAlt
+  url: http://sukien.mauthemewp.com
+  color: "#FF1493"
+  repo: EventServices
+
+- order: 243
+  name: Du lịch 10
+  description: Cung cấp các tour du lịch khám phá, trải nghiệm các địa danh mới, đảm bảo hành trình thú vị và an toàn cho khách hàng.
+  icon: FaPlane
+  url: http://dulich10.mauthemewp.com
+  color: "#1E90FF"
+  repo: TravelAgency
+
+- order: 244
+  name: Hyundai 3
+  description: Dịch vụ cung cấp các dòng xe ô tô Hyundai mới nhất, với chất lượng và công nghệ tiên tiến, phù hợp với mọi nhu cầu di chuyển.
+  icon: FaCar
+  url: http://hyundai3.mauthemewp.com
+  color: "#DC143C"
+  repo: HyundaiCars
+
+- order: 245
+  name: Smart Home 2
+  description: Cung cấp các giải pháp nhà thông minh, từ thiết bị điều khiển điện tử đến hệ thống an ninh, giúp nâng cao tiện nghi sống.
+  icon: FaHome
+  url: http://smarthome2.mauthemewp.com
+  color: "#32CD32"
+  repo: SmartHomeSolutions
+
+- order: 246
+  name: Mỹ phẩm 9
+  description: Cung cấp các sản phẩm mỹ phẩm chính hãng, chăm sóc sắc đẹp, da, tóc từ các thương hiệu nổi tiếng trên thị trường.
+  icon: FaLipstick
+  url: http://mypham9.mauthemewp.com
+  color: "#FF69B4"
+  repo: BeautyProducts
+
+- order: 247
+  name: Thực phẩm 11
+  description: Cung cấp các loại thực phẩm chức năng, bổ sung dinh dưỡng và hỗ trợ sức khỏe, với các sản phẩm chất lượng cao.
+  icon: FaAppleAlt
+  url: http://thucpham11.mauthemewp.com
+  color: "#228B22"
+  repo: HealthSupplements
+
+- order: 248
+  name: Vận chuyển Uc
+  description: Dịch vụ vận chuyển hàng hóa đi Úc, đảm bảo an toàn, nhanh chóng và giá cả hợp lý cho khách hàng.
+  icon: FaTruck
+  url: http://vanchuyenuc.mauthemewp.com
+  color: "#FF6347"
+  repo: ShippingServices
+
+- order: 249
+  name: Mỹ phẩm 05
+  description: Cung cấp các sản phẩm mỹ phẩm chất lượng, chăm sóc sắc đẹp từ các thương hiệu uy tín, đảm bảo an toàn và hiệu quả.
+  icon: FaLeaf
+  url: http://mypham05.mauthemewp.com
+  color: "#FF1493"
+  repo: BeautyCare
+
+- order: 250
+  name: Nội thất 14
+  description: Cung cấp các sản phẩm nội thất cao cấp, thiết kế đẹp mắt và chất lượng để tạo không gian sống tiện nghi và sang trọng.
+  icon: FaCouch
+  url: http://noithat14.mauthemewp.com
+  color: "#D2691E"
+  repo: InteriorDesign
+
+- order: 251
+  name: Ca Sĩ
+  description: Cung cấp các dịch vụ quản lý, biểu diễn của ca sĩ chuyên nghiệp, tổ chức các sự kiện âm nhạc, giao lưu nghệ thuật.
+  icon: FaMusic
+  url: http://casy.mauthemewp.com
+  color: "#8A2BE2"
+  repo: MusicArtist
+
+- order: 252
+  name: Bao Bì
+  description: Cung cấp các loại bao bì chất lượng cao cho các ngành công nghiệp, từ thực phẩm đến sản phẩm tiêu dùng, với giải pháp đóng gói hiệu quả.
+  icon: FaBox
+  url: http://baobi.mauthemewp.com
+  color: "#2E8B57"
+  repo: PackagingServices
+
+- order: 253
+  name: Thuốc Nam
+  description: Cung cấp các sản phẩm thuốc nam chất lượng, giúp cải thiện sức khỏe và phòng ngừa bệnh tật, với nguyên liệu từ thiên nhiên.
+  icon: FaLeaf
+  url: http://thuocnam.mauthemewp.com
+  color: "#32CD32"
+  repo: HerbalMedicine
+
+- order: 254
+  name: Vé Máy Bay Giá Rẻ
+  description: Dịch vụ bán vé máy bay giá rẻ với các ưu đãi hấp dẫn, giúp bạn dễ dàng di chuyển đến các địa điểm yêu thích.
+  icon: FaPlane
+  url: http://vemaybaygiare.mauthemewp.com
+  color: "#FF4500"
+  repo: BudgetFlights
+
+- order: 255
+  name: Bó Khoa
+  description: Cung cấp các sản phẩm bó khoa chất lượng, giúp bảo vệ sức khỏe và hỗ trợ điều trị các vấn đề liên quan đến xương khớp.
+  icon: FaHeartbeat
+  url: http://bokho.mauthemewp.com
+  color: "#FF6347"
+  repo: HealthProducts
+
+- order: 256
+  name: Nội Thất GovI
+  description: Cung cấp các sản phẩm nội thất chất lượng, từ bàn ghế, giường tủ đến các đồ dùng trang trí cho không gian sống.
+  icon: FaCouch
+  url: http://noithatgovi.mauthemewp.com
+  color: "#D2691E"
+  repo: InteriorDesign
+
+- order: 257
+  name: Cake 2
+  description: Cung cấp các loại bánh ngọt tươi ngon, từ bánh kem, bánh mì đến các món tráng miệng đặc sắc, phục vụ cho mọi dịp.
+  icon: FaBirthdayCake
+  url: http://cake2.mauthemewp.com
+  color: "#FFD700"
+  repo: BakeryShop
+
+- order: 258
+  name: Thanh Lý
+  description: Cung cấp dịch vụ thanh lý hàng hóa, bao gồm đồ dùng văn phòng, thiết bị điện tử, nội thất đã qua sử dụng với giá cả phải chăng.
+  icon: FaShoppingCart
+  url: http://thanhly.mauthemewp.com
+  color: "#A52A2A"
+  repo: ClearanceSales
+
+- order: 259
+  name: Bất Động Sản 33
+  description: Dịch vụ mua bán và cho thuê bất động sản, cung cấp các lựa chọn đa dạng từ căn hộ, nhà phố đến đất đai với giá cả hợp lý.
+  icon: FaHome
+  url: http://bds33.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstate
+
+- order: 260
+  name: Điện Nước
+  description: Dịch vụ sửa chữa, bảo trì hệ thống điện và nước, đảm bảo an toàn và hiệu quả cho các công trình dân dụng và công nghiệp.
+  icon: FaPlug
+  url: http://diennuoc.mauthemewp.com
+  color: "#1E90FF"
+  repo: ElectricalServices
+
+- order: 261
+  name: Thời Trang 4
+  description: Cung cấp các bộ sưu tập thời trang mới nhất, từ trang phục công sở, dạo phố đến các món đồ thể thao, phù hợp mọi lứa tuổi.
+  icon: FaTshirt
+  url: http://thoitrang4.mauthemewp.com
+  color: "#8B008B"
+  repo: FashionStore
+
+- order: 262
+  name: Tranh Gỗ
+  description: Cung cấp các sản phẩm tranh gỗ mỹ nghệ, từ tranh treo tường đến đồ trang trí nội thất độc đáo, mang lại không gian ấm cúng và sang trọng.
+  icon: FaPaintBrush
+  url: http://tranhgo.mauthemewp.com
+  color: "#A52A2A"
+  repo: WoodArt
+
+- order: 263
+  name: Hạn Cáp Quang
+  description: Dịch vụ lắp đặt và bảo trì hệ thống cáp quang, mang đến kết nối internet nhanh chóng và ổn định cho doanh nghiệp và hộ gia đình.
+  icon: FaSatelliteDish
+  url: http://hancapquang.mauthemewp.com
+  color: "#32CD32"
+  repo: FiberOpticServices
+
+- order: 264
+  name: Du Lịch 2
+  description: Dịch vụ tour du lịch đa dạng, từ các chuyến du lịch trong nước đến quốc tế, mang đến trải nghiệm đáng nhớ cho khách hàng.
+  icon: FaGlobe
+  url: http://dulich2.mauthemewp.com
+  color: "#FF8C00"
+  repo: TravelAgency
+
+- order: 265
+  name: Phần Mềm Bán Hàng
+  description: Cung cấp các phần mềm quản lý bán hàng, giúp các cửa hàng và doanh nghiệp tối ưu hóa quy trình bán hàng, quản lý kho, và doanh thu.
+  icon: FaShoppingCart
+  url: http://phanmembanhang.mauthemewp.com
+  color: "#FFD700"
+  repo: SalesSoftware
+
+- order: 266
+  name: Giặt Thảm Văn Phòng
+  description: Dịch vụ giặt thảm chuyên nghiệp cho các văn phòng, công ty, giúp không gian làm việc luôn sạch sẽ và thoáng mát.
+  icon: FaCarpet
+  url: http://giatthamvanphong.mauthemewp.com
+  color: "#32CD32"
+  repo: CarpetCleaning
+
+- order: 267
+  name: Mỹ Phẩm 3
+  description: Cung cấp các sản phẩm mỹ phẩm chăm sóc sắc đẹp, bao gồm các dòng sản phẩm skincare, make-up và dưỡng thể cao cấp.
+  icon: FaSpa
+  url: http://mypham3.mauthemewp.com
+  color: "#FF1493"
+  repo: BeautyProducts
+
+- order: 268
+  name: Sự Kiện 2
+  description: Dịch vụ tổ chức sự kiện chuyên nghiệp, từ hội nghị, tiệc cưới đến các buổi lễ khai trương và sự kiện đặc biệt khác.
+  icon: FaCalendarAlt
+  url: http://sukien2.mauthemewp.com
+  color: "#8A2BE2"
+  repo: EventPlanning
+
+- order: 269
+  name: Du Lịch 3
+  description: Cung cấp dịch vụ du lịch khám phá các điểm đến hấp dẫn trong nước và quốc tế, với các tour du lịch đa dạng cho mọi lứa tuổi.
+  icon: FaPlaneDeparture
+  url: http://dulich3.mauthemewp.com
+  color: "#00BFFF"
+  repo: TravelAgency
+
+- order: 270
+  name: Nội Thất
+  description: Cung cấp các sản phẩm nội thất hiện đại và sang trọng, từ sofa, giường ngủ đến các đồ trang trí nội thất khác cho không gian sống.
+  icon: FaCouch
+  url: http://noithat.mauthemewp.com
+  color: "#FFD700"
+  repo: InteriorDesign
+
+- order: 271
+  name: Thực Phẩm 13
+  description: Cung cấp các sản phẩm thực phẩm tươi ngon và an toàn, từ các thực phẩm chế biến sẵn, gia vị đến các món ăn đặc sản.
+  icon: FaUtensils
+  url: http://thucpham13.mauthemewp.com
+  color: "#228B22"
+  repo: FoodProducts
+
+- order: 272
+  name: Đồng Hồ 2
+  description: Cung cấp các loại đồng hồ cao cấp và thời trang, từ đồng hồ đeo tay, đồng hồ thông minh đến các mẫu đồng hồ sang trọng.
+  icon: FaClock
+  url: http://dongho2.mauthemewp.com
+  color: "#A52A2A"
+  repo: Watches
+
+- order: 273
+  name: Shop Thời Trang 2
+  description: Cửa hàng thời trang đa dạng các loại trang phục, từ các bộ đồ công sở đến trang phục dạo phố, đáp ứng nhu cầu của mọi lứa tuổi.
+  icon: FaTshirt
+  url: http://shopthoitrang2.mauthemewp.com
+  color: "#FF6347"
+  repo: FashionStore
+
+- order: 274
+  name: Isuzu
+  description: Dịch vụ cung cấp và bảo trì các dòng xe Isuzu, bao gồm các mẫu xe tải, xe hơi và các dịch vụ sửa chữa, bảo dưỡng xe.
+  icon: FaCar
+  url: http://isuzu.mauthemewp.com
+  color: "#000080"
+  repo: IsuzuDealership
+
+- order: 275
+  name: Gia Dụng
+  description: Cung cấp các sản phẩm gia dụng, từ máy giặt, máy hút bụi đến các thiết bị nhà bếp, giúp cải thiện chất lượng cuộc sống gia đình.
+  icon: FaHome
+  url: http://giadung.mauthemewp.com
+  color: "#B0C4DE"
+  repo: HomeAppliances
+
+- order: 276
+  name: Sofa
+  description: Các mẫu sofa cao cấp, từ sofa đơn, sofa văng đến bộ sofa phòng khách, giúp không gian sống thêm phần tiện nghi và sang trọng.
+  icon: FaCouch
+  url: http://sofa.mauthemewp.com
+  color: "#DC143C"
+  repo: SofaStore
+
+- order: 277
+  name: Máy Lọc Khí
+  description: Cung cấp các loại máy lọc không khí, giúp cải thiện chất lượng không khí trong không gian sống và làm việc, bảo vệ sức khỏe người sử dụng.
+  icon: FaWind
+  url: http://maylockhi.mauthemewp.com
+  color: "#00CED1"
+  repo: AirPurifiers
+
+- order: 278
+  name: Thời Trang 5
+  description: Cung cấp các bộ sưu tập thời trang mới nhất, bao gồm các mẫu áo quần, phụ kiện thời trang cho cả nam và nữ.
+  icon: FaTshirt
+  url: http://thoitrang5.mauthemewp.com
+  color: "#FF4500"
+  repo: FashionStore
+
+- order: 279
+  name: Tin Tức 5
+  description: Cung cấp các bài viết và tin tức mới nhất từ nhiều lĩnh vực khác nhau, từ công nghệ, chính trị đến xã hội và giải trí.
+  icon: FaNewspaper
+  url: http://tintuc5.mauthemewp.com
+  color: "#008080"
+  repo: NewsPortal
+
+- order: 280
+  name: Spa 3
+  description: Dịch vụ chăm sóc sắc đẹp tại spa, bao gồm các liệu trình massage, trị liệu da, tắm trắng và các dịch vụ thư giãn cao cấp.
+  icon: FaSpa
+  url: http://spa3.mauthemewp.com
+  color: "#DA70D6"
+  repo: SpaServices
+
+- order: 281
+  name: Edu 6
+  description: Cung cấp các khóa học trực tuyến, giáo trình và tài liệu học tập cho học sinh, sinh viên và người đi làm muốn nâng cao kỹ năng.
+  icon: FaBook
+  url: http://edu6.mauthemewp.com
+  color: "#32CD32"
+  repo: EducationPlatform
+
+- order: 282
+  name: Bất Động Sản 30
+  description: Dịch vụ môi giới bất động sản, cung cấp các thông tin về các dự án bất động sản, mua bán và cho thuê nhà, đất, căn hộ.
+  icon: FaHome
+  url: http://bds30.mauthemewp.com
+  color: "#A9A9A9"
+  repo: RealEstate
+
+- order: 283
+  name: Shopee
+  description: Cửa hàng trực tuyến với đa dạng các sản phẩm, từ thời trang, điện tử, đồ gia dụng đến các sản phẩm sức khỏe và làm đẹp.
+  icon: FaShoppingCart
+  url: http://shopee.mauthemewp.com
+  color: "#FF6347"
+  repo: OnlineStore
+
+- order: 284
+  name: Thực Phẩm 6
+  description: Cung cấp các sản phẩm thực phẩm tươi ngon, từ thực phẩm chức năng, thực phẩm hữu cơ đến các món ăn chế biến sẵn, an toàn và chất lượng.
+  icon: FaAppleAlt
+  url: http://thucpham6.mauthemewp.com
+  color: "#8B4513"
+  repo: FoodStore
+
+- order: 285
+  name: Hyundai 1
+  description: Cung cấp các mẫu xe Hyundai, từ các dòng xe gia đình đến xe thương mại, cùng dịch vụ bảo dưỡng và sửa chữa chuyên nghiệp.
+  icon: FaCar
+  url: http://hyundai1.mauthemewp.com
+  color: "#00A9E0"
+  repo: HyundaiDealership
+
+- order: 286
+  name: Sale Car 2
+  description: Dịch vụ bán xe ô tô với các ưu đãi hấp dẫn, cung cấp các mẫu xe mới và đã qua sử dụng với chất lượng đảm bảo.
+  icon: FaCar
+  url: http://salecar2.mauthemewp.com
+  color: "#DC143C"
+  repo: CarSales
+
+- order: 287
+  name: Samsung Shop
+  description: Cung cấp các sản phẩm điện tử và gia dụng của Samsung, bao gồm điện thoại, TV, máy tính bảng, máy giặt, tủ lạnh và các thiết bị công nghệ tiên tiến.
+  icon: FaMobileAlt
+  url: http://samsungshop.mauthemewp.com
+  color: "#1E90FF"
+  repo: SamsungStore
+
+- order: 288
+  name: Khách Sạn 5
+  description: Khách sạn sang trọng cung cấp các dịch vụ nghỉ dưỡng, phòng ốc cao cấp, tiện nghi hiện đại và dịch vụ chăm sóc khách hàng chu đáo.
+  icon: FaHotel
+  url: http://khachsan5.mauthemewp.com
+  color: "#FFD700"
+  repo: Hotel
+
+- order: 289
+  name: Bất Động Sản 11
+  description: Cung cấp các dịch vụ tư vấn và giao dịch bất động sản, bao gồm mua bán, cho thuê căn hộ, nhà đất và các dự án bất động sản.
+  icon: FaBuilding
+  url: http://bds11.mauthemewp.com
+  color: "#808080"
+  repo: RealEstate
+
+- order: 290
+  name: Kiến Trúc 3
+  description: Cung cấp các dịch vụ thiết kế kiến trúc, xây dựng công trình, tư vấn và thi công các công trình nhà ở, văn phòng, và không gian công cộng.
+  icon: FaBuilding
+  url: http://kientruc3.mauthemewp.com
+  color: "#4682B4"
+  repo: ArchitectureDesign
+
+- order: 291
+  name: Xịt Makeup
+  description: Các sản phẩm xịt makeup chất lượng cao giúp giữ lớp trang điểm lâu trôi, tạo lớp nền hoàn hảo và bảo vệ da khỏi tác động của môi trường.
+  icon: FaPaintBrush
+  url: http://xitmakeup.mauthemewp.com
+  color: "#FF69B4"
+  repo: MakeupStore
+
+- order: 292
+  name: Đồ Thờ
+  description: Cung cấp các sản phẩm đồ thờ cúng, bao gồm bát hương, lư đồng, tượng Phật, và các vật phẩm thờ cúng cao cấp cho gia đình và đình chùa.
+  icon: FaGavel
+  url: http://dotho.mauthemewp.com
+  color: "#8B0000"
+  repo: WorshipItems
+
+- order: 293
+  name: Đèn LED
+  description: Cung cấp các loại đèn LED tiết kiệm năng lượng, độ bền cao và ánh sáng đẹp mắt, phù hợp cho các ứng dụng trong nhà và ngoài trời.
+  icon: FaLightbulb
+  url: http://denled.mauthemewp.com
+  color: "#32CD32"
+  repo: LEDLighting
+
+- order: 294
+  name: Bách Hóa 4
+  description: Cung cấp các sản phẩm tiêu dùng đa dạng từ thực phẩm, đồ gia dụng đến các sản phẩm điện tử và phụ kiện cần thiết trong đời sống hàng ngày.
+  icon: FaBox
+  url: http://bachhoa4.mauthemewp.com
+  color: "#FFD700"
+  repo: Supermarket
+
+- order: 295
+  name: Thú Cưng
+  description: Cung cấp các sản phẩm dành cho thú cưng, bao gồm thức ăn, đồ chơi, phụ kiện và các dịch vụ chăm sóc sức khỏe cho thú cưng.
+  icon: FaPaw
+  url: http://thucung.mauthemewp.com
+  color: "#A52A2A"
+  repo: PetStore
+
+- order: 296
+  name: Phong Thủy 4
+  description: Chuyên cung cấp các sản phẩm phong thủy như đá quý, tượng linh vật, cây cảnh, và các vật phẩm hỗ trợ mang lại may mắn, tài lộc cho gia chủ.
+  icon: FaGem
+  url: http://phongthuy4.mauthemewp.com
+  color: "#8A2BE2"
+  repo: FengShuiProducts
+
+- order: 297
+  name: Bất Động Sản 9
+  description: Dịch vụ tư vấn, mua bán, cho thuê các loại bất động sản như nhà ở, căn hộ, đất nền, và các dự án bất động sản tiềm năng.
+  icon: FaBuilding
+  url: http://bds9.mauthemewp.com
+  color: "#2E8B57"
+  repo: RealEstate
+
+- order: 298
+  name: Dược Phẩm 5
+  description: Cung cấp các loại dược phẩm chất lượng, bao gồm thuốc chữa bệnh, thực phẩm chức năng và các sản phẩm chăm sóc sức khỏe.
+  icon: FaCapsules
+  url: http://duocpham5.mauthemewp.com
+  color: "#FFD700"
+  repo: PharmaceuticalProducts
+
+- order: 299
+  name: Thực Phẩm Chức Năng 4
+  description: Các sản phẩm thực phẩm chức năng giúp cải thiện sức khỏe, hỗ trợ tăng cường miễn dịch, giảm cân, bổ sung vitamin và khoáng chất cho cơ thể.
+  icon: FaAppleAlt
+  url: http://thucphamchucnang4.mauthemewp.com
+  color: "#FF6347"
+  repo: HealthSupplements
+
+- order: 300
+  name: Mỹ Phẩm 5
+  description: Cung cấp các sản phẩm mỹ phẩm cao cấp như kem dưỡng da, serum, mặt nạ, và các sản phẩm trang điểm đến từ các thương hiệu nổi tiếng.
+  icon: FaGift
+  url: http://mypham5.mauthemewp.com
+  color: "#FF69B4"
+  repo: Cosmetics
+
+- order: 301
+  name: USB Sách
+  description: Cung cấp các loại USB sách, bộ sưu tập sách điện tử, tài liệu học tập và nghiên cứu, phục vụ cho việc học tập và phát triển cá nhân.
+  icon: FaUsb
+  url: http://usbsach.mauthemewp.com
+  color: "#4682B4"
+  repo: EBookStore
+
+- order: 302
+  name: Studio
+  description: Nơi cung cấp các dịch vụ chụp hình, quay video, thiết kế và sản xuất các sản phẩm sáng tạo cho các cá nhân và doanh nghiệp.
+  icon: FaCamera
+  url: http://studio.mauthemewp.com
+  color: "#FF6347"
+  repo: CreativeStudio
+
+- order: 303
+  name: Baby Care
+  description: Cung cấp các sản phẩm chăm sóc trẻ em, từ quần áo, đồ chơi, đến các sản phẩm vệ sinh và dinh dưỡng cho bé yêu.
+  icon: FaBabyCarriage
+  url: http://babycare.mauthemewp.com
+  color: "#FFD700"
+  repo: BabyCareProducts
+
+- order: 304
+  name: Du Lịch 5
+  description: Dịch vụ tổ chức tour du lịch, cung cấp các gói du lịch hấp dẫn trong và ngoài nước, đáp ứng nhu cầu khám phá của mọi đối tượng khách hàng.
+  icon: FaPlane
+  url: http://dulich5.mauthemewp.com
+  color: "#008080"
+  repo: TravelServices
+
+- order: 305
+  name: Kia 1
+  description: Đại lý chính thức của Kia, cung cấp các mẫu xe ô tô mới và dịch vụ bảo dưỡng, sửa chữa chuyên nghiệp.
+  icon: FaCar
+  url: http://kia1.mauthemewp.com
+  color: "#FF4500"
+  repo: KiaDealership
+
+- order: 306
+  name: Education
+  description: Chuyên cung cấp các khóa học trực tuyến và tài liệu giáo dục cho học sinh, sinh viên và người đi làm để nâng cao kiến thức và kỹ năng.
+  icon: FaGraduationCap
+  url: http://education.mauthemewp.com
+  color: "#4B0082"
+  repo: EducationPlatform
+
+- order: 307
+  name: Học Phong Thủy
+  description: Cung cấp kiến thức và tài liệu về phong thủy, giúp cải thiện cuộc sống, công việc và sức khỏe thông qua những nguyên lý phong thủy cổ truyền.
+  icon: FaGem
+  url: http://hocphongthuy.mauthemewp.com
+  color: "#FFD700"
+  repo: FengShuiEducation
+
+- order: 308
+  name: Edu
+  description: Nền tảng giáo dục trực tuyến, cung cấp các khóa học, bài giảng, và tài liệu học tập cho học sinh và sinh viên trên toàn quốc.
+  icon: FaBook
+  url: http://edu.mauthemewp.com
+  color: "#8A2BE2"
+  repo: OnlineEducation
+
+- order: 309
+  name: Rèm Cửa
+  description: Cung cấp các loại rèm cửa, màn sáo, và sản phẩm trang trí cửa sổ, giúp tạo không gian sống sang trọng và thoải mái.
+  icon: FaWindowMaximize
+  url: http://remcua.mauthemewp.com
+  color: "#D2691E"
+  repo: CurtainStore
+
+- order: 310
+  name: Luyện Thi
+  description: Chuyên cung cấp các tài liệu và khóa học luyện thi cho học sinh, sinh viên chuẩn bị cho kỳ thi đại học và các kỳ thi quốc gia.
+  icon: FaPen
+  url: http://luyenthi.mauthemewp.com
+  color: "#00BFFF"
+  repo: ExamPreparation
+
+- order: 311
+  name: Tin Tức 7
+  description: Cung cấp các tin tức nóng hổi, cập nhật nhanh chóng về các sự kiện trong và ngoài nước, từ chính trị đến xã hội, văn hóa, thể thao.
+  icon: FaNewspaper
+  url: http://tintuc7.mauthemewp.com
+  color: "#FF6347"
+  repo: NewsPlatform
+
+- order: 312
+  name: Autojet
+  description: Cung cấp các dịch vụ sửa chữa và bảo dưỡng ô tô, đặc biệt chuyên về các dòng xe tự động, mang lại trải nghiệm an toàn và tiện nghi cho khách hàng.
+  icon: FaCar
+  url: http://Autojet.mauthemewp.com
+  color: "#32CD32"
+  repo: AutoServices
+
+- order: 313
+  name: Thực Phẩm Chức Năng 2
+  description: Bán các loại thực phẩm chức năng hỗ trợ sức khỏe, từ vitamin, khoáng chất đến các sản phẩm tăng cường sức đề kháng và năng lượng.
+  icon: FaAppleAlt
+  url: http://thucphamchucnang2.mauthemewp.com
+  color: "#228B22"
+  repo: HealthSupplements
+
+- order: 314
+  name: Thiết Bị 2
+  description: Cung cấp các thiết bị điện tử, công nghệ mới nhất phục vụ cho nhu cầu sinh hoạt, làm việc, giải trí và công nghiệp.
+  icon: FaDesktop
+  url: http://thietbi2.mauthemewp.com
+  color: "#1E90FF"
+  repo: ElectronicsStore
+
+- order: 315
+  name: Toyota 2
+  description: Đại lý Toyota chính hãng, cung cấp các dòng xe mới, dịch vụ bảo trì và sửa chữa chuyên nghiệp cho các dòng xe Toyota.
+  icon: FaCar
+  url: http://toyota2.maugiaodien.com
+  color: "#FF6347"
+  repo: ToyotaDealership
+
+- order: 316
+  name: Review Ô Tô
+  description: Trang web cung cấp các bài viết đánh giá, nhận xét về các dòng xe ô tô mới nhất, giúp người tiêu dùng đưa ra quyết định mua xe thông minh.
+  icon: FaCar
+  url: http://reviewoto.mauthemewp.com
+  color: "#32CD32"
+  repo: CarReviews
+
+- order: 317
+  name: Nhà Hàng 4
+  description: Nhà hàng chuyên phục vụ các món ăn đặc sản, mang đến trải nghiệm ẩm thực phong phú và tinh tế cho thực khách.
+  icon: FaUtensils
+  url: http://nhahang4.mauthemewp.com
+  color: "#8B4513"
+  repo: Restaurant
+
+- order: 318
+  name: Thực Phẩm 15
+  description: Cung cấp các sản phẩm thực phẩm chất lượng cao, bao gồm thực phẩm chế biến sẵn, thực phẩm tươi sống và các sản phẩm dinh dưỡng.
+  icon: FaAppleAlt
+  url: http://thucpham15.mauthemewp.com
+  color: "#FFD700"
+  repo: FoodStore
+
+- order: 319
+  name: Sửa Màn Hình
+  description: Dịch vụ sửa chữa, thay thế màn hình điện thoại, máy tính bảng, laptop và các thiết bị điện tử khác với chất lượng và giá cả hợp lý.
+  icon: FaTools
+  url: http://suamanhinh.mauthemewp.com
+  color: "#A52A2A"
+  repo: ScreenRepairService
+
+- order: 320
+  name: Hạt Dầu 2
+  description: Cung cấp các loại hạt dầu chất lượng cao, phục vụ nhu cầu tiêu dùng và sản xuất thực phẩm, dược phẩm.
+  icon: FaSeedling
+  url: http://hatdieu2.mauthemewp.com
+  color: "#8B4513"
+  repo: NutProducts
+
+- order: 321
+  name: Đồng Hồ
+  description: Cung cấp các loại đồng hồ chính hãng, từ đồng hồ đeo tay đến đồng hồ treo tường với thiết kế hiện đại và tinh tế.
+  icon: FaClock
+  url: http://dongho.mauthemewp.com
+  color: "#4682B4"
+  repo: WatchStore
+
+- order: 322
+  name: Edu 10
+  description: Cung cấp các khóa học trực tuyến chất lượng, từ các môn học cơ bản đến nâng cao phục vụ nhu cầu học tập đa dạng.
+  icon: FaGraduationCap
+  url: http://edu10.mauthemewp.com
+  color: "#FF6347"
+  repo: OnlineEducation
+
+- order: 323
+  name: Bất Động Sản 13
+  description: Dịch vụ môi giới, mua bán và cho thuê bất động sản, từ nhà ở, văn phòng, đất đai đến các dự án lớn.
+  icon: FaHome
+  url: http://bds13.mauthemewp.com
+  color: "#2E8B57"
+  repo: RealEstate
+
+- order: 324
+  name: Khóa Học Dạy
+  description: Các khóa học đào tạo về nhiều lĩnh vực như lập trình, thiết kế, kinh doanh, và kỹ năng sống.
+  icon: FaBook
+  url: http://khoahocdau.mauthemewp.com
+  color: "#FFD700"
+  repo: LearningPlatform
+
+- order: 325
+  name: Sơn Nước
+  description: Cung cấp các loại sơn nước chất lượng cho các công trình nội ngoại thất, đảm bảo màu sắc đẹp và độ bền cao.
+  icon: FaPaintRoller
+  url: http://sonnuoc.mauthemewp.com
+  color: "#D2691E"
+  repo: PaintStore
+
+- order: 326
+  name: Casio
+  description: Cung cấp các sản phẩm đồng hồ Casio chính hãng, với thiết kế thời trang, chất lượng cao và giá cả hợp lý.
+  icon: FaClock
+  url: http://casio.mauthemewp.com
+  color: "#FF8C00"
+  repo: CasioStore
+
+- order: 327
+  name: Bất Động Sản 16
+  description: Dịch vụ mua bán, cho thuê bất động sản, cung cấp các giải pháp về nhà ở, văn phòng và dự án đất đai.
+  icon: FaHome
+  url: http://bds16.mauthemewp.com
+  color: "#2F4F4F"
+  repo: RealEstate
+
+- order: 328
+  name: Sửa Điện Thoại 2
+  description: Dịch vụ sửa chữa điện thoại di động, máy tính bảng, cung cấp thay thế linh kiện chính hãng với giá cả phải chăng.
+  icon: FaMobileAlt
+  url: http://suadienthoai2.mauthemewp.com
+  color: "#32CD32"
+  repo: PhoneRepair
+
+- order: 329
+  name: Luật Sư 2
+  description: Dịch vụ tư vấn pháp lý, cung cấp giải pháp về các vấn đề pháp luật liên quan đến cá nhân và doanh nghiệp.
+  icon: FaGavel
+  url: http://luatsu2.mauthemewp.com
+  color: "#8B4513"
+  repo: LegalServices
+
+- order: 330
+  name: Nông Sản
+  description: Cung cấp các loại nông sản tươi ngon, từ rau củ quả đến các sản phẩm nông sản chế biến sẵn.
+  icon: FaAppleAlt
+  url: http://nongsan.mauthemewp.com
+  color: "#228B22"
+  repo: AgriculturalProducts
+
+- order: 331
+  name: Trần Tường
+  description: Cung cấp các dịch vụ lắp đặt trần thạch cao, trang trí nội thất, tạo không gian sang trọng cho nhà ở và văn phòng.
+  icon: FaCogs
+  url: http://tranhtuong.mauthemewp.com
+  color: "#A9A9A9"
+  repo: CeilingAndWallServices
+
+- order: 332
+  name: Agency 2
+  description: Dịch vụ quảng cáo và tiếp thị chuyên nghiệp, cung cấp các giải pháp tối ưu cho doanh nghiệp và thương hiệu.
+  icon: FaBullhorn
+  url: http://agency2.mauthemewp.com
+  color: "#FFD700"
+  repo: MarketingAgency
+
+- order: 333
+  name: Mành Rèm
+  description: Cung cấp các loại mành rèm đẹp mắt, chất lượng, phù hợp cho mọi không gian sống và làm việc.
+  icon: FaWindowMaximize
+  url: http://manhrem.mauthemewp.com
+  color: "#8B0000"
+  repo: CurtainBlinds
+
+- order: 334
+  name: Hút Thảm Cầu
+  description: Dịch vụ vệ sinh thảm cầu, giặt thảm chuyên nghiệp với công nghệ tiên tiến, mang lại không gian sạch sẽ.
+  icon: FaBroom
+  url: http://huthamcau.mauthemewp.com
+  color: "#4682B4"
+  repo: CarpetCleaning
+
+- order: 335
+  name: Nhôm Kính 1
+  description: Cung cấp và thi công các sản phẩm từ nhôm kính, bao gồm cửa, vách kính và các công trình nhôm kính khác.
+  icon: FaGlassMartiniAlt
+  url: http://nhomkinh1.mauthemewp.com
+  color: "#D2691E"
+  repo: AluminumGlass
+
+- order: 336
+  name: Edu 8
+  description: Cung cấp các khóa học, tài liệu học trực tuyến giúp học viên phát triển các kỹ năng và kiến thức chuyên môn.
+  icon: FaGraduationCap
+  url: http://edu8.mauthemewp.com
+  color: "#8A2BE2"
+  repo: OnlineEducation
+
+- order: 337
+  name: Nội Thất 5
+  description: Cung cấp các sản phẩm nội thất hiện đại, thiết kế đẹp mắt, chất lượng cao cho mọi không gian sống và làm việc.
+  icon: FaCouch
+  url: http://noithat5.mauthemewp.com
+  color: "#2F4F4F"
+  repo: FurnitureStore
+
+- order: 338
+  name: Tài Chính
+  description: Cung cấp các dịch vụ tài chính chuyên nghiệp, bao gồm vay vốn, đầu tư, tư vấn tài chính và các giải pháp tài chính cá nhân.
+  icon: FaMoneyBillWave
+  url: http://taichinh.mauthemewp.com
+  color: "#008000"
+  repo: FinanceServices
+
+- order: 339
+  name: Máy Tính 2
+  description: Cung cấp các sản phẩm máy tính, laptop, linh kiện và dịch vụ sửa chữa, bảo trì thiết bị máy tính chuyên nghiệp.
+  icon: FaLaptop
+  url: http://maytinh2.mauthemewp.com
+  color: "#1E90FF"
+  repo: ComputerStore
+
+- order: 340
+  name: Xây Dựng
+  description: Cung cấp dịch vụ xây dựng, thi công các công trình dân dụng, công nghiệp, nhà ở, văn phòng và các dự án hạ tầng.
+  icon: FaBuilding
+  url: http://xaydung.mauthemewp.com
+  color: "#A52A2A"
+  repo: ConstructionServices
+
+- order: 341
+  name: Shark Hung
+  description: Cung cấp dịch vụ tư vấn và đầu tư kinh doanh, giúp các doanh nghiệp và cá nhân phát triển bền vững.
+  icon: FaShark
+  url: http://sharkhung.mauthemewp.com
+  color: "#20B2AA"
+  repo: BusinessConsulting
+
+- order: 342
+  name: Taxi 1
+  description: Dịch vụ taxi nhanh chóng, tiện lợi và an toàn, phục vụ các chuyến đi trong và ngoài thành phố.
+  icon: FaTaxi
+  url: http://taxi1.mauthemewp.com
+  color: "#FF6347"
+  repo: TaxiServices
+
+- order: 343
+  name: Honda 3
+  description: Cung cấp các sản phẩm xe máy, ô tô Honda chính hãng, dịch vụ bảo dưỡng, sửa chữa xe Honda.
+  icon: FaCar
+  url: http://honda3.mauthemewp.com
+  color: "#FFD700"
+  repo: HondaVehicles
+
+- order: 344
+  name: Đồng Hồ Thông Minh 2
+  description: Cung cấp các loại đồng hồ thông minh, thiết bị đeo tay thông minh, giúp theo dõi sức khỏe và kết nối với điện thoại.
+  icon: FaClock
+  url: http://donghothongminh2.mauthemewp.com
+  color: "#32CD32"
+  repo: SmartWatches
+
+- order: 345
+  name: Mật Ong 2
+  description: Cung cấp các sản phẩm mật ong nguyên chất, từ mật ong hoa, mật ong rừng đến các loại mật ong đặc sản.
+  icon: FaHoneyPot
+  url: http://matong2.mauthemewp.com
+  color: "#FFD700"
+  repo: HoneyProducts
+
+- order: 346
+  name: Điện Lạnh
+  description: Cung cấp các sản phẩm điện lạnh, từ điều hòa, tủ lạnh đến các thiết bị điện tử làm lạnh và dịch vụ sửa chữa.
+  icon: FaSnowflake
+  url: http://dienlanh.mauthemewp.com
+  color: "#00BFFF"
+  repo: ElectricalAppliances
+
+- order: 347
+  name: Solar 2
+  description: Cung cấp các sản phẩm năng lượng mặt trời, từ pin mặt trời, bộ điều khiển đến các thiết bị liên quan đến năng lượng tái tạo.
+  icon: FaSolarPanel
+  url: http://solar2.mauthemewp.com
+  color: "#FFA500"
+  repo: SolarEnergy
+
+- order: 348
+  name: Khám Sức Khỏe 2
+  description: Dịch vụ khám sức khỏe định kỳ, tư vấn sức khỏe và các dịch vụ chăm sóc sức khỏe tại nhà.
+  icon: FaHeartbeat
+  url: http://khamsuckhoe2.mauthemewp.com
+  color: "#FF6347"
+  repo: HealthCheckup
+
+- order: 349
+  name: Book
+  description: Cung cấp dịch vụ cho thuê sách, bán sách, và các sản phẩm văn hóa đọc khác.
+  icon: FaBook
+  url: http://book.mauthemewp.com
+  color: "#8A2BE2"
+  repo: BookStore
+
+- order: 350
+  name: Điện Máy 1
+  description: Cung cấp các sản phẩm điện máy, từ tủ lạnh, máy giặt, máy lạnh đến các thiết bị gia dụng khác.
+  icon: FaPlug
+  url: http://dienmay1.mauthemewp.com
+  color: "#FF6347"
+  repo: ElectricalAppliances
+
+- order: 351
+  name: Máy Lọc 2
+  description: Cung cấp các sản phẩm máy lọc không khí, máy lọc nước và các thiết bị lọc môi trường sống.
+  icon: FaFilter
+  url: http://mayloc2.mauthemewp.com
+  color: "#32CD32"
+  repo: AirWaterFilters
+
+- order: 352
+  name: Học Tiếng Đức
+  description: Dịch vụ học tiếng Đức online với các khóa học từ cơ bản đến nâng cao.
+  icon: FaLanguage
+  url: http://hoctiengduc.mauthemewp.com
+  color: "#1E90FF"
+  repo: GermanLanguageLearning
+
+- order: 353
+  name: Dầu Gội Đầu
+  description: Cung cấp các loại dầu gội đầu chất lượng, từ các thương hiệu nổi tiếng đến các sản phẩm chăm sóc tóc chuyên sâu.
+  icon: FaShower
+  url: http://daugoidau.mauthemewp.com
+  color: "#FFD700"
+  repo: HairCare
+
+- order: 354
+  name: Bán Xe 3
+  description: Dịch vụ bán các loại xe ô tô, xe máy, và các sản phẩm liên quan đến phương tiện giao thông.
+  icon: FaCar
+  url: http://banxe3.mauthemewp.com
+  color: "#FF4500"
+  repo: VehicleSales
+
+- order: 355
+  name: Máy Lọc Nước
+  description: Cung cấp các sản phẩm máy lọc nước, thiết bị xử lý nước sạch cho gia đình và công nghiệp.
+  icon: FaTint
+  url: http://maylocnuoc.mauthemewp.com
+  color: "#00BFFF"
+  repo: WaterFilters
+
+- order: 356
+  name: Tin Tức 12
+  description: Cung cấp các tin tức nóng hổi, thông tin thời sự và các bài viết cập nhật thường xuyên.
+  icon: FaNewspaper
+  url: http://tintuc12.mauthemewp.com
+  color: "#FF6347"
+  repo: NewsUpdates
+
+- order: 357
+  name: Book 2
+  description: Cung cấp các loại sách từ các thể loại khác nhau như tiểu thuyết, khoa học, giáo dục, v.v.
+  icon: FaBook
+  url: http://book2.mauthemewp.com
+  color: "#20B2AA"
+  repo: BooksStore
+
+- order: 358
+  name: Bánh Giảm Cân
+  description: Cung cấp các loại bánh hỗ trợ giảm cân, tốt cho sức khỏe và duy trì vóc dáng.
+  icon: FaCookie
+  url: http://banhgiamcan.mauthemewp.com
+  color: "#FF4500"
+  repo: WeightLossBreads
+
+- order: 359
+  name: Mỹ Phẩm 8
+  description: Cung cấp các sản phẩm mỹ phẩm cao cấp, chăm sóc da, tóc và sắc đẹp toàn diện.
+  icon: FaLipstick
+  url: http://mypham8.mauthemewp.com
+  color: "#DA70D6"
+  repo: BeautyCosmetics
+
+- order: 360
+  name: Yến Sào
+  description: Cung cấp các sản phẩm yến sào tự nhiên, bổ dưỡng cho sức khỏe.
+  icon: FaHeartbeat
+  url: http://yensao.mauthemewp.com
+  color: "#FFD700"
+  repo: BirdNestProducts
+
+- order: 361
+  name: Thế Giới Di Động
+  description: Cung cấp các sản phẩm điện thoại di động, phụ kiện và thiết bị điện tử đa dạng.
+  icon: FaMobileAlt
+  url: http://thegioididong.mauthemewp.com
+  color: "#00BFFF"
+  repo: MobileElectronics
+
+- order: 362
+  name: POD
+  description: Cung cấp các sản phẩm POD (Print on Demand) với thiết kế tùy chỉnh và đa dạng.
+  icon: FaPrint
+  url: http://pod.mauthemewp.com
+  color: "#8A2BE2"
+  repo: PrintOnDemand
+
+- order: 363
+  name: BĐS 19
+  description: Chuyên cung cấp các dịch vụ bất động sản với các dự án và sản phẩm đa dạng.
+  icon: FaHome
+  url: http://bds19.mauthemewp.com
+  color: "#32CD32"
+  repo: RealEstateServices
+
+- order: 364
+  name: Thực Phẩm 9
+  description: Cung cấp các sản phẩm thực phẩm, bổ sung dinh dưỡng cho sức khỏe và chế độ ăn uống.
+  icon: FaAppleAlt
+  url: http://thucpham9.mauthemewp.com
+  color: "#FF6347"
+  repo: FoodProducts
+
+- order: 365
+  name: Du Lịch 4
+  description: Dịch vụ du lịch với các tour, điểm đến và chương trình tham quan hấp dẫn.
+  icon: FaGlobe
+  url: http://dulich4.mauthemewp.com
+  color: "#1E90FF"
+  repo: TravelServices
+
+- order: 366
+  name: Dược Phẩm 4
+  description: Cung cấp các sản phẩm dược phẩm và thuốc bổ, chăm sóc sức khỏe.
+  icon: FaPills
+  url: http://duocpham4.mauthemewp.com
+  color: "#A52A2A"
+  repo: PharmaceuticalProducts
+
+- order: 367
+  name: Cellphones
+  description: Chuyên cung cấp các loại điện thoại di động, phụ kiện và các thiết bị điện tử khác.
+  icon: FaMobileAlt
+  url: http://cellphones.mauthemewp.com
+  color: "#00BFFF"
+  repo: MobileDevices
+
+- order: 368
+  name: Học Coi
+  description: Cung cấp các khóa học trực tuyến với nhiều lĩnh vực như công nghệ, kinh doanh, và kỹ năng mềm.
+  icon: FaChalkboardTeacher
+  url: http://hocacoi.mauthemewp.com
+  color: "#FFD700"
+  repo: OnlineCourses
+
+- order: 369
+  name: Tin Tức 15
+  description: Cập nhật các tin tức mới nhất trong các lĩnh vực như chính trị, xã hội, và thể thao.
+  icon: FaNewspaper
+  url: http://tintuc15.mauthemewp.com
+  color: "#FF6347"
+  repo: NewsUpdates
+
+- order: 370
+  name: Agency 3
+  description: Cung cấp dịch vụ marketing, truyền thông, và các giải pháp chiến lược cho các doanh nghiệp.
+  icon: FaBullhorn
+  url: http://agency3.mauthemewp.com
+  color: "#20B2AA"
+  repo: MarketingAgency
+
+- order: 371
+  name: Thời Trang 3
+  description: Chuyên cung cấp các sản phẩm thời trang nam, nữ, với xu hướng mới nhất.
+  icon: FaTshirt
+  url: http://thoitrang3.mauthemewp.com
+  color: "#FF1493"
+  repo: FashionStore
+
+- order: 372
+  name: iFix
+  description: Dịch vụ sửa chữa điện tử và điện thoại di động, hỗ trợ sửa chữa nhanh chóng và chuyên nghiệp.
+  icon: FaTools
+  url: http://ifix.mauthemewp.com
+  color: "#A9A9A9"
+  repo: ElectronicsRepair
+
+- order: 373
+  name: Phế Liệu
+  description: Cung cấp dịch vụ thu mua và tái chế phế liệu, bảo vệ môi trường và giúp giảm thiểu chất thải.
+  icon: FaRecycle
+  url: http://phelieu.mauthemewp.com
+  color: "#32CD32"
+  repo: ScrapMaterials
+
+- order: 374
+  name: BĐS 4
+  description: Dịch vụ bất động sản chuyên cung cấp thông tin và dịch vụ mua bán nhà đất, cho thuê.
+  icon: FaHome
+  url: http://bds4.mauthemewp.com
+  color: "#8B0000"
+  repo: RealEstateServices
+
+- order: 375
+  name: Sức Khỏe
+  description: Cung cấp các dịch vụ chăm sóc sức khỏe, tư vấn sức khỏe và các sản phẩm hỗ trợ cải thiện sức khỏe.
+  icon: FaHeartbeat
+  url: http://suckhoe.mauthemewp.com
+  color: "#228B22"
+  repo: HealthServices
+
+- order: 376
+  name: Thể Thao
+  description: Chuyên cung cấp các sản phẩm, dịch vụ liên quan đến thể thao, bao gồm dụng cụ thể thao và thông tin thể thao.
+  icon: FaFutbol
+  url: http://thethao.mauthemewp.com
+  color: "#FF6347"
+  repo: SportsProducts
+
+- order: 377
+  name: Tuyển Dụng 2
+  description: Cung cấp các cơ hội việc làm, tuyển dụng nhân sự cho các ngành nghề khác nhau.
+  icon: FaBriefcase
+  url: http://tuyendung2.mauthemewp.com
+  color: "#1E90FF"
+  repo: JobListings
+
+- order: 378
+  name: Shop Hoa 2
+  description: Cung cấp các loại hoa tươi, quà tặng, và các dịch vụ liên quan đến hoa.
+  icon: FaFlower
+  url: http://shophoa2.mauthemewp.com
+  color: "#FF69B4"
+  repo: FlowerShop
+
+- order: 379
+  name: Nội Thất 12
+  description: Cung cấp các sản phẩm nội thất cao cấp, bao gồm bàn ghế, giường, tủ và các phụ kiện trang trí nhà cửa.
+  icon: FaCouch
+  url: http://noithat12.mauthemewp.com
+  color: "#B8860B"
+  repo: FurnitureStore
+
+- order: 380
+  name: Mitsubishi
+  description: Cung cấp thông tin và dịch vụ liên quan đến các sản phẩm ô tô Mitsubishi, bao gồm mua bán, bảo dưỡng.
+  icon: FaCar
+  url: http://mitsubishi.mauthemewp.com
+  color: "#0000FF"
+  repo: MitsubishiCars
+
+- order: 381
+  name: Du Lịch 7
+  description: Cung cấp dịch vụ du lịch, tour, và các gói khám phá điểm đến trong và ngoài nước.
+  icon: FaGlobe
+  url: http://dulich7.mauthemewp.com
+  color: "#FFD700"
+  repo: TravelServices
+
+- order: 382
+  name: Nội Thất 10
+  description: Cung cấp các sản phẩm nội thất hiện đại, bao gồm bàn ghế, tủ, giường, và các phụ kiện trang trí.
+  icon: FaCouch
+  url: http://noithat10.mauthemewp.com
+  color: "#D2691E"
+  repo: InteriorDesign
+
+- order: 383
+  name: Shop Phong Thủy 2
+  description: Bán các sản phẩm phong thủy như tượng, đá phong thủy, đồ trang trí giúp mang lại may mắn, tài lộc.
+  icon: FaBalanceScale
+  url: http://shopphongthuy2.mauthemewp.com
+  color: "#8A2BE2"
+  repo: FengShuiShop
+
+- order: 384
+  name: Trà Xanh 1
+  description: Cung cấp các sản phẩm trà xanh chất lượng cao, bao gồm trà thảo mộc, trà hương và các sản phẩm làm từ trà.
+  icon: FaCoffee
+  url: http://traxanh1.mauthemewp.com
+  color: "#32CD32"
+  repo: GreenTeaProducts
+
+- order: 385
+  name: Học Võ Thuật
+  description: Cung cấp các khóa học võ thuật, đào tạo kỹ năng chiến đấu và thể thao đối kháng.
+  icon: FaFistRaised
+  url: http://hocvothuat.mauthemewp.com
+  color: "#DC143C"
+  repo: MartialArtsTraining
+
+- order: 386
+  name: Thực Phẩm 12
+  description: Cung cấp các loại thực phẩm tươi sống, chế biến sẵn và thực phẩm bổ sung cho sức khỏe.
+  icon: FaAppleAlt
+  url: http://thucpham12.mauthemewp.com
+  color: "#228B22"
+  repo: FreshFoodStore
+
+- order: 387
+  name: Thực Phẩm 19
+  description: Cung cấp các sản phẩm thực phẩm tự nhiên, an toàn, và bổ dưỡng cho sức khỏe của gia đình.
+  icon: FaCarrot
+  url: http://thucpham19.mauthemewp.com
+  color: "#FF6347"
+  repo: OrganicFoods
+
+- order: 388
+  name: Tiki
+  description: Cung cấp các sản phẩm tiêu dùng, điện tử, đồ gia dụng, sách, quần áo, và nhiều mặt hàng khác.
+  icon: FaShoppingCart
+  url: http://tiki.mauthemewp.com
+  color: "#FF4500"
+  repo: ECommerceStore
+
+- order: 389
+  name: Taxi
+  description: Dịch vụ taxi nhanh chóng, tiện lợi và an toàn với nhiều lựa chọn xe cho khách hàng.
+  icon: FaTaxi
+  url: http://taxi.mauthemewp.com
+  color: "#FFD700"
+  repo: TaxiService
+
+- order: 390
+  name: Thực Phẩm 16
+  description: Cung cấp các thực phẩm chế biến sẵn, đóng gói sẵn, giúp tiết kiệm thời gian cho người bận rộn.
+  icon: FaHamburger
+  url: http://thucpham16.mauthemewp.com
+  color: "#D2691E"
+  repo: FastFoodProducts
+
+- order: 391
+  name: Cây Xanh
+  description: Cung cấp các loại cây xanh, cây cảnh, hoa và các sản phẩm chăm sóc cây.
+  icon: FaTree
+  url: http://cayxanh.mauthemewp.com
+  color: "#32CD32"
+  repo: GreenPlantsShop
+
+- order: 392
+  name: Đồng Hồ 1
+  description: Cung cấp các loại đồng hồ nam, nữ, cao cấp và thời trang.
+  icon: FaClock
+  url: http://dongho1.mauthemewp.com
+  color: "#00008B"
+  repo: WatchStore
+
+- order: 393
+  name: Đào Tạo
+  description: Cung cấp các khóa học đào tạo trực tuyến và các chương trình học.
+  icon: FaBook
+  url: http://daotao.mauthemewp.com
+  color: "#8A2BE2"
+  repo: OnlineLearning
+
+- order: 394
+  name: Shop Hoa 1
+  description: Cung cấp các loại hoa tươi, hoa cưới và các dịch vụ liên quan đến hoa.
+  icon: FaFlower
+  url: http://shophoa1.mauthemewp.com
+  color: "#FF69B4"
+  repo: FlowerShop
+
+- order: 395
+  name: Thực Phẩm Chức Năng 5
+  description: Cung cấp các sản phẩm thực phẩm chức năng hỗ trợ sức khỏe và tăng cường sức đề kháng.
+  icon: FaHeartbeat
+  url: http://thucphamchucnang5.mauthemewp.com
+  color: "#FFD700"
+  repo: HealthSupplements
+
+- order: 396
+  name: Nhà Thuốc
+  description: Cung cấp các sản phẩm dược phẩm, thuốc và các sản phẩm chăm sóc sức khỏe.
+  icon: FaMedkit
+  url: http://nhathuoc.mauthemewp.com
+  color: "#DC143C"
+  repo: PharmacyStore
+
+- order: 397
+  name: Shop Nội Thất
+  description: Cung cấp các sản phẩm nội thất cho gia đình, văn phòng, và không gian sống.
+  icon: FaCouch
+  url: http://shopnoithat.mauthemewp.com
+  color: "#D2691E"
+  repo: FurnitureShop
+
+- order: 398
+  name: Thiết Kế Web 2
+  description: Dịch vụ thiết kế website chuyên nghiệp, tối ưu hóa và bảo mật cao.
+  icon: FaLaptopCode
+  url: http://thietkeweb2.mauthemewp.com
+  color: "#4682B4"
+  repo: WebDesignServices
+
+- order: 399
+  name: Mỹ Phẩm 02
+  description: Cung cấp các sản phẩm mỹ phẩm cao cấp cho phụ nữ và nam giới.
+  icon: FaSpa
+  url: http://mypham02.mauthemewp.com
+  color: "#FFC0CB"
+  repo: CosmeticsStore
+
+- order: 400
+  name: Thực Phẩm 17
+  description: Cung cấp các loại thực phẩm, thực phẩm chức năng và sản phẩm dinh dưỡng.
+  icon: FaAppleAlt
+  url: http://thucpham17.mauthemewp.com
+  color: "#FF6347"
+  repo: FoodStore
+
+- order: 401
+  name: Máy Công Nghiệp
+  description: Cung cấp các loại máy móc công nghiệp phục vụ sản xuất và chế biến.
+  icon: FaCogs
+  url: http://maycongnghiep.mauthemewp.com
+  color: "#8B0000"
+  repo: IndustrialMachines
+
+- order: 402
+  name: Du Lịch 16
+  description: Dịch vụ du lịch, tour du lịch và vé máy bay giá rẻ.
+  icon: FaPlane
+  url: http://dulich16.mauthemewp.com
+  color: "#1E90FF"
+  repo: TravelAgency
+
+- order: 403
+  name: Bóng Đá
+  description: Cung cấp tin tức, thông tin về các giải đấu bóng đá, cầu thủ, và sự kiện thể thao.
+  icon: FaFutbol
+  url: http://bongda.mauthemewp.com
+  color: "#008000"
+  repo: FootballNews
+
+- order: 404
+  name: Xuất Khẩu Lao Động 2
+  description: Cung cấp dịch vụ tư vấn và hỗ trợ xuất khẩu lao động sang các quốc gia khác.
+  icon: FaGlobeAsia
+  url: http://xkld2.mauthemewp.com
+  color: "#4682B4"
+  repo: LaborExport
+
+- order: 405
+  name: Tin Tức 13
+  description: Cập nhật các tin tức mới nhất về nhiều lĩnh vực như kinh tế, xã hội, và chính trị.
+  icon: FaNewspaper
+  url: http://tintuc13.mauthemewp.com
+  color: "#FF6347"
+  repo: NewsPortal
+
+- order: 406
+  name: Nội Thất 9
+  description: Cung cấp các sản phẩm nội thất cao cấp, hiện đại cho không gian sống và làm việc.
+  icon: FaCouch
+  url: http://noithat9.mauthemewp.com
+  color: "#D2691E"
+  repo: InteriorDesign
+
+- order: 407
+  name: Vcheck
+  description: Dịch vụ kiểm tra thông tin, xác thực dữ liệu và báo cáo kết quả chính xác.
+  icon: FaCheckCircle
+  url: http://vcheck.mauthemewp.com
+  color: "#32CD32"
+  repo: VerificationService
+
+- order: 408
+  name: Phần Mềm
+  description: Cung cấp các giải pháp phần mềm, công cụ phát triển và phần mềm quản lý.
+  icon: FaCog
+  url: http://phanmem.mauthemewp.com
+  color: "#8B0000"
+  repo: SoftwareSolutions
+
+- order: 409
+  name: Aomua
+  description: Cung cấp dịch vụ bán hàng trực tuyến, các sản phẩm từ nhiều ngành hàng khác nhau.
+  icon: FaShoppingCart
+  url: http://aomua.mauthemewp.com
+  color: "#FF4500"
+  repo: OnlineStore
+
+- order: 410
+  name: TocoToco
+  description: Chuỗi cửa hàng đồ uống, đặc biệt nổi bật với trà sữa và các món giải khát khác.
+  icon: FaCoffee
+  url: http://tocotoco.mauthemewp.com
+  color: "#F4A300"
+  repo: BeverageStore
+
+- order: 411
+  name: BDS 28
+  description: Dịch vụ bất động sản, mua bán và cho thuê nhà đất.
+  icon: FaHome
+  url: http://bds28.mauthemewp.com
+  color: "#228B22"
+  repo: RealEstate
+
+- order: 412
+  name: Viettel
+  description: Cung cấp các dịch vụ viễn thông, internet, di động và các dịch vụ công nghệ khác.
+  icon: FaMobileAlt
+  url: http://viettel.mauthemewp.com
+  color: "#008000"
+  repo: TelecomServices
+
+- order: 413
+  name: Nội Thất 13
+  description: Cung cấp các sản phẩm nội thất đa dạng, từ phòng khách đến phòng ngủ, với thiết kế hiện đại.
+  icon: FaCouch
+  url: http://noithat13.mauthemewp.com
+  color: "#D2691E"
+  repo: InteriorDesign
+
+- order: 414
+  name: Quảng Cáo
+  description: Dịch vụ quảng cáo trực tuyến, marketing trên các nền tảng xã hội và Google Ads.
+  icon: FaBullhorn
+  url: http://quangcao.mauthemewp.com
+  color: "#FFD700"
+  repo: AdvertisingServices
+
+- order: 415
+  name: Tiết Kiệm Điện
+  description: Cung cấp giải pháp tiết kiệm điện năng, các sản phẩm giúp giảm tiêu thụ điện cho hộ gia đình và doanh nghiệp.
+  icon: FaBolt
+  url: http://tietkiemdien.mauthemewp.com
+  color: "#FF6347"
+  repo: EnergySaving
+
+- order: 416
+  name: Gia Dụng 2
+  description: Cung cấp các sản phẩm gia dụng tiện ích cho cuộc sống, từ máy móc đến các dụng cụ trong nhà.
+  icon: FaShower
+  url: http://giadung2.mauthemewp.com
+  color: "#32CD32"
+  repo: HomeAppliances
+
+- order: 417
+  name: SMS
+  description: Dịch vụ gửi SMS marketing, quảng cáo qua tin nhắn, hỗ trợ các chiến lược marketing qua di động.
+  icon: FaEnvelope
+  url: http://sms.mauthemewp.com
+  color: "#FF4500"
+  repo: SMSMarketing
+
+- order: 418
+  name: Dụng Cụ
+  description: Cung cấp các dụng cụ, thiết bị phục vụ cho công việc hàng ngày, xây dựng, sửa chữa và các ngành nghề khác.
+  icon: FaWrench
+  url: http://dungcu.mauthemewp.com
+  color: "#A9A9A9"
+  repo: Tools
+
+- order: 419
+  name: Tra Xanh
+  description: Dịch vụ cung cấp các sản phẩm thiên nhiên, từ cây xanh đến các sản phẩm làm đẹp từ thiên nhiên.
+  icon: FaLeaf
+  url: http://traxanh.mauthemewp.com
+  color: "#228B22"
+  repo: NaturalProducts
+
+- order: 420
+  name: Quảng Cáo Số Tốc
+  description: Dịch vụ quảng cáo nhanh chóng, hiệu quả trên các nền tảng kỹ thuật số và mạng xã hội.
+  icon: FaAd
+  url: http://quangcaositoc.mauthemewp.com
+  color: "#FFD700"
+  repo: DigitalAdvertising
+
+- order: 421
+  name: SaleCar
+  description: Dịch vụ bán và cho thuê xe, cung cấp thông tin về các loại xe ô tô, các chương trình khuyến mãi và giảm giá.
+  icon: FaCar
+  url: http://salecar.mauthemewp.com
+  color: "#1E90FF"
+  repo: CarSales
+
+- order: 422
+  name: Bất Động Sản 10
+  description: Cung cấp các thông tin về bất động sản, nhà đất, các dự án, mua bán cho thuê căn hộ, nhà ở.
+  icon: FaHome
+  url: http://bds10.mauthemewp.com
+  color: "#FFD700"
+  repo: RealEstate10
+
+- order: 423
+  name: Bất Động Sản 23
+  description: Dịch vụ môi giới bất động sản, cung cấp thông tin chi tiết về các căn hộ, nhà ở và đất đai.
+  icon: FaBuilding
+  url: http://bds23.mauthemewp.com
+  color: "#32CD32"
+  repo: RealEstate23
+
+- order: 424
+  name: Nhà Khoa 3
+  description: Cung cấp các dịch vụ nha khoa, bao gồm khám, điều trị và các dịch vụ làm đẹp răng miệng.
+  icon: FaTooth
+  url: http://nhakhoa3.mauthemewp.com
+  color: "#8B0000"
+  repo: DentalCare3
+
+- order: 425
+  name: Bỉm Mẹ Bé
+  description: Cung cấp các sản phẩm bỉm, tã, đồ dùng cho trẻ em và mẹ, giúp chăm sóc sức khỏe và tiện ích cho gia đình.
+  icon: FaBaby
+  url: http://bimmebe.mauthemewp.com
+  color: "#FF69B4"
+  repo: BabyCare
+
+- order: 426
+  name: Chuyển Nhà
+  description: Dịch vụ chuyển nhà trọn gói, bao gồm đóng gói, vận chuyển và sắp xếp đồ đạc một cách nhanh chóng, hiệu quả.
+  icon: FaTruck
+  url: http://chuyennha.mauthemewp.com
+  color: "#FF6347"
+  repo: MovingServices
+
+- order: 427
+  name: Siêu Thị Điện
+  description: Cung cấp các sản phẩm điện máy, thiết bị gia dụng, đồ điện tử và các sản phẩm công nghệ.
+  icon: FaPlug
+  url: http://sieuthida.mauthemewp.com
+  color: "#DC143C"
+  repo: ElectronicsStore
+
+- order: 428
+  name: Điện Lạnh
+  description: Cung cấp các thiết bị điện lạnh như điều hòa, tủ lạnh, máy giặt, máy sấy và các sản phẩm liên quan.
+  icon: FaSnowflake
+  url: http://dienlanh.mauthemewp.com
+  color: "#00BFFF"
+  repo: HomeAppliances
+
+- order: 429
+  name: Items
+  description: Cung cấp các mặt hàng tiêu dùng, phụ kiện và đồ dùng tiện ích cho gia đình.
+  icon: FaBox
+  url: http://items.mauthemewp.com
+  color: "#32CD32"
+  repo: HouseholdItems
+
+- order: 430
+  name: Du Học Hàn Quốc
+  description: Dịch vụ tư vấn du học Hàn Quốc, hỗ trợ các thủ tục xin visa, tìm kiếm trường học và chỗ ở.
+  icon: FaUniversity
+  url: http://duhochanquoc.mauthemewp.com
+  color: "#FF6347"
+  repo: StudyAbroadKR
+
+- order: 431
+  name: IQOS
+  description: Cung cấp các sản phẩm thuốc lá điện tử IQOS, bao gồm các loại máy và phụ kiện liên quan.
+  icon: FaCigarette
+  url: http://iqos.mauthemewp.com
+  color: "#2F4F4F"
+  repo: IQOSStore
+
+- order: 432
+  name: HyperX
+  description: Cung cấp các sản phẩm gaming gear, bao gồm tai nghe, bàn phím, chuột và các thiết bị chơi game chuyên nghiệp.
+  icon: FaGamepad
+  url: http://hyperx.mauthemewp.com
+  color: "#0000CD"
+  repo: GamingStore
+
+- order: 433
+  name: Ô tô Hyundai
+  description: Nơi cung cấp thông tin về các dòng xe ô tô Hyundai, các dịch vụ bảo dưỡng và khuyến mãi hấp dẫn.
+  icon: FaCar
+  url: http://hyundai.mauthemewp.com
+  color: "#FF5733"
+  repo: Portfolio
+
+- order: 434
+  name: Shop Phong Thủy
+  description: Cửa hàng chuyên cung cấp các vật phẩm phong thủy như tranh, tượng, đá quý giúp mang lại tài lộc, bình an cho gia chủ.
+  icon: FaGem
+  url: http://shopphongthuy.mauthemewp.com
+  color: "#008080"
+  repo: Portfolio
+
+- order: 435
+  name: Sự kiện 2
+  description: Trang web cung cấp thông tin về các sự kiện, hội nghị, hội thảo và các chương trình đặc biệt được tổ chức.
+  icon: FaCalendarAlt
+  url: http://event2.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 436
+  name: Đồng Hồ 3
+  description: Cửa hàng bán đồng hồ cao cấp, từ đồng hồ cổ điển đến đồng hồ thông minh, phù hợp cho mọi lứa tuổi và nhu cầu.
+  icon: FaClock
+  url: http://dongho3.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 437
+  name: Túi Xách
+  description: Cửa hàng bán túi xách nữ thời trang, đa dạng kiểu dáng, chất liệu, phù hợp với xu hướng và sở thích cá nhân.
+  icon: FaHandbag
+  url: http://tuixach.mauthemewp.com
+  color: "#E91E63"
+  repo: Portfolio
+
+- order: 438
+  name: Năng Lượng
+  description: Trang web chuyên cung cấp các giải pháp về năng lượng tái tạo, thiết bị tiết kiệm năng lượng, và các dự án xanh.
+  icon: FaSolarPanel
+  url: http://nangluong.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+- order: 439
+  name: Bách Hóa Xanh
+  description: Cửa hàng bán lẻ thực phẩm và đồ gia dụng chất lượng, phục vụ nhu cầu sinh hoạt hàng ngày cho gia đình.
+  icon: FaShoppingCart
+  url: http://bachhoaxanh.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 440
+  name: Tin Tức 14
+  description: Cập nhật các tin tức mới nhất về xã hội, thể thao, văn hóa và các sự kiện quan trọng trong nước và quốc tế.
+  icon: FaNewspaper
+  url: http://tintuc14.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 441
+  name: Tin Tức
+  description: Nơi cung cấp các thông tin thời sự, giải trí, sức khỏe và các chủ đề khác liên quan đến đời sống xã hội.
+  icon: FaNewspaper
+  url: http://tintuc.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 442
+  name: Thuê Xe 01
+  description: Dịch vụ cho thuê xe du lịch, xe tự lái và xe tổ chức sự kiện với chất lượng dịch vụ chuyên nghiệp và giá cả hợp lý.
+  icon: FaTaxi
+  url: http://thuexe01.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 443
+  name: Điện Lạnh 2
+  description: Dịch vụ sửa chữa, bảo dưỡng và lắp đặt các thiết bị điện lạnh, giúp gia đình bạn sử dụng thiết bị an toàn và hiệu quả.
+  icon: FaSnowflake
+  url: http://dienlanh2.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 444
+  name: Đồng Hồ Dân Tượng 3D
+  description: Cửa hàng chuyên cung cấp các sản phẩm đồng hồ 3D độc đáo, kết hợp giữa nghệ thuật và công nghệ hiện đại.
+  icon: FaClock
+  url: http://donghodantuong3d.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+- order: 445
+  name: Dịch Vụ Bảo Vệ
+  description: Cung cấp các dịch vụ bảo vệ chuyên nghiệp, đảm bảo an ninh cho các công ty, khu dân cư và sự kiện quan trọng.
+  icon: FaShieldAlt
+  url: http://dichvubaove.mauthemewp.com
+  color: "#009688"
+  repo: Portfolio
+
+- order: 446
+  name: Đồng Phục
+  description: Chuyên cung cấp đồng phục công sở, học sinh, công nhân và các loại đồng phục theo yêu cầu, với chất liệu và thiết kế đa dạng.
+  icon: FaTshirt
+  url: http://dongphuc.mauthemewp.com
+  color: "#FFEB3B"
+  repo: Portfolio
+
+- order: 447
+  name: Điện Lạnh 2
+  description: Dịch vụ sửa chữa, bảo dưỡng và lắp đặt các thiết bị điện lạnh, giúp gia đình bạn sử dụng thiết bị an toàn và hiệu quả.
+  icon: FaSnowflake
+  url: http://dienlanh2.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 448
+  name: Nội Thất 11
+  description: Cung cấp các sản phẩm nội thất cao cấp cho không gian sống và làm việc, từ đồ gia dụng đến các thiết kế nội thất hiện đại.
+  icon: FaCouch
+  url: http://noithat11.mauthemewp.com
+  color: "#607D8B"
+  repo: Portfolio
+
+- order: 449
+  name: Giới Thiệu Công Ty 3
+  description: Trang web giới thiệu về công ty, các dịch vụ cung cấp, tầm nhìn, sứ mệnh và các dự án đã thực hiện.
+  icon: FaBuilding
+  url: http://gioithieucongty3.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 450
+  name: Điện Máy 1
+  description: Cung cấp các sản phẩm điện máy, điện tử và thiết bị gia dụng chất lượng cao, đáp ứng nhu cầu cuộc sống hiện đại.
+  icon: FaPlug
+  url: http://dienmay1.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 451
+  name: Học Làm Đẹp
+  description: Cung cấp các khóa học làm đẹp, chăm sóc sắc đẹp chuyên nghiệp, từ trang điểm đến chăm sóc da và tóc.
+  icon: FaPaintBrush
+  url: http://hoclamdep.mauthemewp.com
+  color: "#E91E63"
+  repo: Portfolio
+
+- order: 452
+  name: Nước Giặt
+  description: Cung cấp các sản phẩm nước giặt chất lượng cao, giúp bảo vệ vải vóc và mang lại hương thơm lâu dài cho quần áo.
+  icon: FaTshirt
+  url: http://nuocgiat.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 453
+  name: Đẹp
+  description: Chuyên cung cấp các sản phẩm và dịch vụ làm đẹp, bao gồm chăm sóc da, trang điểm, và các phương pháp dưỡng sắc đẹp.
+  icon: FaSpa
+  url: http://dep.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 454
+  name: VPBank
+  description: Trang web chính thức của VPBank, cung cấp thông tin về các sản phẩm ngân hàng, dịch vụ tài chính, và các chương trình khuyến mãi.
+  icon: FaBank
+  url: http://vpbank.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 455
+  name: Edu 11
+  description: Cung cấp các khóa học trực tuyến, giáo trình học tập, và các tài liệu giáo dục dành cho học sinh, sinh viên và người đi làm.
+  icon: FaGraduationCap
+  url: http://edu11.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 456
+  name: Thực Phẩm Chức Năng 6
+  description: Cung cấp các sản phẩm thực phẩm chức năng, vitamin và các sản phẩm hỗ trợ sức khỏe từ các thương hiệu uy tín.
+  icon: FaAppleAlt
+  url: http://thucphamchucnang6.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 457
+  name: Nội Thất 8
+  description: Cung cấp các sản phẩm nội thất sang trọng, từ bàn ghế, tủ kệ đến các món đồ trang trí cho không gian sống hiện đại.
+  icon: FaCouch
+  url: http://noithat8.mauthemewp.com
+  color: "#607D8B"
+  repo: Portfolio
+
+- order: 458
+  name: Edu 3
+  description: Cung cấp các khóa học, chương trình đào tạo và tài liệu học tập cho học sinh, sinh viên, và người đi làm.
+  icon: FaGraduationCap
+  url: http://edu3.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 459
+  name: In Ấn
+  description: Dịch vụ in ấn chất lượng cao, bao gồm in ấn quảng cáo, tài liệu, brochure, và các sản phẩm in ấn khác.
+  icon: FaPrint
+  url: http://inan.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 460
+  name: Hải Sản
+  description: Cung cấp các loại hải sản tươi ngon, từ cá, tôm, cua đến các món ăn chế biến sẵn, đảm bảo chất lượng và vệ sinh an toàn thực phẩm.
+  icon: FaFish
+  url: http://haisan.mauthemewp.com
+  color: "#03A9F4"
+  repo: Portfolio
+
+- order: 461
+  name: Ô Tô
+  description: Cung cấp các thông tin về các dòng xe ô tô, từ xe hơi, xe tải đến các dịch vụ bảo trì và khuyến mãi.
+  icon: FaCar
+  url: http://oto.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 462
+  name: Hoàng Hà Mobile
+  description: Cung cấp các sản phẩm điện thoại di động, máy tính bảng và các thiết bị công nghệ, với dịch vụ bảo hành và hỗ trợ khách hàng chu đáo.
+  icon: FaMobileAlt
+  url: http://hoanghamobile.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 463
+  name: Sửa Điện Thoại
+  description: Dịch vụ sửa chữa điện thoại di động, máy tính bảng, với đội ngũ kỹ thuật viên chuyên nghiệp, nhanh chóng và uy tín.
+  icon: FaMobileAlt
+  url: http://suadienthoai.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 464
+  name: Nhà Xe
+  description: Cung cấp dịch vụ vận chuyển hành khách, bao gồm xe khách, xe limousine và các dịch vụ vận tải chất lượng cao.
+  icon: FaBus
+  url: http://nhaxe.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 465
+  name: Shop Rượu
+  description: Cung cấp các loại rượu vang, rượu mạnh và các loại đồ uống cao cấp, đảm bảo chất lượng và nguồn gốc xuất xứ rõ ràng.
+  icon: FaWineBottle
+  url: http://shopruou.mauthemewp.com
+  color: "#D32F2F"
+  repo: Portfolio
+
+- order: 466
+  name: Agency
+  description: Cung cấp các dịch vụ tư vấn và tiếp thị, xây dựng chiến lược quảng bá thương hiệu và chiến dịch truyền thông hiệu quả.
+  icon: FaUsers
+  url: http://agency.mauthemewp.com
+  color: "#673AB7"
+  repo: Portfolio
+
+- order: 467
+  name: Thiết Kế Web
+  description: Dịch vụ thiết kế website chuyên nghiệp, đáp ứng nhu cầu kinh doanh trực tuyến và tạo dựng sự hiện diện trên mạng cho doanh nghiệp.
+  icon: FaLaptopCode
+  url: http://thietkeweb.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 468
+  name: Top Việc
+  description: Cung cấp dịch vụ tuyển dụng và tìm kiếm việc làm, kết nối ứng viên với các nhà tuyển dụng trong các ngành nghề khác nhau.
+  icon: FaBriefcase
+  url: http://topviec.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 469
+  name: Nội Thất 16
+  description: Cung cấp các sản phẩm nội thất cao cấp, từ bàn ghế, giường tủ đến các món đồ trang trí đẹp mắt, phục vụ cho mọi không gian sống.
+  icon: FaCouch
+  url: http://noithat16.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 470
+  name: Giới Thiệu 2
+  description: Trang web giới thiệu thông tin về công ty, sản phẩm, dịch vụ và các dự án mà công ty đã thực hiện, với các chi tiết rõ ràng và dễ hiểu.
+  icon: FaBuilding
+  url: http://gioithieu2.mauthemewp.com
+  color: "#FFEB3B"
+  repo: Portfolio
+
+- order: 471
+  name: Party
+  description: Cung cấp các dịch vụ tổ chức sự kiện, tiệc tùng, từ lên kế hoạch, trang trí đến cung cấp các món ăn, giải trí cho các dịp đặc biệt.
+  icon: FaGlassCheers
+  url: http://party.mauthemewp.com
+  color: "#FF4081"
+  repo: Portfolio
+
+- order: 472
+  name: Thực Phẩm 21
+  description: Cung cấp các loại thực phẩm tươi ngon, chế biến sẵn và thực phẩm chức năng đảm bảo chất lượng cho sức khỏe của người tiêu dùng.
+  icon: FaAppleAlt
+  url: http://thucpham21.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 473
+  name: Sơn
+  description: Cung cấp các loại sơn chất lượng cao cho các công trình xây dựng, bảo trì và sửa chữa, từ sơn nội thất đến sơn ngoại thất.
+  icon: FaPaintRoller
+  url: http://son.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 474
+  name: Vila
+  description: Dịch vụ cho thuê và bán các căn villa sang trọng, mang đến không gian sống lý tưởng cho khách hàng với tiện ích đầy đủ.
+  icon: FaHome
+  url: http://vila.mauthemewp.com
+  color: "#009688"
+  repo: Portfolio
+
+- order: 475
+  name: Print 4
+  description: Cung cấp dịch vụ in ấn đa dạng, bao gồm in ấn quảng cáo, in ấn bao bì và các sản phẩm in ấn theo yêu cầu.
+  icon: FaPrint
+  url: http://print4.mauthemewp.com
+  color: "#F44336"
+  repo: Portfolio
+
+- order: 476
+  name: Brand
+  description: Dịch vụ xây dựng thương hiệu, bao gồm thiết kế logo, bộ nhận diện thương hiệu và chiến lược tiếp thị cho doanh nghiệp.
+  icon: FaTrademark
+  url: http://brand.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 477
+  name: KHO Plugin
+  description: Cung cấp các plugin hữu ích cho website, hỗ trợ các tính năng nâng cao cho người dùng và giúp tối ưu hóa trải nghiệm người dùng.
+  icon: FaPlug
+  url: http://khoplugin.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 478
+  name: Bitour
+  description: Cung cấp các tour du lịch trong nước và quốc tế, từ các tour ngắn ngày đến dài ngày, với dịch vụ chuyên nghiệp và giá cả hợp lý.
+  icon: FaGlobe
+  url: http://bitour.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 479
+  name: Dạy Lái Xe
+  description: Cung cấp dịch vụ dạy lái xe, với các khóa học lái xe ô tô và xe máy, đảm bảo học viên có thể lái xe an toàn và tự tin.
+  icon: FaCar
+  url: http://daylaixe.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 480
+  name: Phòng Khám
+  description: Cung cấp dịch vụ khám chữa bệnh, chăm sóc sức khỏe từ các bác sĩ chuyên khoa, với các dịch vụ khám bệnh định kỳ và điều trị bệnh.
+  icon: FaHospital
+  url: http://phongkham.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 481
+  name: Edu 5
+  description: Cung cấp các khóa học, chương trình đào tạo chuyên sâu cho học sinh, sinh viên và người đi làm, giúp nâng cao kỹ năng và kiến thức.
+  icon: FaGraduationCap
+  url: http://edu5.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 482
+  name: Dược Phẩm 3
+  description: Cung cấp các sản phẩm dược phẩm chất lượng cao, từ thuốc đến các sản phẩm chăm sóc sức khỏe, giúp nâng cao chất lượng cuộc sống.
+  icon: FaPills
+  url: http://duocpham3.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 483
+  name: Luật Sư
+  description: Cung cấp dịch vụ tư vấn pháp lý chuyên nghiệp, giúp giải quyết các vấn đề pháp lý cho cá nhân và doanh nghiệp.
+  icon: FaGavel
+  url: http://luatsu.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 484
+  name: Điện Máy 3
+  description: Cung cấp các sản phẩm điện máy như tivi, tủ lạnh, máy giặt và các thiết bị điện tử gia dụng với chất lượng vượt trội.
+  icon: FaPlug
+  url: http://dienmay3.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 485
+  name: Giới Thiệu 9
+  description: Trang giới thiệu thông tin về công ty, sản phẩm và dịch vụ, kèm theo các thông tin chi tiết về các dự án đã thực hiện.
+  icon: FaBuilding
+  url: http://gioithieu9.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 486
+  name: Điện Nước 2
+  description: Dịch vụ sửa chữa và bảo trì điện nước, cung cấp các giải pháp về điện và hệ thống cấp thoát nước cho nhà ở và công trình.
+  icon: FaWater
+  url: http://diennuoc2.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 487
+  name: Mica 2
+  description: Cung cấp các sản phẩm mica chất lượng cao, bao gồm các bảng hiệu, đồ trang trí, và vật liệu làm từ mica, phục vụ cho các nhu cầu công nghiệp và cá nhân.
+  icon: FaCogs
+  url: http://mica2.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 488
+  name: Shop Hoa 3
+  description: Cung cấp các loại hoa tươi, hoa khô và các sản phẩm liên quan đến hoa, phù hợp cho các dịp lễ tết, sự kiện và quà tặng.
+  icon: FaGift
+  url: http://shophoa3.mauthemewp.com
+  color: "#E91E63"
+  repo: Portfolio
+
+- order: 489
+  name: Dạy Trang Điểm
+  description: Dịch vụ dạy trang điểm chuyên nghiệp, giúp học viên nâng cao kỹ năng trang điểm từ cơ bản đến nâng cao cho các dịp đặc biệt và công việc hàng ngày.
+  icon: FaPaintBrush
+  url: http://daytrangdiem.mauthemewp.com
+  color: "#FF4081"
+  repo: Portfolio
+
+- order: 490
+  name: Vape
+  description: Cung cấp các sản phẩm vape cao cấp, từ các loại thiết bị đến tinh dầu vape với đa dạng mùi vị, phục vụ nhu cầu của những người đam mê vape.
+  icon: FaSmoking
+  url: http://vape.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 491
+  name: Spa 7
+  description: Dịch vụ spa chuyên nghiệp, cung cấp các liệu trình thư giãn, làm đẹp và chăm sóc sức khỏe, giúp khách hàng cảm thấy thoải mái và tự tin hơn.
+  icon: FaSpa
+  url: http://spa7.mauthemewp.com
+  color: "#009688"
+  repo: Portfolio
+
+- order: 492
+  name: Toplist
+  description: Trang web tổng hợp và giới thiệu các danh sách top sản phẩm, dịch vụ, địa điểm nổi bật trong nhiều lĩnh vực, giúp người dùng dễ dàng lựa chọn.
+  icon: FaList
+  url: http://toplist.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 493
+  name: Xe Đạp
+  description: Cung cấp các loại xe đạp thể thao, xe đạp city và phụ kiện xe đạp, phục vụ cho nhu cầu di chuyển và thể thao ngoài trời.
+  icon: FaBicycle
+  url: http://xedap.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 494
+  name: Vệ Sinh 3
+  description: Dịch vụ vệ sinh chuyên nghiệp, bao gồm vệ sinh nhà cửa, văn phòng, và các công trình sau xây dựng, với đội ngũ nhân viên lành nghề.
+  icon: FaCleaning
+  url: http://vesinh3.mauthemewp.com
+  color: "#FFEB3B"
+  repo: Portfolio
+
+- order: 495
+  name: Bất Động Sản 6
+  description: Cung cấp các dịch vụ tư vấn, mua bán, cho thuê bất động sản, bao gồm nhà ở, đất đai, căn hộ cao cấp và các dự án lớn.
+  icon: FaBuilding
+  url: http://bds6.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 496
+  name: Bất Động Sản 15
+  description: Dịch vụ bất động sản chuyên nghiệp, giúp khách hàng tìm kiếm, giao dịch các sản phẩm bất động sản từ đất nền đến các dự án nhà ở.
+  icon: FaHome
+  url: http://bds15.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 497
+  name: Green Bay
+  description: Dự án khu đô thị xanh, với không gian sống gần gũi thiên nhiên, đầy đủ tiện ích, đáp ứng nhu cầu sống xanh và bền vững cho cư dân.
+  icon: FaLeaf
+  url: http://greenbay.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 498
+  name: Đèn LED 2
+  description: Cung cấp các loại đèn LED tiết kiệm năng lượng, chất lượng cao, phục vụ cho chiếu sáng nội thất và ngoại thất, với nhiều mẫu mã đa dạng.
+  icon: FaLightbulb
+  url: http://denled2.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 499
+  name: Thực Phẩm 8
+  description: Cung cấp các sản phẩm thực phẩm tươi ngon, an toàn, từ rau củ quả đến thực phẩm chế biến sẵn, phục vụ nhu cầu tiêu dùng hàng ngày.
+  icon: FaAppleAlt
+  url: http://thucpham8.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 500
+  name: Dược
+  description: Cung cấp các sản phẩm dược phẩm chất lượng cao, bao gồm thuốc chữa bệnh và các sản phẩm chăm sóc sức khỏe khác.
+  icon: FaPills
+  url: http://duoc.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 501
+  name: Máy Tính
+  description: Cung cấp các sản phẩm máy tính, phụ kiện và linh kiện máy tính, đáp ứng nhu cầu của cá nhân và doanh nghiệp.
+  icon: FaDesktop
+  url: http://maytinh.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 502
+  name: Rượu Bia
+  description: Cung cấp các loại rượu, bia, và đồ uống có cồn khác, phục vụ cho các dịp lễ hội và nhu cầu tiêu dùng cá nhân.
+  icon: FaWineGlassAlt
+  url: http://ruoubia.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 503
+  name: Print 3
+  description: Dịch vụ in ấn các sản phẩm như brochure, danh thiếp, tờ rơi, poster với chất lượng cao và giá cả hợp lý.
+  icon: FaPrint
+  url: http://print3.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 504
+  name: Khoa Học Marketing
+  description: Cung cấp các khóa học và tài liệu chuyên sâu về marketing, giúp học viên nắm vững các chiến lược marketing hiệu quả trong thời đại số.
+  icon: FaChalkboardTeacher
+  url: http://khoahocmarketing.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 505
+  name: Nội Thất 6
+  description: Cung cấp các sản phẩm nội thất cao cấp, bao gồm bàn ghế, giường tủ, và các món đồ trang trí nội thất, tạo không gian sống sang trọng và tiện nghi.
+  icon: FaCouch
+  url: http://noithat6.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 506
+  name: Print 2
+  description: Dịch vụ in ấn chuyên nghiệp, bao gồm in sách, tài liệu quảng cáo, và các sản phẩm in ấn khác với chất lượng cao và giá cả hợp lý.
+  icon: FaPrint
+  url: http://print2.mauthemewp.com
+  color: "#03A9F4"
+  repo: Portfolio
+
+- order: 507
+  name: Spa 10
+  description: Dịch vụ spa cao cấp với các liệu trình chăm sóc sắc đẹp, thư giãn và chăm sóc sức khỏe, giúp bạn tái tạo năng lượng và vẻ đẹp tự nhiên.
+  icon: FaSpa
+  url: http://spa10.mauthemewp.com
+  color: "#009688"
+  repo: Portfolio
+
+- order: 508
+  name: Điện Máy
+  description: Cung cấp các sản phẩm điện máy chính hãng, bao gồm máy lạnh, máy giặt, tủ lạnh và các thiết bị điện tử gia dụng khác.
+  icon: FaPlug
+  url: http://dienmay.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 509
+  name: Bất Động Sản 18
+  description: Dịch vụ mua bán, cho thuê bất động sản, bao gồm đất đai, nhà ở, căn hộ và các dự án bất động sản lớn, giúp khách hàng tìm kiếm các lựa chọn tốt nhất.
+  icon: FaBuilding
+  url: http://bds18.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 510
+  name: Mỹ Phẩm
+  description: Cung cấp các sản phẩm mỹ phẩm chất lượng, bao gồm kem dưỡng da, sữa rửa mặt, trang điểm và các sản phẩm chăm sóc sắc đẹp khác.
+  icon: FaSmiling
+  url: http://mypham.mauthemewp.com
+  color: "#F44336"
+  repo: Portfolio
+
+- order: 511
+  name: Công Ty Dược
+  description: Cung cấp các sản phẩm dược phẩm chất lượng cao, bao gồm thuốc chữa bệnh và các sản phẩm chăm sóc sức khỏe khác từ các thương hiệu uy tín.
+  icon: FaPills
+  url: http://congtyduoc.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 512
+  name: Vệ Sinh
+  description: Dịch vụ vệ sinh chuyên nghiệp cho nhà ở, văn phòng, công trình xây dựng và các khu vực khác, mang lại không gian sống và làm việc sạch sẽ, thoải mái.
+  icon: FaBroom
+  url: http://vesinh.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 513
+  name: Giới Thiệu Công Ty
+  description: Trang web cung cấp thông tin về công ty, sứ mệnh, tầm nhìn, các sản phẩm, dịch vụ, cũng như đội ngũ nhân viên và các dự án đã thực hiện.
+  icon: FaBuilding
+  url: http://gioithieucongty.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 514
+  name: Tin Tức 9
+  description: Cung cấp các tin tức, sự kiện nóng hổi, cập nhật nhanh chóng những thông tin mới nhất trong các lĩnh vực kinh tế, xã hội, và đời sống.
+  icon: FaNewspaper
+  url: http://tintuc9.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 515
+  name: Xịt Thơm
+  description: Cung cấp các loại xịt thơm, sản phẩm giúp không gian sống của bạn trở nên dễ chịu và thơm mát, với nhiều mùi hương đặc biệt.
+  icon: FaSprayCan
+  url: http://xitthom.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 516
+  name: Nội Thất 29
+  description: Cung cấp các sản phẩm nội thất hiện đại và cao cấp cho không gian sống và làm việc, giúp khách hàng trang trí và tạo dựng không gian lý tưởng.
+  icon: FaCouch
+  url: http://noithat29.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 517
+  name: Khóa Học Đàn Piano
+  description: Cung cấp các khóa học đàn piano cho mọi đối tượng từ người mới bắt đầu đến nâng cao, giúp bạn phát triển khả năng âm nhạc.
+  icon: FaMusic
+  url: http://khoahocdanpiano.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 518
+  name: Cân An
+  description: Cung cấp các sản phẩm cân điện tử chính xác, bền bỉ, phục vụ nhu cầu sử dụng trong các ngành công nghiệp, thương mại và gia đình.
+  icon: FaBalanceScale
+  url: http://caunang.mauthemewp.com
+  color: "#009688"
+  repo: Portfolio
+
+- order: 519
+  name: Mỹ Phẩm 6
+  description: Cung cấp các sản phẩm mỹ phẩm cao cấp, bao gồm kem dưỡng da, sữa rửa mặt, son môi và các sản phẩm chăm sóc sắc đẹp khác.
+  icon: FaSmiling
+  url: http://mypham6.mauthemewp.com
+  color: "#F44336"
+  repo: Portfolio
+
+- order: 520
+  name: Gạch
+  description: Cung cấp các loại gạch lát, gạch xây dựng chất lượng cao, đa dạng về mẫu mã và kiểu dáng, phục vụ nhu cầu xây dựng và trang trí nội thất.
+  icon: FaBrick
+  url: http://gach.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 521
+  name: Thực Phẩm 20
+  description: Cung cấp các sản phẩm thực phẩm an toàn, tươi ngon, bao gồm rau củ quả, thịt, cá và các loại thực phẩm chế biến sẵn.
+  icon: FaAppleAlt
+  url: http://thucpham20.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 522
+  name: Nông Sản 2
+  description: Cung cấp các sản phẩm nông sản tươi sạch, bao gồm rau củ quả, hạt giống, thực phẩm hữu cơ, đáp ứng nhu cầu tiêu dùng của người tiêu dùng.
+  icon: FaSeedling
+  url: http://nongsan2.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 523
+  name: Giới Thiệu 5
+  description: Cung cấp thông tin về công ty, sứ mệnh, tầm nhìn và các sản phẩm, dịch vụ để khách hàng hiểu rõ hơn về công ty và các giá trị mang lại.
+  icon: FaBuilding
+  url: http://gioithieu5.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 524
+  name: Bất Động Sản 2
+  description: Dịch vụ mua bán, cho thuê bất động sản, bao gồm đất đai, căn hộ, nhà ở và các dự án bất động sản khác, giúp khách hàng tìm kiếm các lựa chọn tốt nhất.
+  icon: FaBuilding
+  url: http://bds2.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 525
+  name: Kho Theme
+  description: Cung cấp các theme website đẹp mắt và dễ sử dụng cho mọi nhu cầu thiết kế website, từ blog cá nhân đến các trang thương mại điện tử.
+  icon: FaThemes
+  url: http://khotheme.mauthemewp.com
+  color: "#FF5722"
+  repo: Portfolio
+
+- order: 526
+  name: Nhà Hàng
+  description: Cung cấp các món ăn ngon, đa dạng từ ẩm thực truyền thống đến quốc tế, mang lại cho thực khách những trải nghiệm ẩm thực tuyệt vời.
+  icon: FaUtensils
+  url: http://nhahang.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 527
+  name: Sự Kiện 3
+  description: Cung cấp dịch vụ tổ chức sự kiện chuyên nghiệp cho các dịp lễ hội, hội thảo, triển lãm và các sự kiện doanh nghiệp.
+  icon: FaCalendarAlt
+  url: http://event3.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 528
+  name: Mac Shop
+  description: Cung cấp các sản phẩm Apple chính hãng, bao gồm MacBook, iPhone, iPad và các phụ kiện đi kèm, đảm bảo chất lượng và dịch vụ uy tín.
+  icon: FaApple
+  url: http://macshop.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
+- order: 529
+  name: Grab
+  description: Dịch vụ gọi xe và giao đồ ăn tiện lợi, giúp người dùng di chuyển và thưởng thức các món ăn yêu thích nhanh chóng, dễ dàng.
+  icon: FaTaxi
+  url: http://grab.mauthemewp.com
+  color: "#00B140"
+  repo: Portfolio
+
+- order: 530
+  name: Thời Trang 2
+  description: Cung cấp các sản phẩm thời trang mới nhất, từ quần áo, giày dép đến phụ kiện, giúp bạn luôn phong cách và tự tin.
+  icon: FaTshirt
+  url: http://fashion2.mauthemewp.com
+  color: "#E91E63"
+  repo: Portfolio
+
+- order: 531
+  name: Tài Nguyên
+  description: Cung cấp thông tin và các dịch vụ liên quan đến tài nguyên thiên nhiên, từ khai thác, bảo vệ đến phát triển bền vững tài nguyên.
+  icon: FaTree
+  url: http://tainguyen.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 532
+  name: Son Môi
+  description: Cung cấp các loại son môi cao cấp, với nhiều màu sắc và chất lượng tuyệt vời, giúp bạn luôn xinh đẹp và tự tin.
+  icon: FaLipstick
+  url: http://sonmoi.mauthemewp.com
+  color: "#F44336"
+  repo: Portfolio
+
+- order: 533
+  name: Yến Sào 2
+  description: Cung cấp yến sào chất lượng cao, giúp bồi bổ sức khỏe, tăng cường sức đề kháng và làm đẹp da.
+  icon: FaSpa
+  url: http://yensao2.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 534
+  name: Cảm Biến
+  description: Cung cấp các loại cảm biến hiện đại, sử dụng trong các ngành công nghiệp, giao thông, y tế và nhiều lĩnh vực khác.
+  icon: FaSensor
+  url: http://cambien.mauthemewp.com
+  color: "#607D8B"
+  repo: Portfolio
+
+- order: 535
+  name: Nước Giặt 2
+  description: Cung cấp các loại nước giặt chất lượng cao, giúp quần áo sạch sẽ, mềm mại và giữ màu lâu dài.
+  icon: FaTshirt
+  url: http://nuocgiat2.mauthemewp.com
+  color: "#FFEB3B"
+  repo: Portfolio
+
+- order: 536
+  name: Gia Công
+  description: Dịch vụ gia công sản phẩm, bao gồm cắt, may, gia công kim loại và các dịch vụ sản xuất theo yêu cầu của khách hàng.
+  icon: FaCogs
+  url: http://giacong.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 537
+  name: Thực Phẩm Chức Năng
+  description: Cung cấp các sản phẩm thực phẩm chức năng, giúp hỗ trợ sức khỏe, cải thiện dinh dưỡng và tăng cường sức đề kháng.
+  icon: FaPills
+  url: http://thucphamchucnang.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 538
+  name: Du Lịch 8
+  description: Cung cấp các tour du lịch trong nước và quốc tế, mang đến cho khách hàng những trải nghiệm du lịch thú vị và đáng nhớ.
+  icon: FaGlobe
+  url: http://dulich8.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 539
+  name: Bất Động Sản 34
+  description: Dịch vụ mua bán, cho thuê bất động sản, bao gồm căn hộ, nhà ở, đất đai và các dự án bất động sản lớn.
+  icon: FaBuilding
+  url: http://bds34.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 540
+  name: Bất Động Sản
+  description: Cung cấp các dịch vụ bất động sản, từ việc mua bán, cho thuê đến tư vấn về đầu tư bất động sản.
+  icon: FaBuilding
+  url: http://bds.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 535
+  name: Nước Giặt 2
+  description: Cung cấp các loại nước giặt chất lượng cao, giúp quần áo sạch sẽ, mềm mại và giữ màu lâu dài.
+  icon: FaTshirt
+  url: http://nuocgiat2.mauthemewp.com
+  color: "#FFEB3B"
+  repo: Portfolio
+
+- order: 536
+  name: Gia Công
+  description: Dịch vụ gia công sản phẩm, bao gồm cắt, may, gia công kim loại và các dịch vụ sản xuất theo yêu cầu của khách hàng.
+  icon: FaCogs
+  url: http://giacong.mauthemewp.com
+  color: "#FFC107"
+  repo: Portfolio
+
+- order: 537
+  name: Thực Phẩm Chức Năng
+  description: Cung cấp các sản phẩm thực phẩm chức năng, giúp hỗ trợ sức khỏe, cải thiện dinh dưỡng và tăng cường sức đề kháng.
+  icon: FaPills
+  url: http://thucphamchucnang.mauthemewp.com
+  color: "#8BC34A"
+  repo: Portfolio
+
+- order: 538
+  name: Du Lịch 8
+  description: Cung cấp các tour du lịch trong nước và quốc tế, mang đến cho khách hàng những trải nghiệm du lịch thú vị và đáng nhớ.
+  icon: FaGlobe
+  url: http://dulich8.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 539
+  name: Bất Động Sản 34
+  description: Dịch vụ mua bán, cho thuê bất động sản, bao gồm căn hộ, nhà ở, đất đai và các dự án bất động sản lớn.
+  icon: FaBuilding
+  url: http://bds34.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 540
+  name: Bất Động Sản
+  description: Cung cấp các dịch vụ bất động sản, từ việc mua bán, cho thuê đến tư vấn về đầu tư bất động sản.
+  icon: FaBuilding
+  url: http://bds.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 541
+  name: Nội Thất 4
+  description: Cung cấp các sản phẩm nội thất cao cấp, từ bàn ghế, giường tủ đến các món đồ trang trí, mang lại không gian sống tiện nghi và sang trọng.
+  icon: FaCouch
+  url: http://noithat4.mauthemewp.com
+  color: "#8E44AD"
+  repo: Portfolio
+
+- order: 542
+  name: Bánh Ngọt
+  description: Cung cấp các loại bánh ngọt, bánh kem, bánh tươi với nhiều hương vị khác nhau, thích hợp cho mọi dịp tiệc tùng, sinh nhật và lễ hội.
+  icon: FaBirthdayCake
+  url: http://cake.mauthemewp.com
+  color: "#FF4081"
+  repo: Portfolio
+
+- order: 543
+  name: In Ấn
+  description: Dịch vụ in ấn chất lượng cao, từ in ấn danh thiếp, tờ rơi đến in ấn quảng cáo, bao bì sản phẩm cho các doanh nghiệp.
+  icon: FaPrint
+  url: http://inbat.mauthemewp.com
+  color: "#009688"
+  repo: Portfolio
+
+- order: 544
+  name: Nhà Hàng Tiệc Cưới
+  description: Dịch vụ tổ chức tiệc cưới chuyên nghiệp, cung cấp không gian tiệc cưới đẹp, món ăn ngon và dịch vụ trọn gói cho các cặp đôi.
+  icon: FaGlassCheers
+  url: http://nhahangtieccuoi.mauthemewp.com
+  color: "#F44336"
+  repo: Portfolio
+
+- order: 545
+  name: Tuyển Dụng 3
+  description: Cung cấp thông tin tuyển dụng từ các công ty, giúp ứng viên tìm kiếm cơ hội việc làm phù hợp với năng lực và sở thích cá nhân.
+  icon: FaUserTie
+  url: http://tuyendung3.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 546
+  name: Bột Sơn
+  description: Cung cấp các loại bột sơn chất lượng, phục vụ cho nhu cầu sơn tường, sơn xe, sơn đồ nội thất và các ngành công nghiệp khác.
+  icon: FaPaintRoller
+  url: http://botson.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 547
+  name: Sửa Nhà
+  description: Dịch vụ sửa chữa nhà cửa, cải tạo không gian sống với đội ngũ thợ lành nghề, chất lượng cao, bảo hành lâu dài.
+  icon: FaTools
+  url: http://suanha.mauthemewp.com
+  color: "#F57C00"
+  repo: Portfolio
+
+- order: 548
+  name: Tin Tức 6
+  description: Cung cấp tin tức, sự kiện nóng hổi, thông tin nổi bật trong các lĩnh vực như chính trị, xã hội, thể thao, văn hóa.
+  icon: FaNewspaper
+  url: http://tintuc6.mauthemewp.com
+  color: "#00BCD4"
+  repo: Portfolio
+
+- order: 549
+  name: Thời Trang
+  description: Cung cấp các sản phẩm thời trang hiện đại, phong cách, từ quần áo, phụ kiện đến giày dép, đáp ứng nhu cầu đa dạng của khách hàng.
+  icon: FaTshirt
+  url: http://thoitrang.mauthemewp.com
+  color: "#8E24AA"
+  repo: Portfolio
+
+- order: 550
+  name: HNK
+  description: Cung cấp các sản phẩm và dịch vụ chất lượng cao từ HNK, với mục tiêu mang lại sự hài lòng tối đa cho khách hàng.
+  icon: FaBuilding
+  url: http://hnk.mauthemewp.com
+  color: "#3F51B5"
+  repo: Portfolio
+
+- order: 551
+  name: Edu1
+  description: Chuyên cung cấp các khóa học trực tuyến, đào tạo kỹ năng và phát triển nghề nghiệp trong các lĩnh vực công nghệ, marketing, thiết kế.
+  icon: FaBook
+  url: http://edu1.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 552
+  name: Trầm Hương
+  description: Cung cấp các sản phẩm trầm hương tự nhiên, chất lượng cao, từ nhang trầm, tinh dầu trầm đến các món quà tặng ý nghĩa.
+  icon: FaLeaf
+  url: http://tramhuong.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 553
+  name: Nội Thất 7
+  description: Cung cấp các sản phẩm nội thất hiện đại, tiện nghi, từ sofa, bàn ghế đến các thiết bị gia dụng, giúp tạo dựng không gian sống lý tưởng.
+  icon: FaCouch
+  url: http://noithat7.mauthemewp.com
+  color: "#F44336"
+  repo: Portfolio
+
+- order: 554
+  name: Đông Y
+  description: Cung cấp các sản phẩm đông y, thuốc bắc, thảo dược tự nhiên giúp chăm sóc sức khỏe, điều trị bệnh tật theo phương pháp cổ truyền.
+  icon: FaHeart
+  url: http://dongy.mauthemewp.com
+  color: "#4CAF50"
+  repo: Portfolio
+
+- order: 555
+  name: Bất Động Sản 27
+  description: Mua bán, cho thuê bất động sản, cung cấp các dịch vụ tư vấn bất động sản chuyên nghiệp, giúp khách hàng tìm kiếm các cơ hội đầu tư tốt nhất.
+  icon: FaHome
+  url: http://bds27.mauthemewp.com
+  color: "#2196F3"
+  repo: Portfolio
+
+- order: 556
+  name: Biên Chức Danh
+  description: Cung cấp các dịch vụ thiết kế, in ấn danh thiếp, biên chức danh chuyên nghiệp, giúp xây dựng hình ảnh công ty và cá nhân.
+  icon: FaAddressCard
+  url: http://bienchucdanh.mauthemewp.com
+  color: "#FF9800"
+  repo: Portfolio
+
+- order: 557
+  name: Mỹ Phẩm 03
+  description: Cung cấp các sản phẩm mỹ phẩm chất lượng cao, từ chăm sóc da, trang điểm đến dưỡng tóc, mang lại vẻ đẹp tự nhiên và tươi trẻ.
+  icon: FaSpa
+  url: http://mypham03.mauthemewp.com
+  color: "#9C27B0"
+  repo: Portfolio
+
