@@ -55,7 +55,6 @@ export const getGitHubSponsors = async (): Promise<{
   oneTime: Array<ReadableSupporter>;
 }> => {
   const { data } = await getSponsorsGraphQLResponse().catch(null);
-  console.log('data :>> ', data);
   // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
   const { nodes: tiers = [] } = data?.user?.sponsorsListing?.tiers || {};
   // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition

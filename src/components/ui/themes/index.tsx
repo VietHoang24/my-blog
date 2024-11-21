@@ -5,6 +5,7 @@ import { themes as allProjects } from '@/content';
 import { getColoredTextClasses } from '@/utils/colored-text';
 import cx from '@/utils/cx';
 import { ThemeItem } from './item';
+import ThemeListItems from './item/themeListItem';
 
 
 interface ProjectsListProps {
@@ -50,13 +51,7 @@ export const ThemesList = (props: ProjectsListProps) => {
           </LinkButton>
         ) : null}
       </div>
-      <ul>
-        {filteredProjects.map((project) => (
-          <li key={project.name}>
-            <ThemeItem project={project} />
-          </li>
-        ))}
-      </ul>
+      <ThemeListItems themes={filteredProjects} />
     </Section>
   );
 };

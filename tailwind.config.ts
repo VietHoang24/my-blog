@@ -104,6 +104,19 @@ const config: Config = {
         5: '5',
       },
       colors: {
+        primary: {
+          '50': '#eff6ff',
+          '100': '#dbeafe',
+          '200': '#bfdbfe',
+          '300': '#93c5fd',
+          '400': '#60a5fa',
+          '500': '#3b82f6',
+          '600': '#2563eb',
+          '700': '#1d4ed8',
+          '800': '#1e40af',
+          '900': '#1e3a8a',
+          '950': '#172554',
+        },
         brand: {
           DEFAULT: '#3867D6',
           950: '#060A15',
@@ -131,7 +144,7 @@ const config: Config = {
               "'calt' 1, 'dlig' 1, 'case' 1, 'ccmp' 1, 'zero' 1, 'ss01' 1, 'ss02' 1, 'cv01' 1, 'cv03' 1, 'cv04' 1, 'cv06' 1, 'cv09' 1",
           },
         ],
-        vietnam: ['"Roboto"', 'Arial', 'sans-serif'],   // Font dành cho tiếng Việt
+        vietnam: ['"Roboto"', 'Arial', 'sans-serif'], // Font dành cho tiếng Việt
 
         manrope: [
           ['var(--font-manrope)', 'Manrope', ...sansFontFamily],

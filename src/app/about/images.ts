@@ -11,7 +11,6 @@ export const getAboutImage = cache(
   async () => {
     const index = 2;
     const src = await import(`../../assets/images/about/${index}.jpeg`);
-    console.log('src :>> ', src);
     return {
       src: JSON.parse(JSON.stringify(src)),
       alt: imagesAlts[index],
