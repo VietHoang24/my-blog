@@ -11,10 +11,12 @@
     "update-deps": "npx npm-check-updates -u && bun i",
     "download-themes": "node ./scripts/download-themes.mjs",
     "prune-code": "ts-prune -i '.next|.velite|src/app'",
-    "postinstall": "is-ci || husky install",
     "analyze": "ANALYZE=true bun run build"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^6.1.8",
     "canvas-confetti": "^1.9.3",
     "next": "^14.3.0-canary.63",
     "next-themes": "0.3.0",
