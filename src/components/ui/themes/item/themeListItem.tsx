@@ -4,6 +4,7 @@ import NoDataPage from '@/components/atoms/nodata';
 import Pagination from '@mui/material/Pagination';
 import { useState } from 'react';
 import { ThemeItem } from '.';
+import ThemeCatDropdown from '@/components/atoms/themeCatDropdown';
 
 const itemsPerPage = 20;
 
@@ -15,10 +16,14 @@ const ThemeListItems = ({ themes }: any) => {
   // Calculate the index range for the current page
   const startIndex = (page - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-
+  console.log('page', page);
+  // console.log('startIndex', startIndex)
+  // alert(`endIndex: ${endIndex}`)
+  // alert(`itemsPerPage: ${itemsPerPage}`)
   // Slice the themes array to display the items for the current page
 
-  const handleChange = ({ event, value }: any) => {
+  const handleChange = (e: any, value: any) => {
+    console.log('e', e);
     setPage(value);
     window.scrollTo({
       top: 0,
@@ -62,50 +67,52 @@ const ThemeListItems = ({ themes }: any) => {
 
   return (
     <div>
-      <form
-        onSubmit={(e) => {
-          e.preventDefault();
-          handleSearch();
-        }}
-        className="flex justify-center"
-      >
-        <div className="relative mb-6 w-[90%]">
-          <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
-            <svg
-              className="w-4 h-4 text-gray-500 dark:text-gray-400"
-              aria-hidden="true"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 20 20"
+      <div className="flex justify-between gap-5 items-center mb-6">
+        <form
+          onSubmit={(e) => {
+            e.preventDefault();
+            handleSearch();
+          }}
+          className="flex flex-1 justify-center items-center"
+        >
+          <div className="relative w-full">
+            {/* Search Icon (non-clickable placeholder icon) */}
+            <div
+              onClick={handleSearch}
+              className="absolute cursor-pointer inset-y-0 start-0 flex items-center ps-3 "
             >
-              <path
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"
-              />
-            </svg>
-          </div>
+              <svg
+                className="w-4 h-4 text-gray-500 dark:text-gray-400"
+                aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 20 20"
+              >
+                <path
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"
+                />
+              </svg>
+            </div>
 
-          <input
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            type="search"
-            id="default-search"
-            className=" no-underline	 block w-full p-4 ps-10 text-sm text-gray-900 border border-gray-300 rounded-2 bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-            placeholder="Tìm kiếm mẫu thiết kế"
-            required
-          />
-          <button
-            onClick={handleSearch}
-            type="submit"
-            className="bg-accent  hocus:shadow text-white absolute end-2.5 bottom-2.5 bg-blue hover:bg-accent cursor-pointer focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-2 text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-          >
-            Search
-          </button>
-        </div>
-      </form>
+            {/* Input Field */}
+            <input
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              type="search"
+              id="default-search"
+              className="block w-full p-3 ps-10 text-sm text-gray-900 border border-gray-300 rounded-2 bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+              placeholder="Tìm kiếm mẫu thiết kế"
+              required
+            />
+          </div>
+        </form>
+
+        <ThemeCatDropdown />
+      </div>
 
       {currentItems.length ? (
         <ul>

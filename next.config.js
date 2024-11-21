@@ -44,14 +44,14 @@ const defaultNextConfig = {
     ignoreDuringBuilds: true,
   },
   experimental: {
-    ppr: true,
+    // ppr: true,
     // useLightningcss: true,
     // optimizePackageImports: ['react-tweet'],
   },
   compiler: {
-    removeConsole: {
-      exclude: ['error'],
-    },
+    // removeConsole: {
+    //   exclude: ['error'],
+    // },
   },
   sassOptions: {
     includePaths: [path.join(__dirname, 'src/styles')],
