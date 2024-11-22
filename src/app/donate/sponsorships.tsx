@@ -8,7 +8,6 @@ import Loading from '../loading';
 
 const Lists = async () => {
   const sponsors = await getSponsorsAndCategories();
-  console.log('sponsors :>> ', sponsors);
   return (
     <>
       <SponsorsList

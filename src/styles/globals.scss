@@ -34,3 +34,7 @@ html.template {
     }
   }
 }
+.dropdown-theme *:focus {
+  outline: 0px;
+  outline-offset: 0;
+}

@@ -26,8 +26,6 @@ export const ThemeItem = ({ project }: ThemeItemProps) => {
         className="flex align-middle"
       >
         <span className="min-w-5">
-
-
           <PjIcon className="mt-[5px]" name={project.icon} />
         </span>
 
@@ -49,6 +47,5 @@ export const ThemeItem = ({ project }: ThemeItemProps) => {
         </div>
       </ProjectLink>
     </>
-
   );
 };

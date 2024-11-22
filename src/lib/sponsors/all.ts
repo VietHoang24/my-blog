@@ -46,7 +46,6 @@ export const getSponsorsAndCategories = cache(
   async () => {
     const { members, oneTime: bmacOneTime } = await getBmacData();
     const { sponsors, oneTime: githubOneTime } = await getGitHubSponsors();
-    console.log('sponsors :>> ', sponsors);
     const allMonthly = getAllMonthlySponsors([...members, ...sponsors]);
 
     const totalEarningsPerMonth = allMonthly.reduce((p, c) => {

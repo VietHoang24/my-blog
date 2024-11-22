@@ -2,28 +2,35 @@
 
 import NoDataPage from '@/components/atoms/nodata';
 import Pagination from '@mui/material/Pagination';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { ThemeItem } from '.';
 import ThemeCatDropdown from '@/components/atoms/themeCatDropdown';
+import { themeCategories } from '@/constants/theme';
 
 const itemsPerPage = 20;
 
 const ThemeListItems = ({ themes }: any) => {
   const [page, setPage] = useState(1);
   const [search, setSearch] = useState('');
-  const [filteredThemes, setFilteredThemes] = useState(themes);
-
+  const [listCategoriesId, setListCategoriesId] = useState<number[]>([]);
   // Calculate the index range for the current page
   const startIndex = (page - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-  console.log('page', page);
-  // console.log('startIndex', startIndex)
-  // alert(`endIndex: ${endIndex}`)
-  // alert(`itemsPerPage: ${itemsPerPage}`)
-  // Slice the themes array to display the items for the current page
+  const categoryValues = themeCategories
+    .filter((category) => listCategoriesId.includes(category.id)) // Lọc các themeCategories theo id
+    .map((category) => category.value.split(',')); // Tách các giá trị trong `value`
+
+  const allValues = [].concat(...categoryValues);
+  const themesAfterFilterByCategory =
+    allValues.length > 0
+      ? themes.filter((theme: any) => allValues.includes(theme.repo))
+      : themes; // Trả về tất cả themes nếu allValues rỗng
+
+  const [filteredThemes, setFilteredThemes] = useState(
+    themesAfterFilterByCategory,
+  );
 
   const handleChange = (e: any, value: any) => {
-    console.log('e', e);
     setPage(value);
     window.scrollTo({
       top: 0,
@@ -31,20 +38,37 @@ const ThemeListItems = ({ themes }: any) => {
       behavior: 'instant', // or 'smooth' for smooth scrolling
     });
   };
+  const handleAddOrRemoveCategory = (id: number) => {
+    setListCategoriesId((prev: number[]) => {
+      if (!prev.includes(id)) {
+        // Nếu chưa có id trong mảng, thêm vào
+        return [...prev, id];
+      } else {
+        // Nếu đã có id trong mảng, xóa nó
+        return prev.filter((categoryId) => categoryId !== id);
+      }
+    });
+  };
+  useEffect(() => {
+    handleSearch();
+  }, [listCategoriesId]);
 
+  const handleClearFilter = () => {
+    setListCategoriesId([]);
+  };
   // Filter themes based on search input
   const handleSearch = () => {
     if (!search) {
-      setFilteredThemes(themes);
+      setFilteredThemes(themesAfterFilterByCategory);
       setPage(1);
 
       return;
     }
 
-    const filtered = themes
+    const filtered = themesAfterFilterByCategory
       .map((theme: any) => {
         // Split the search input into individual words
-        const searchWords = search.toLowerCase().split(' ').filter(Boolean);
+        const searchWords = search.toLowerCase().split(',').filter(Boolean);
 
         // Calculate the relevance score
         let score = 0;
@@ -111,7 +135,11 @@ const ThemeListItems = ({ themes }: any) => {
           </div>
         </form>
 
-        <ThemeCatDropdown />
+        <ThemeCatDropdown
+          handleClearFilter={handleClearFilter}
+          handleAddCategory={handleAddOrRemoveCategory}
+          listCategoriesId={listCategoriesId}
+        />
       </div>
 
       {currentItems.length ? (

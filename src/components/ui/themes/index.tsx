@@ -4,7 +4,6 @@ import { Section } from '@/components/atoms/section';
 import { themes as allProjects } from '@/content';
 import { getColoredTextClasses } from '@/utils/colored-text';
 import cx from '@/utils/cx';
-import { ThemeItem } from './item';
 import ThemeListItems from './item/themeListItem';
 
 
