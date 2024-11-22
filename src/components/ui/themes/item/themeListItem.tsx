@@ -20,7 +20,7 @@ const ThemeListItems = ({ themes }: any) => {
     .filter((category) => listCategoriesId.includes(category.id)) // Lọc các themeCategories theo id
     .map((category) => category.value.split(',')); // Tách các giá trị trong `value`
 
-  const allValues = [].concat(...(categoryValues as any));
+  const allValues: any = [].concat(...(categoryValues as any));
   const themesAfterFilterByCategory =
     allValues.length > 0
       ? themes.filter((theme: any) => allValues.includes(theme.repo))
