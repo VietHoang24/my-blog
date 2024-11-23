@@ -50,6 +50,7 @@ export const Meta = () => {
         content={THEME_COLOR_DARK}
       />
       <meta name={'view-transition'} content={'same-origin'} />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </>
   );
 };

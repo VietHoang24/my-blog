@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "bun download-themes && next telemetry disable && bun velite build && next build --no-lint",
+    "dev": "bun velite --watch & next dev",
+    "build": "bun download-themes && next telemetry disable && bun velite build && next build",
     "start": "next start",
     "lint": "next lint",
     "lint:format": "next lint && prettier --write",
