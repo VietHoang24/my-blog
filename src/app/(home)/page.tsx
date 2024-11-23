@@ -2,6 +2,7 @@ import { Intro } from '@/components/ui/home';
 import { ProjectsList } from '@/components/ui/projects';
 
 import { FeaturedBlogPosts } from './featured-posts';
+import { ThemesList } from '@/components/ui/themes';
 
 const jsonLd = JSON.stringify({
   '@context': 'https://schema.org',
@@ -22,7 +23,11 @@ export default function HomePage() {
     <>
       <Intro />
       <FeaturedBlogPosts />
+      <ThemesList title={'List of themes'} featuredOnly />
       <ProjectsList title={'Featured projects'} featuredOnly />
+      <script type={'application/ld+json'} suppressHydrationWarning>
+        {jsonLd}
+      </script>
       <script type={'application/ld+json'} suppressHydrationWarning>
         {jsonLd}
       </script>

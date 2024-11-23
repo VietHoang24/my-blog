@@ -13,7 +13,7 @@ export default async function Photo() {
           'overflow-hidden',
           '-mx-3 tablet-md:-mx-4',
         )}
-        style={{ aspectRatio: '21/9' }}
+        style={{ aspectRatio: '19/9' }}
       >
         <Img
           src={photo.src}

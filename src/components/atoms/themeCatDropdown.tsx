@@ -1,6 +1,7 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import { themes } from '@/content';
 import { themeCategories } from '@/constants/theme';
+import { useClickOutside } from '@/hooks/useClickOutside';
 
 const ThemeCatDropdown = ({
   handleAddCategory,
@@ -12,6 +13,8 @@ const ThemeCatDropdown = ({
   handleClearFilter: () => void;
 }) => {
   const [isOpen, setIsOpen] = useState(false);
+  const dropdownRef = useRef(null);
+  useClickOutside(dropdownRef, () => setIsOpen(false));
 
   const options = themeCategories;
   const handleClear = () => {
@@ -23,9 +26,9 @@ const ThemeCatDropdown = ({
       <button
         id="dropdownDefaultButton"
         onClick={() => setIsOpen(!isOpen)}
-        className="text-white cursor-pointer bg-accent h-full focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-2 text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+        className="text-white dark:text-black cursor-pointer bg-accent h-full focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-2 text-sm px-5 py-2.5 text-center inline-flex items-center"
         type="button"
-      >
+      > 
         Chủ đề
         <svg
           className="w-2.5 h-2.5 ms-3"
@@ -46,8 +49,9 @@ const ThemeCatDropdown = ({
       {/* Dropdown menu */}
       {isOpen && (
         <div
+          ref={dropdownRef}
           id="dropdownSearch"
-          className=" absolute left-[-130px] w-fit py-2 md:w-[300px] z-10 bg-white rounded-lg shadow dark:bg-gray-700"
+          className=" absolute left-[-130px] w-fit py-2 md:w-[450px] z-10 bg-white rounded-lg shadow dark:bg-brand-800"
         >
           <ul
             className="h-[400px] px-3 pb-3 overflow-y-auto text-sm text-gray-700 dark:text-gray-200"

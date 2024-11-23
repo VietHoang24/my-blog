@@ -32,7 +32,7 @@ export const ThemesList = (props: ProjectsListProps) => {
         {props.featuredOnly ? (
           <LinkButton
             title={'View all'}
-            href={'/projects'}
+            href={'/themes'}
             className={cx(
               'pr-3.5',
               'justify-center max-mobile-md:flex-1',
@@ -50,7 +50,10 @@ export const ThemesList = (props: ProjectsListProps) => {
           </LinkButton>
         ) : null}
       </div>
-      <ThemeListItems themes={filteredProjects} />
+      <ThemeListItems
+        themes={filteredProjects}
+        featuredOnly={props.featuredOnly}
+      />
     </Section>
   );
 };
