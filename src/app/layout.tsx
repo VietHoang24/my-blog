@@ -57,11 +57,17 @@ export default function RootLayout(props: PropsWithChildren) {
       <head>
         <Meta />
         <Script
-          src={'https://umami.jahir.dev/script.js'}
-          data-website-id={umamiWebsiteId}
-          data-domains={'jahir.dev'}
-          strategy={'lazyOnload'}
+          src={'https://www.googletagmanager.com/gtag/js?id=G-5E3VXQLCP4'}
+          strategy={'afterInteractive'}
         />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-5E3VXQLCP4');
+          `}
+        </Script>
       </head>
       <body>
         <Providers>
