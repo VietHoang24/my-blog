@@ -215,12 +215,12 @@
   repo: Wellness
 
 - order: 28
-  name: Lốp xe và cơ khí
-  description: Dịch vụ cung cấp lốp xe, linh kiện cơ khí và bảo dưỡng phương tiện chuyên nghiệp.
+  name: Máy Lọc không khí
+  description: Website bán máy lọc không khí.
   icon: FaCog
   url: http://lockhi3.mauthemewp.com
   color: "#696969"
-  repo: AutoParts
+  repo: Ecommerce
 
 - order: 29
   name: Bàn thờ và đồ thờ cúng

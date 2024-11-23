@@ -10,6 +10,7 @@ import { Providers } from '@/providers';
 import { Inter, Manrope } from '@/styles/fonts';
 import cx from '@/utils/cx';
 import { createMetadata } from '@/utils/metadata';
+import { Analytics } from '@vercel/analytics/react';
 
 import { Meta } from './meta';
 
@@ -64,6 +65,7 @@ export default function RootLayout(props: PropsWithChildren) {
       </head>
       <body>
         <Providers>
+          <Analytics />
           <Header />
           <Main>{props.children}</Main>
           <Footer />
