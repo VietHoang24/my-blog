@@ -1,8 +1,5 @@
 import '@/styles/globals.scss';
 
-import Script from 'next/script';
-import { type PropsWithChildren } from 'react';
-
 import { Main } from '@/components/atoms/main';
 import { Footer } from '@/components/molecules/footer';
 import { Header } from '@/components/molecules/header';
@@ -10,7 +7,10 @@ import { Providers } from '@/providers';
 import { Inter, Manrope } from '@/styles/fonts';
 import cx from '@/utils/cx';
 import { createMetadata } from '@/utils/metadata';
+import { GoogleAnalytics } from '@next/third-parties/google';
 import { Analytics } from '@vercel/analytics/react';
+import Script from 'next/script';
+import { type PropsWithChildren } from 'react';
 
 import { Meta } from './meta';
 
@@ -71,6 +71,7 @@ export default function RootLayout(props: PropsWithChildren) {
       </head>
       <body>
         <Providers>
+          <GoogleAnalytics gaId="G-5E3VXQLCP4" />
           <Analytics />
           <Header />
           <Main>{props.children}</Main>

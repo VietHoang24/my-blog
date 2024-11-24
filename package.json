@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "dev": "bun velite --watch & next dev",
+    "dev": "next dev",
     "build": "bun download-themes && next telemetry disable && bun velite build && next build",
     "start": "next start",
     "lint": "next lint",
@@ -17,6 +17,7 @@
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
     "@mui/material": "^6.1.8",
+    "@next/third-parties": "^15.0.3",
     "@vercel/analytics": "^1.4.1",
     "canvas-confetti": "^1.9.3",
     "next": "^14.3.0-canary.63",
